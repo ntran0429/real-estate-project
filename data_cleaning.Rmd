@@ -1,0 +1,48 @@
+---
+title: "migration project"
+output: html_document
+date: "2023-11-05"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readxl)
+library(tidyverse)
+```
+
+## Migration Flow in the US from 2017-2022 (excluding 2020)
+
+Retrieved 5 Excel workbook files from US Census.
+
+Files contain information about State-to-State migration flows for 5 years from 2017 to 2022, excluding 2022. Each file has some interesting information about the population reside in each state, number of people resided in different state one year ago, and number of people was abroad one year ago.
+
+This script is meant to aggregate these files into one csv file, ready for a map visual.
+
+## Cleaning steps
+
+1.  
+
+```{r}
+dat <- read_xlsx("./raw data/State_to_State_Migration_Table_2022_T13.xlsx",
+                 sheet = "transformation (2)",
+                 range = "A3:BH56",
+                 skip = 2)
+```
+
+```{r}
+dat[2,3]
+```
+
+```{r}
+library(dplyr)
+
+# Assuming your data frame is named 'df'
+filtered_df <- dat %>%
+  select_if(~ !any(. == "MOE"))
+
+# 'filtered_df' now contains the original data frame with columns having "MOE" as values removed.
+
+```
