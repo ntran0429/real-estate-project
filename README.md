@@ -1,2 +1,2 @@
-# migration-project
-Analysis of state-to-state migration in the US. Applicable in real estate, marketing, logistics, etc.
+# Introduction
+Analysis of the real estate market in the US. Applicable in real estate, marketing, logistics, etc.
