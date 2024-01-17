@@ -1,3 +1,5 @@
+IN PROGRESS...
+
 **PROJECT GOALS**: business level (recommend investing opportunities), consumer level (recommend states/cities to live based on personal preferences).
 
 ********CONTEXT:******** this report/dashboard serves as a guide for a foreign investor looking to invest into the US rental market
