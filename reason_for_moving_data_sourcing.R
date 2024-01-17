@@ -24,6 +24,9 @@ data <- my_extract_definition |>
 
 hist(data$WHYMOVE)
 
+
+
+
 # remove rows where WHYMOVE is 0 
 # and MIGSTA1 is not 91 or 99
 # delete columns that are not WHYMOVE and MIGSTA1
@@ -33,11 +36,16 @@ data_movers_only <- data |>
   select(YEAR, WHYMOVE, MIGSTA1)
 
 
+
 ggplot(data_movers_only, aes(x = WHYMOVE)) +
   geom_bar() +
   labs(title = "Reason for Moving to Another State",
-       x = "Reason Code",
+       x = "Reason",
        y = "Count")
+
+
+
+
 
 
 
@@ -49,18 +57,11 @@ table(data_movers_only$WHYMOVE)
 table(data_movers_only[data_movers_only$YEAR == 2022, ]$WHYMOVE)
 
 # now create proportion table
-prop.table(table(data_movers_only$WHYMOVE))
+prop.table(table(data_movers_only$WHYMOVE)) * 100
+
+# plot WHYMOVE by MIGSTA1
 
 
-
-# plot proportion table
-prop.table(table(data_movers_only$WHYMOVE)) |>
-  as.data.frame() |>
-  ggplot(aes(x = Var1, y = Freq)) +
-  geom_bar(stat = "identity") +
-  labs(title = "Reason for Moving to Another State",
-       x = "Reason Code",
-       y = "Proportion")
 
 
 # filter for MIGSTA1 == 1 and WHYMOVE == 1
@@ -69,3 +70,10 @@ prop.table(table(data_movers_only$WHYMOVE)) |>
 # data_movers_only |>
 #   filter(MIGSTA1 == 1) |>
 #   filter(WHYMOVE == 1)
+
+
+
+
+# export csv file
+write_csv(data, "./raw data/moving_reason_by_state_raw.csv")
+write_csv(data_movers_only, "./cleansed data/moving_reason_by_state.csv")
