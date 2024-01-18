@@ -9,17 +9,37 @@ my_extract_definition <- define_extract_cps(
   description = "reason for moving to another state extract", 
   samples = c("cps2017_03s", "cps2018_03s", 
             "cps2019_03s", "cps2020_03s", "cps2022_03s"), 
-  variables = c("WHYMOVE", "MIGSTA1"),
+  variables = c("WHYMOVE", "MIGSTA1", "MIGRATE1"),
   data_structure = "rectangular",
   data_format = "csv",
   case_select_who = "individuals"
 )
+
+# WHYMOVE - primary reason for moving, for people who lived in a different residence a year ago.
+# MIGRATE1 - Movers across various geographic boundaries--county, state, and country. 
+# MIGSTA1 - State of previous residence
+
+# In WHYMOVE, the codes relate to family, work, housing, education, climate, and health. 
+
+
 
 data <- my_extract_definition |>
   submit_extract() |>
   wait_for_extract() |>
   download_extract() |>
   read_ipums_micro()
+
+
+
+
+
+
+
+
+
+
+# general eda
+
 
 
 hist(data$WHYMOVE)
@@ -32,6 +52,7 @@ hist(data$WHYMOVE)
 # delete columns that are not WHYMOVE and MIGSTA1
 data_movers_only <- data |>
   filter(WHYMOVE != 0) |>
+  filter(MIGRATE1 == 5) |> 
   filter(!(MIGSTA1 == 91 | MIGSTA1 == 99)) |> 
   select(YEAR, WHYMOVE, MIGSTA1)
 
