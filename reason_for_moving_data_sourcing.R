@@ -7,8 +7,8 @@ set_ipums_api_key(api_key)
 
 my_extract_definition <- define_extract_cps(
   description = "reason for moving to another state extract", 
-  samples = c("cps2017_03s", "cps2018_03s", 
-            "cps2019_03s", "cps2020_03s", "cps2022_03s"), 
+  samples = c("cps2017_03s", "cps2018_03s", "cps2019_03s"
+            , "cps2020_03s", "cps2022_03s", "cps2023_03s"), 
   variables = c("WHYMOVE", "MIGSTA1", "MIGRATE1"),
   data_structure = "rectangular",
   data_format = "csv",
@@ -31,7 +31,14 @@ data <- my_extract_definition |>
 
 
 
-
+# remove rows where WHYMOVE is 0 
+# and MIGSTA1 is not 91 or 99
+# delete columns that are not WHYMOVE and MIGSTA1
+data_movers_only <- data |>
+  filter(WHYMOVE != 0) |>
+  filter(MIGRATE1 == 5) |> 
+  filter(!(MIGSTA1 == 91 | MIGSTA1 == 99)) |> 
+  select(YEAR, WHYMOVE, MIGSTA1)
 
 
 
@@ -43,18 +50,6 @@ data <- my_extract_definition |>
 
 
 hist(data$WHYMOVE)
-
-
-
-
-# remove rows where WHYMOVE is 0 
-# and MIGSTA1 is not 91 or 99
-# delete columns that are not WHYMOVE and MIGSTA1
-data_movers_only <- data |>
-  filter(WHYMOVE != 0) |>
-  filter(MIGRATE1 == 5) |> 
-  filter(!(MIGSTA1 == 91 | MIGSTA1 == 99)) |> 
-  select(YEAR, WHYMOVE, MIGSTA1)
 
 
 
