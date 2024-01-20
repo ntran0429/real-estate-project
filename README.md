@@ -1,6 +1,6 @@
 ## PROGRESS MADE
 
-There will be a dashboard page with multiple other report pages to get into the details of the analysis.
+There will be a dashboard with multiple other report pages to get into the details of the analysis.
 Some of the report pages include Migration Trends, Housing Analysis, Quality of Life, Policy and Regulation, etc.
 
 I'm currently working on the Migration Trends page. Here is my work in progress: 
