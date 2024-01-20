@@ -3,7 +3,7 @@
 There will be a dashboard with multiple other report pages to get into the details of the analysis.
 Some of the report pages include Migration Trends, Housing Analysis, Quality of Life, Policy and Regulation, etc.
 
-I'm currently working on the Migration Trends page. Here is my work in progress: 
+I'm currently working on the Migration Trends page. Here's my work in progress: 
 
 ![11924-migration-trends-in-progress](https://github.com/ntran0429/real-estate-project/assets/50929072/c66cfcdc-251c-4e79-861d-202fcf6fd4f8)
 
