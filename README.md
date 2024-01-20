@@ -25,7 +25,7 @@ I'm currently working on the Migration Trends page. Here is my work in progress:
 ## INVESTOR'S REQUIREMENTS
 
 - fund: $500,000 cash
-- ideal states: none
+- ideal states: no particular preference
 - property types: any
 - investment strategies: long-term, mid-term, short-term, house hacking
 - define the best state(s): cashflow (cash on cash return) and property quality
