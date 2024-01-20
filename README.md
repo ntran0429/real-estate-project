@@ -18,7 +18,7 @@ I'm currently working on the Migration Trends page. Here's my work in progress:
 - normalizing data
 - managing data model
 - interpreting a visual for any particular filter combination on a report page
-- generate insights vs general data observation
+- generating insights vs general data observations
 - getting weighted estimates instead of sample survey data
 
 
