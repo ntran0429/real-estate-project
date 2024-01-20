@@ -11,6 +11,16 @@ I'm currently working on the Migration Trends page. Here is my work in progress:
 
 **CONTEXT:** this report/dashboard serves as a guide for a foreign investor looking to invest into the US rental market
 
+**problems encountered:**
+
+- configure correct mapping
+- data normalization
+- managing data model
+- interpreting a visual for any particular filter combination on a report page
+- generate insights vs general data observation
+- getting weighted estimates instead of sample survey data
+
+
 ## INVESTOR'S REQUIREMENTS
 
 - fund: $500,000 cash
@@ -63,16 +73,6 @@ here is how they have performed (well) during the past 5 years ………..
 and here are the reasons why we think they will continue doing so ………..
 
 we also note that this specific state […] has potential to become the next top inbound state for next 5 years
-
-**problems encountered**
-
-- configure correct mapping
-- data normalization
-- managing data model
-- interpreting a visual for any particular filter combination on a report page
-- generate insights vs general data observation
-- getting weighted estimates instead of sample survey data
-
 
 
 
