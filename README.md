@@ -14,8 +14,8 @@ I'm currently working on the Migration Trends page. Here is my work in progress:
 
 **problems encountered:**
 
-- configure correct mapping
-- data normalization
+- configuring correct mapping
+- normalizing data
 - managing data model
 - interpreting a visual for any particular filter combination on a report page
 - generate insights vs general data observation
