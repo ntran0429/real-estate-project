@@ -123,7 +123,7 @@ movers_weighted$MIGSTA1 <- as_factor(movers_weighted$MIGSTA1)
 
 
 # export csv file
-write_csv(data, "./raw data/moving_reason_by_state_raw.csv")
-write_csv(data_movers_only, "./cleansed data/moving_reason_by_state.csv")
-write_csv(movers_weighted, "./cleansed data/moving_reason_by_state_weighted.csv")
+write_csv(data, "../raw data/moving_reason_by_state_raw.csv")
+write_csv(data_movers_only, "../cleansed data/moving_reason_by_state.csv")
+write_csv(movers_weighted, "../cleansed data/moving_reason_by_state_weighted.csv")
 
