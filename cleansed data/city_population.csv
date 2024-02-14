@@ -1,0 +1,276 @@
+City,State,Population
+Huntsville,Alabama,215006
+Anchorage,Alaska,291538
+Tafuna,American Samoa,"7,945[4]"
+Phoenix,Arizona,1660272
+Little Rock,Arkansas,202591
+Los Angeles,California,3997984
+Denver,Colorado,719238
+Bridgeport,Connecticut,148654
+Wilmington,Delaware,70635
+"Washington, D.C.",District of Columbia,702455
+Jacksonville,Florida,949611
+Atlanta,Georgia,498715
+Dededo,Guam,44943
+Honolulu1,Hawaii,347397
+Boise,Idaho,228790
+Chicago,Illinois,2705994
+Indianapolis,Indiana,867125
+Des Moines,Iowa,216853
+Wichita,Kansas,389225
+Louisville,Kentucky,620578
+New Orleans,Louisiana,399187
+Portland,Maine,66417
+Baltimore,Maryland,594282
+Boston,Massachusetts,699927
+Detroit,Michigan,672662
+Minneapolis,Minnesota,427728
+Jackson,Mississippi,164422
+Kansas City,Missouri,508090
+Billings,Montana,116827
+Omaha,Nebraska,468262
+Las Vegas,Nevada,649876
+Manchester,New Hampshire,112525
+Newark,New Jersey,282090
+Albuquerque,New Mexico,560218
+New York City,New York,8879928
+Charlotte,North Carolina,882367
+Fargo,North Dakota,124844
+Saipan2,Northern Mariana Islands,48220
+Columbus,Ohio,895477
+Oklahoma City,Oklahoma,649021
+Portland,Oregon,661189
+Philadelphia,Pennsylvania,1587828
+San Juan,Puerto Rico,320967
+Providence,Rhode Island,179335
+Charleston,South Carolina,150277
+Sioux Falls,South Dakota,181883
+Nashville,Tennessee,681928
+Houston,Texas,2325502
+Salt Lake City,Utah,200591
+Burlington,Vermont,44743
+Charlotte Amalie3,Virgin Islands (U.S.),18481
+Virginia Beach,Virginia,450189
+Seattle,Washington,754567
+Charleston,West Virginia,47215
+Milwaukee,Wisconsin,592025
+Cheyenne,Wyoming,63957
+Montgomery,Alabama,200603.0
+Juneau,Alaska,32197.0
+Nuʻuuli,American Samoa,3955.0
+Tucson,Arizona,545975.0
+Fayetteville,Arkansas,93949.0
+San Diego,California,1425976.0
+Colorado Springs,Colorado,483829.0
+Stamford,Connecticut,135470.0
+Dover,Delaware,38079.0
+Miami,Florida,467963.0
+Columbus,Georgia,206922.0
+Yigo,Guam,20539.0
+East Honolulu 1,Hawaii,49914.0
+Meridian,Idaho,106894.0
+Aurora,Illinois,198187.0
+Fort Wayne,Indiana,267633.0
+Cedar Rapids,Iowa,133174.0
+Overland Park,Kansas,197219.0
+Lexington,Kentucky,323780.0
+Baton Rouge,Louisiana,221599.0
+Lewiston,Maine,35944.0
+Columbia,Maryland,104156.0
+Worcester,Massachusetts,185877.0
+Grand Rapids,Michigan,200217.0
+Saint Paul,Minnesota,312818.0
+Gulfport,Mississippi,71870.0
+Saint Louis,Missouri,302838.0
+Missoula,Montana,74428.0
+Lincoln,Nebraska,287401.0
+Henderson,Nevada,317189.0
+Nashua,New Hampshire,89246.0
+Jersey City,New Jersey,265549.0
+Las Cruces,New Mexico,102926.0
+Buffalo,New York,278349.0
+Raleigh,North Carolina,478956.0
+Bismarck,North Dakota,73112.0
+Tinian2,Northern Mariana Islands,3136.0
+Cleveland,Ohio,382817.0
+Tulsa,Oklahoma,400669.0
+Salem,Oregon,173442.0
+Pittsburgh,Pennsylvania,301048.0
+Bayamón,Puerto Rico,170480.0
+Cranston,Rhode Island,81274.0
+Columbia,South Carolina,136632.0
+Rapid City,South Dakota,75443.0
+Memphis,Tennessee,650618.0
+San Antonio,Texas,1532233.0
+West Valley City,Utah,136401.0
+South Burlington,Vermont,20292.0
+Sion Farm3,Virgin Islands (U.S.),13003.0
+Norfolk,Virginia,244076.0
+Spokane,Washington,219190.0
+Huntington,West Virginia,46048.0
+Madison,Wisconsin,258054.0
+Casper,Wyoming,57461.0
+Birmingham,Alabama,197575.0
+Fairbanks,Alaska,31516.0
+Pago Pago,American Samoa,3656.0
+Mesa,Arizona,508958.0
+Fort Smith,Arkansas,89142.0
+San Jose,California,1030119.0
+Aurora,Colorado,374114.0
+New Haven,Connecticut,134023.0
+Newark,Delaware,33673.0
+Tampa,Florida,384959.0
+Augusta,Georgia,202081.0
+Tamuning,Guam,19685.0
+Pearl City1,Hawaii,47698.0
+Nampa,Idaho,96252.0
+Naperville,Illinois,148304.0
+Evansville,Indiana,117963.0
+Davenport,Iowa,102085.0
+Kansas City,Kansas,156607.0
+Bowling Green,Kentucky,68401.0
+Shreveport,Louisiana,185902.0
+Bangor,Maine,31997.0
+Germantown,Maryland,91347.0
+Springfield,Massachusetts,155032.0
+Warren,Michigan,134587.0
+Rochester,Minnesota,117902.0
+Southaven,Mississippi,54944.0
+Springfield,Missouri,168122.0
+Great Falls,Montana,58701.0
+Bellevue,Nebraska,53627.0
+Reno,Nevada,259746.0
+Concord,New Hampshire,43412.0
+Paterson,New Jersey,145627.0
+Rio Rancho,New Mexico,98023.0
+Yonkers,New York,211569.0
+Greensboro,North Carolina,298329.0
+Grand Forks,North Dakota,56948.0
+Rota2,Northern Mariana Islands,2527.0
+Cincinnati,Ohio,302605.0
+Norman,Oklahoma,123471.0
+Eugene,Oregon,171245.0
+Allentown,Pennsylvania,126238.0
+Carolina,Puerto Rico,147661.0
+Warwick,Rhode Island,80847.0
+North Charleston,South Carolina,114852.0
+Aberdeen,South Dakota,28562.0
+Knoxville,Tennessee,187500.0
+Dallas,Texas,1356785.0
+Provo,Utah,118178.0
+Colchester,Vermont,17524.0
+Northside3,Virgin Islands (U.S.),10049.0
+Chesapeake,Virginia,242634.0
+Tacoma,Washington,216279.0
+Morgantown,West Virginia,30955.0
+Green Bay,Wisconsin,108827.0
+Laramie,Wyoming,32473.0
+Mobile,Alabama,187041.0
+Wasilla,Alaska,10529.0
+'Ili'ili,American Samoa,3195.0
+Chandler,Arizona,257165.0
+Springdale,Arkansas,84161.0
+San Francisco,California,884198.0
+Fort Collins,Colorado,167830.0
+Hartford,Connecticut,121054.0
+Middletown,Delaware,22582.0
+Orlando,Florida,307573.0
+Macon,Georgia,157346.0
+Mangilao,Guam,15191.0
+Hilo1,Hawaii,43263.0
+Idaho Falls,Idaho,63398.0
+Joliet,Illinois,148099.0
+South Bend,Indiana,103290.0
+Sioux City,Iowa,82396.0
+Olathe,Kansas,139605.0
+Owensboro,Kentucky,59809.0
+Lafayette,Louisiana,126143.0
+South Portland,Maine,25606.0
+Silver Spring,Maryland,83267.0
+Cambridge,Massachusetts,118977.0
+Sterling Heights,Michigan,132964.0
+Duluth,Minnesota,85884.0
+Biloxi,Mississippi,45968.0
+Columbia,Missouri,123180.0
+Bozeman,Montana,48532.0
+Grand Island,Nebraska,51478.0
+North Las Vegas,Nevada,246133.0
+Dover,New Hampshire,31771.0
+Elizabeth,New Jersey,128885.0
+Santa Fe,New Mexico,94528.0
+Rochester,New York,211328.0
+Durham,North Carolina,278547.0
+Minot,North Dakota,47340.0
+Northern Islands2,Northern Mariana Islands,0.0
+Toledo,Ohio,273782.0
+Broken Arrow,Oklahoma,109471.0
+Gresham,Oregon,110158.0
+Erie,Pennsylvania,96471.0
+Ponce,Puerto Rico,133191.0
+Pawtucket,Rhode Island,71847.0
+Mount Pleasant,South Carolina,90801.0
+Brookings,South Dakota,24509.0
+Chattanooga,Tennessee,180557.0
+Austin,Texas,993649.0
+West Jordan,Utah,116046.0
+Rutland,Vermont,15807.0
+East End3,Virgin Islands (U.S.),5128.0
+Richmond,Virginia,228783.0
+Vancouver,Washington,183012.0
+Parkersburg,West Virginia,29675.0
+Kenosha,Wisconsin,100164.0
+Gillette,Wyoming,31903.0
+Tuscaloosa,Alabama,"99,600[2]"
+Sitka,Alaska,8647
+Pava'ia'i,American Samoa,2450
+Scottsdale,Arizona,255310
+Jonesboro,Arkansas,78576
+Fresno,California,530093
+Lakewood,Colorado,156798
+Waterbury,Connecticut,114403
+Smyrna,Delaware,11580
+St. Petersburg,Florida,258308
+Savannah,Georgia,147780
+Barrigada,Guam,8875
+Kailua1,Hawaii,38635
+Caldwell,Idaho,56541
+Rockford,Illinois,146526
+Carmel,Indiana,99329
+Iowa City,Iowa,76290
+Topeka,Kansas,125904
+Covington,Kentucky,40366
+Lake Charles,Louisiana,78001
+Auburn,Maine,23196
+Waldorf,Maryland,78904
+Lowell,Massachusetts,111670
+Ann Arbor,Michigan,121890
+Bloomington,Minnesota,85578
+Hattiesburg,Mississippi,45951
+Independence,Missouri,116925
+Butte,Montana,34284
+Kearney,Nebraska,33761
+Paradise,Nevada,219178
+Rochester,New Hampshire,31366
+Edison,New Jersey,100008
+Roswell,New Mexico,47635
+Syracuse,New York,148620
+Winston-Salem,North Carolina,248232
+West Fargo,North Dakota,36566
+Akron,Ohio,198006
+Edmond,Oklahoma,93127
+Hillsboro,Oregon,108389
+Reading,Pennsylvania,88495
+Caguas,Puerto Rico,124434
+East Providence,Rhode Island,47476
+Rock Hill,South Carolina,74372
+Watertown,South Dakota,22655
+Clarksville,Tennessee,163648
+Fort Worth,Texas,902938
+Orem,Utah,97521
+Bennington,Vermont,15333
+Southcentral3,Virgin Islands (U.S.),3277
+Arlington,Virginia,224906
+Bellevue,Washington,147599
+Wheeling,West Virginia,26771
+Racine,Wisconsin,77432
+Rock Springs,Wyoming,23082

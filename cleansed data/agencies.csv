@@ -1,0 +1,233 @@
+ori,agency_name,state_name,agency_type_name
+AL0470100,Huntsville,Alabama,City
+AK0010100,Anchorage,Alaska,Municipality
+AZ0072300,Phoenix,Arizona,City
+AR0600200,Little Rock,Arkansas,City
+CA0194200,Los Angeles,California,City
+CODPD0000,Denver,Colorado,City
+CT0001500,Bridgeport,Connecticut,City
+DE0020600,Wilmington,Delaware,City
+DCMPD0000,Washington,District of Columbia,City
+FL0160200,Jacksonville,Florida,City
+GAAPD0000,Atlanta,Georgia,City
+HI0020000,Honolulu,Hawaii,City
+ID0010100,Boise,Idaho,City
+ILCPD0000,Chicago,Illinois,City
+INIPD0000,Indianapolis,Indiana,City
+IA0770300,Des Moines,Iowa,City
+KS0870300,Wichita,Kansas,City
+KY0568000,Louisville,Kentucky,City
+LANPD0000,New Orleans,Louisiana,Parish
+ME0030500,Portland,Maine,City
+MDBPD0000,Baltimore,Maryland,City
+MA0130100,Boston,Massachusetts,City
+MI8234900,Detroit,Michigan,City
+MN0271100,Minneapolis,Minnesota,City
+MS0250100,Jackson,Mississippi,City
+MOKPD0000,Kansas City,Missouri,City
+MT0560100,Billings,Montana,City
+NB0280200,Omaha,Nebraska,City
+NV0020100,Las Vegas,Nevada,City
+NH0063400,Manchester,New Hampshire,City
+NJNPD0000,Newark,New Jersey,City
+NM0010100,Albuquerque,New Mexico,City
+NY0303000,New York City,New York,City
+ND0090200,Fargo,North Dakota,City
+OHCOP0000,Columbus,Ohio,City
+OK0550600,Oklahoma City,Oklahoma,City
+OR0260200,Portland,Oregon,City
+PAPEP0000,Philadelphia,Pennsylvania,City
+RI0040900,Providence,Rhode Island,City
+SC0100100,Charleston,South Carolina,City
+SD0490200,Sioux Falls,South Dakota,City
+TN0190100,Nashville,Tennessee,City
+TXHPD0000,Houston,Texas,City
+UT0180300,Salt Lake City,Utah,City
+VT0040100,Burlington,Vermont,City
+VA1280000,Virginia Beach,Virginia,City
+WASPD0000,Seattle,Washington,City
+WV0200200,Charleston,West Virginia,City
+WIMPD0000,Milwaukee,Wisconsin,City
+WY0110100,Cheyenne,Wyoming,City
+AL0030100,Montgomery,Alabama,City
+AK0010300,Juneau,Alaska,City and Borough
+AZ0100300,Tucson,Arizona,City
+AR0720100,Fayetteville,Arkansas,City
+CA0371100,San Diego,California,City
+CO0210100,Colorado Springs,Colorado,City
+CT0013500,Stamford,Connecticut,City
+DE0010100,Dover,Delaware,City
+FL0130600,Miami,Florida,City
+GA1060100,Columbus,Georgia,City
+ID0010300,Meridian,Idaho,City
+IL0450100,Aurora,Illinois,City
+IN0020100,Fort Wayne,Indiana,City
+IA0570100,Cedar Rapids,Iowa,City
+KS0460600,Overland Park,Kansas,City
+KY0340200,Lexington,Kentucky,City
+LA0170200,Baton Rouge,Louisiana,Parish
+ME0010200,Lewiston,Maine,City
+MA0146000,Worcester,Massachusetts,City
+MI4143600,Grand Rapids,Michigan,City
+MS0240200,Gulfport,Mississippi,City
+MT0320100,Missoula,Montana,City
+NB0550100,Lincoln,Nebraska,City
+NV0020300,Henderson,Nevada,City
+NH0064600,Nashua,New Hampshire,City
+NJ0090600,Jersey City,New Jersey,City
+NM0070100,Las Cruces,New Mexico,City
+NY0140100,Buffalo,New York,City
+NC0920100,Raleigh,North Carolina,City
+ND0080100,Bismarck,North Dakota,City
+OHCLP0000,Cleveland,Ohio,City
+OK0720500,Tulsa,Oklahoma,City
+OR0240200,Salem,Oregon,City
+PAPPD0000,Pittsburgh,Pennsylvania,City
+RI0040200,Cranston,Rhode Island,City
+SC0400100,Columbia,South Carolina,City
+SD0510100,Rapid City,South Dakota,City
+TNMPD0000,Memphis,Tennessee,City
+TXSPD0000,San Antonio,Texas,City
+VT0040300,South Burlington,Vermont,City
+VA1170000,Norfolk,Virginia,City
+WA0320400,Spokane,Washington,City
+WV0060200,Huntington,West Virginia,City
+WI0130100,Madison,Wisconsin,City
+WY0130100,Casper,Wyoming,City
+AL0010200,Birmingham,Alabama,City
+AK0010200,Fairbanks,Alaska,Borough
+AZ0071700,Mesa,Arizona,City
+AR0660100,Fort Smith,Arkansas,City
+CA0431300,San Jose,California,City
+CO0010100,Aurora,Colorado,City
+CT0009300,New Haven,Connecticut,City
+DE0020500,Newark,Delaware,City
+FL0290200,Tampa,Florida,City
+ID0140200,Nampa,Idaho,City
+IL0221400,Naperville,Illinois,City
+IN0820100,Evansville,Indiana,City
+IA0820200,Davenport,Iowa,City
+KS1050200,Kansas City,Kansas,City
+KY1140100,Bowling Green,Kentucky,City
+LA0090100,Shreveport,Louisiana,Parish
+ME0100100,Bangor,Maine,City
+MA0071800,Springfield,Massachusetts,City
+MI5080600,Warren,Michigan,City
+MN0550100,Rochester,Minnesota,City
+MS0170100,Southaven,Mississippi,City
+MO0390300,Springfield,Missouri,City
+MT0070100,Great Falls,Montana,City
+NB0770100,Bellevue,Nebraska,City
+NV0160100,Reno,Nevada,City
+NH0071600,Concord,New Hampshire,City
+NJ0160800,Paterson,New Jersey,City
+NM0230600,Rio Rancho,New Mexico,City
+NY0590700,Yonkers,New York,City
+NC0410200,Greensboro,North Carolina,City
+ND0180100,Grand Forks,North Dakota,City
+OHCIP0000,Cincinnati,Ohio,City
+OK0140200,Norman,Oklahoma,City
+OR0200200,Eugene,Oregon,City
+PA0390100,Allentown,Pennsylvania,City
+RI0020300,Warwick,Rhode Island,City
+SC0100800,North Charleston,South Carolina,City
+SD0060100,Aberdeen,South Dakota,City
+TN0470100,Knoxville,Tennessee,City
+TXDPD0000,Dallas,Texas,City
+UT0250600,Provo,Utah,City
+VT0040500,Colchester,Vermont,City
+VA1030000,Chesapeake,Virginia,City
+WA0270300,Tacoma,Washington,City
+WV0310100,Morgantown,West Virginia,City
+WI0050200,Green Bay,Wisconsin,City
+WY0010100,Laramie,Wyoming,City
+AL0020100,Mobile,Alabama,City
+AK0015600,Wasilla,Alaska,Borough
+AZ0070500,Chandler,Arizona,City
+AR0720200,Springdale,Arkansas,City
+CA0380100,San Francisco,California,City
+CO0350300,Fort Collins,Colorado,City
+CT0006400,Hartford,Connecticut,City
+DE0020200,Middletown,Delaware,City
+FL0480400,Orlando,Florida,City
+ID0100200,Idaho Falls,Idaho,City
+IL0990700,Joliet,Illinois,City
+IN0710200,South Bend,Indiana,City
+IA0970100,Sioux City,Iowa,City
+KS0460500,Olathe,Kansas,City
+KY0300100,Owensboro,Kentucky,City
+LA0280300,Lafayette,Louisiana,Parish
+ME0030600,South Portland,Maine,City
+MA0091100,Cambridge,Massachusetts,City
+MI5076500,Sterling Heights,Michigan,City
+MN0690600,Duluth,Minnesota,City
+MS0240100,Biloxi,Mississippi,City
+MO0100200,Columbia,Missouri,City
+MT0160100,Bozeman,Montana,City
+NB0400100,Grand Island,Nebraska,City
+NV0020200,North Las Vegas,Nevada,City
+NH0090400,Dover,New Hampshire,City
+NJ0200400,Elizabeth,New Jersey,City
+NM0260100,Santa Fe,New Mexico,City
+NY0270100,Rochester,New York,City
+NC0320100,Durham,North Carolina,City
+ND0510200,Minot,North Dakota,City
+OH0480700,Toledo,Ohio,City
+OK0720100,Broken Arrow,Oklahoma,City
+OR0260100,Gresham,Oregon,City
+PA0250200,Erie,Pennsylvania,City
+RI0040800,Pawtucket,Rhode Island,City
+SC0100300,Mount Pleasant,South Carolina,City
+SD0050100,Brookings,South Dakota,City
+TN0330100,Chattanooga,Tennessee,City
+TX2270100,Austin,Texas,City
+UT0180600,West Jordan,Utah,City
+VT0110200,Rutland,Vermont,City
+VA1220000,Richmond,Virginia,City
+WA0060300,Vancouver,Washington,City
+WV0540100,Parkersburg,West Virginia,City
+WI0300100,Kenosha,Wisconsin,City
+WY0030100,Gillette,Wyoming,City
+AL0630100,Tuscaloosa,Alabama,City
+AK0010900,Sitka,Alaska,City and Borough
+AZ0072500,Scottsdale,Arizona,City
+AR0160100,Jonesboro,Arkansas,City
+CA0100500,Fresno,California,City
+CO0300400,Lakewood,Colorado,City
+CT0015100,Waterbury,Connecticut,City
+DE0010300,Smyrna,Delaware,City
+FL0521400,St. Petersburg,Florida,City
+ID0140100,Caldwell,Idaho,City
+IL1010400,Rockford,Illinois,City
+IN0290100,Carmel,Indiana,City
+IA0520200,Iowa City,Iowa,City
+KS0890100,Topeka,Kansas,City
+KY0590100,Covington,Kentucky,City
+LA0100200,Lake Charles,Louisiana,Parish
+ME0010100,Auburn,Maine,City
+MA0092600,Lowell,Massachusetts,City
+MI8121800,Ann Arbor,Michigan,City
+MN0270100,Bloomington,Minnesota,City
+MS0180100,Hattiesburg,Mississippi,City
+MO0480600,Independence,Missouri,City
+NB0100100,Kearney,Nebraska,City
+NH0092000,Rochester,New Hampshire,City
+NM0030100,Roswell,New Mexico,City
+NY0330100,Syracuse,New York,City
+NC0340200,Winston-Salem,North Carolina,City
+ND0090300,West Fargo,North Dakota,City
+OH0770100,Akron,Ohio,City
+OK0550300,Edmond,Oklahoma,City
+OR0340300,Hillsboro,Oregon,City
+PA0061400,Reading,Pennsylvania,City
+RI0040400,East Providence,Rhode Island,City
+SC0460300,Rock Hill,South Carolina,City
+SD0140100,Watertown,South Dakota,City
+TN0630100,Clarksville,Tennessee,City
+TX2201200,Fort Worth,Texas,City
+UT0250300,Orem,Utah,City
+VT0020100,Bennington,Vermont,City
+WA0170200,Bellevue,Washington,City
+WV0350100,Wheeling,West Virginia,City
+WI0520200,Racine,Wisconsin,City
+WY0190200,Rock Springs,Wyoming,City
