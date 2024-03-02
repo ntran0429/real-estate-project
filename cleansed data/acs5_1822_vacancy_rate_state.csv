@@ -1,0 +1,53 @@
+GEOID,NAME,vacancy_rate,moe
+01,Alabama,8.4,0.3
+02,Alaska,7.8,0.8
+04,Arizona,5,0.2
+05,Arkansas,6.9,0.4
+06,California,4,0.1
+08,Colorado,5.1,0.3
+09,Connecticut,4.7,0.2
+10,Delaware,4.9,0.5
+11,District of Columbia,7.2,0.6
+12,Florida,7.6,0.2
+13,Georgia,6.6,0.2
+15,Hawaii,7.8,0.5
+16,Idaho,3.7,0.4
+17,Illinois,5.6,0.2
+18,Indiana,5.9,0.3
+19,Iowa,6,0.3
+20,Kansas,7,0.4
+21,Kentucky,5.3,0.3
+22,Louisiana,7.9,0.3
+23,Maine,4.6,0.4
+24,Maryland,5.1,0.2
+25,Massachusetts,3.3,0.2
+26,Michigan,4.8,0.2
+27,Minnesota,4.8,0.3
+28,Mississippi,8.9,0.5
+29,Missouri,5.3,0.2
+30,Montana,6.2,0.7
+31,Nebraska,5.1,0.4
+32,Nevada,6.9,0.3
+33,New Hampshire,3.8,0.4
+34,New Jersey,3.9,0.1
+35,New Mexico,6.7,0.4
+36,New York,3.9,0.1
+37,North Carolina,6.9,0.2
+38,North Dakota,9.8,0.7
+39,Ohio,4.5,0.2
+40,Oklahoma,7.3,0.3
+41,Oregon,3.7,0.2
+42,Pennsylvania,4.9,0.2
+44,Rhode Island,4.8,0.5
+45,South Carolina,8.4,0.3
+46,South Dakota,6.4,0.6
+47,Tennessee,6.4,0.3
+48,Texas,7.4,0.1
+49,Utah,5.6,0.4
+50,Vermont,3.8,0.6
+51,Virginia,4.9,0.2
+53,Washington,4,0.2
+54,West Virginia,6.9,0.4
+55,Wisconsin,4.7,0.2
+56,Wyoming,9.1,0.9
+72,Puerto Rico,5.5,0.2

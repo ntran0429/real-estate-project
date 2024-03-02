@@ -1,0 +1,1956 @@
+year,NAME,vacancy_rate
+2017,"Abilene, TX Metro Area",6.9
+2017,"Aguadilla-Isabela, PR Metro Area",6.6
+2017,"Akron, OH Metro Area",2.8
+2017,"Albany, GA Metro Area",5.1
+2017,"Albany, OR Metro Area",8.7
+2017,"Albany-Schenectady-Troy, NY Metro Area",5.1
+2017,"Albuquerque, NM Metro Area",7.1
+2017,"Alexandria, LA Metro Area",8.8
+2017,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",5.2
+2017,"Altoona, PA Metro Area",3
+2017,"Amarillo, TX Metro Area",8.2
+2017,"Ames, IA Metro Area",3.2
+2017,"Anchorage, AK Metro Area",7.1
+2017,"Ann Arbor, MI Metro Area",5.1
+2017,"Anniston-Oxford-Jacksonville, AL Metro Area",3.7
+2017,"Appleton, WI Metro Area",3.1
+2017,"Arecibo, PR Metro Area",10.5
+2017,"Asheville, NC Metro Area",4.5
+2017,"Athens-Clarke County, GA Metro Area",6.2
+2017,"Atlanta-Sandy Springs-Roswell, GA Metro Area",6.1
+2017,"Atlantic City-Hammonton, NJ Metro Area",5.7
+2017,"Auburn-Opelika, AL Metro Area",9.3
+2017,"Augusta-Richmond County, GA-SC Metro Area",11.2
+2017,"Austin-Round Rock, TX Metro Area",7.6
+2017,"Bakersfield, CA Metro Area",5.3
+2017,"Baltimore-Columbia-Towson, MD Metro Area",6.1
+2017,"Bangor, ME Metro Area",9.1
+2017,"Barnstable Town, MA Metro Area",8.4
+2017,"Baton Rouge, LA Metro Area",7.3
+2017,"Battle Creek, MI Metro Area",7
+2017,"Bay City, MI Metro Area",5.7
+2017,"Beaumont-Port Arthur, TX Metro Area",4.6
+2017,"Beckley, WV Metro Area",11.2
+2017,"Bellingham, WA Metro Area",2.6
+2017,"Bend-Redmond, OR Metro Area",2.6
+2017,"Billings, MT Metro Area",5.5
+2017,"Binghamton, NY Metro Area",10
+2017,"Birmingham-Hoover, AL Metro Area",7.9
+2017,"Bismarck, ND Metro Area",10
+2017,"Blacksburg-Christiansburg-Radford, VA Metro Area",6.6
+2017,"Bloomington, IL Metro Area",11
+2017,"Bloomington, IN Metro Area",4.1
+2017,"Bloomsburg-Berwick, PA Metro Area",6.1
+2017,"Boise City, ID Metro Area",2.8
+2017,"Boston-Cambridge-Newton, MA-NH Metro Area",3.4
+2017,"Boulder, CO Metro Area",3.4
+2017,"Bowling Green, KY Metro Area",6.7
+2017,"Bremerton-Silverdale, WA Metro Area",3.5
+2017,"Bridgeport-Stamford-Norwalk, CT Metro Area",7.5
+2017,"Brownsville-Harlingen, TX Metro Area",8.5
+2017,"Brunswick, GA Metro Area",3.6
+2017,"Buffalo-Cheektowaga-Niagara Falls, NY Metro Area",4.8
+2017,"Burlington, NC Metro Area",6
+2017,"Burlington-South Burlington, VT Metro Area",1.6
+2017,"California-Lexington Park, MD Metro Area",1.7
+2017,"Canton-Massillon, OH Metro Area",1.4
+2017,"Cape Coral-Fort Myers, FL Metro Area",11.1
+2017,"Cape Girardeau, MO-IL Metro Area",7.4
+2017,"Carbondale-Marion, IL Metro Area",12.6
+2017,"Carson City, NV Metro Area",4.7
+2017,"Casper, WY Metro Area",13.7
+2017,"Cedar Rapids, IA Metro Area",11.5
+2017,"Chambersburg-Waynesboro, PA Metro Area",3.6
+2017,"Champaign-Urbana, IL Metro Area",12.8
+2017,"Charleston, WV Metro Area",10
+2017,"Charleston-North Charleston, SC Metro Area",6.9
+2017,"Charlotte-Concord-Gastonia, NC-SC Metro Area",6.1
+2017,"Charlottesville, VA Metro Area",1.9
+2017,"Chattanooga, TN-GA Metro Area",5.8
+2017,"Cheyenne, WY Metro Area",11.7
+2017,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",6.3
+2017,"Chico, CA Metro Area",7.6
+2017,"Cincinnati, OH-KY-IN Metro Area",5
+2017,"Clarksville, TN-KY Metro Area",8
+2017,"Cleveland, TN Metro Area",5.1
+2017,"Cleveland-Elyria, OH Metro Area",6.9
+2017,"Coeur d'Alene, ID Metro Area",4.2
+2017,"College Station-Bryan, TX Metro Area",11.4
+2017,"Colorado Springs, CO Metro Area",2.2
+2017,"Columbia, MO Metro Area",9.2
+2017,"Columbia, SC Metro Area",6.8
+2017,"Columbus, GA-AL Metro Area",8
+2017,"Columbus, IN Metro Area",14.5
+2017,"Columbus, OH Metro Area",6
+2017,"Corpus Christi, TX Metro Area",9.5
+2017,"Corvallis, OR Metro Area",4.8
+2017,"Crestview-Fort Walton Beach-Destin, FL Metro Area",18.5
+2017,"Cumberland, MD-WV Metro Area",12.8
+2017,"Dallas-Fort Worth-Arlington, TX Metro Area",7.2
+2017,"Dalton, GA Metro Area",11
+2017,"Danville, IL Metro Area",16.2
+2017,"Daphne-Fairhope-Foley, AL Metro Area",49.2
+2017,"Davenport-Moline-Rock Island, IA-IL Metro Area",13
+2017,"Dayton, OH Metro Area",5.4
+2017,"Decatur, AL Metro Area",7.2
+2017,"Decatur, IL Metro Area",11.2
+2017,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",4.7
+2017,"Denver-Aurora-Lakewood, CO Metro Area",5.2
+2017,"Des Moines-West Des Moines, IA Metro Area",6.8
+2017,"Detroit-Warren-Dearborn, MI Metro Area",4.9
+2017,"Dothan, AL Metro Area",10.3
+2017,"Dover, DE Metro Area",8.2
+2017,"Dubuque, IA Metro Area",9.9
+2017,"Duluth, MN-WI Metro Area",6.5
+2017,"Durham-Chapel Hill, NC Metro Area",5.9
+2017,"East Stroudsburg, PA Metro Area",6.6
+2017,"Eau Claire, WI Metro Area",6.7
+2017,"El Centro, CA Metro Area",0.3
+2017,"Elizabethtown-Fort Knox, KY Metro Area",3.4
+2017,"Elkhart-Goshen, IN Metro Area",5.4
+2017,"Elmira, NY Metro Area",12.9
+2017,"El Paso, TX Metro Area",10.8
+2017,"Enid, OK Metro Area",5.7
+2017,"Erie, PA Metro Area",9
+2017,"Eugene, OR Metro Area",2.5
+2017,"Evansville, IN-KY Metro Area",6
+2017,"Fairbanks, AK Metro Area",11.9
+2017,"Fargo, ND-MN Metro Area",7.6
+2017,"Farmington, NM Metro Area",8.4
+2017,"Fayetteville, NC Metro Area",6.6
+2017,"Fayetteville-Springdale-Rogers, AR-MO Metro Area",4.7
+2017,"Flagstaff, AZ Metro Area",6.7
+2017,"Flint, MI Metro Area",4.7
+2017,"Florence, SC Metro Area",9.6
+2017,"Florence-Muscle Shoals, AL Metro Area",9.4
+2017,"Fond du Lac, WI Metro Area",3
+2017,"Fort Collins, CO Metro Area",4.6
+2017,"Fort Smith, AR-OK Metro Area",7.5
+2017,"Fort Wayne, IN Metro Area",9
+2017,"Fresno, CA Metro Area",3.1
+2017,"Gadsden, AL Metro Area",9.5
+2017,"Gainesville, FL Metro Area",20.3
+2017,"Gainesville, GA Metro Area",9.2
+2017,"Gettysburg, PA Metro Area",1.6
+2017,"Glens Falls, NY Metro Area",9.5
+2017,"Goldsboro, NC Metro Area",5.7
+2017,"Grand Forks, ND-MN Metro Area",3.6
+2017,"Grand Island, NE Metro Area",6.3
+2017,"Grand Junction, CO Metro Area",1.6
+2017,"Grand Rapids-Wyoming, MI Metro Area",3.2
+2017,"Grants Pass, OR Metro Area",1.6
+2017,"Great Falls, MT Metro Area",7.3
+2017,"Greeley, CO Metro Area",6.2
+2017,"Green Bay, WI Metro Area",2.3
+2017,"Greensboro-High Point, NC Metro Area",6.1
+2017,"Greenville, NC Metro Area",4.3
+2017,"Greenville-Anderson-Mauldin, SC Metro Area",5.9
+2017,"Guayama, PR Metro Area",4.5
+2017,"Gulfport-Biloxi-Pascagoula, MS Metro Area",14
+2017,"Hagerstown-Martinsburg, MD-WV Metro Area",6.5
+2017,"Hammond, LA Metro Area",7.3
+2017,"Hanford-Corcoran, CA Metro Area",2.9
+2017,"Harrisburg-Carlisle, PA Metro Area",6.6
+2017,"Harrisonburg, VA Metro Area",5.2
+2017,"Hartford-West Hartford-East Hartford, CT Metro Area",6.3
+2017,"Hattiesburg, MS Metro Area",12.4
+2017,"Hickory-Lenoir-Morganton, NC Metro Area",6.6
+2017,"Hilton Head Island-Bluffton-Beaufort, SC Metro Area",10.2
+2017,"Hinesville, GA Metro Area",14
+2017,"Homosassa Springs, FL Metro Area",16.7
+2017,"Hot Springs, AR Metro Area",18.4
+2017,"Houma-Thibodaux, LA Metro Area",6.1
+2017,"Houston-The Woodlands-Sugar Land, TX Metro Area",9.7
+2017,"Huntington-Ashland, WV-KY-OH Metro Area",7.2
+2017,"Huntsville, AL Metro Area",6.6
+2017,"Idaho Falls, ID Metro Area",5.1
+2017,"Indianapolis-Carmel-Anderson, IN Metro Area",7.2
+2017,"Iowa City, IA Metro Area",4.4
+2017,"Ithaca, NY Metro Area",1.1
+2017,"Jackson, MI Metro Area",3.6
+2017,"Jackson, MS Metro Area",7.5
+2017,"Jackson, TN Metro Area",10.4
+2017,"Jacksonville, FL Metro Area",6.2
+2017,"Jacksonville, NC Metro Area",11.5
+2017,"Janesville-Beloit, WI Metro Area",3.6
+2017,"Jefferson City, MO Metro Area",8.1
+2017,"Johnson City, TN Metro Area",3
+2017,"Johnstown, PA Metro Area",9.5
+2017,"Jonesboro, AR Metro Area",3.9
+2017,"Joplin, MO Metro Area",1.9
+2017,"Kahului-Wailuku-Lahaina, HI Metro Area",28.3
+2017,"Kalamazoo-Portage, MI Metro Area",3.5
+2017,"Kankakee, IL Metro Area",8.8
+2017,"Kansas City, MO-KS Metro Area",5
+2017,"Kennewick-Richland, WA Metro Area",4.5
+2017,"Killeen-Temple, TX Metro Area",9.4
+2017,"Kingsport-Bristol-Bristol, TN-VA Metro Area",4.4
+2017,"Kingston, NY Metro Area",3.8
+2017,"Knoxville, TN Metro Area",5.6
+2017,"Kokomo, IN Metro Area",9.4
+2017,"La Crosse-Onalaska, WI-MN Metro Area",3.4
+2017,"Lafayette, LA Metro Area",8.8
+2017,"Lafayette-West Lafayette, IN Metro Area",4.1
+2017,"Lake Charles, LA Metro Area",10.6
+2017,"Lake Havasu City-Kingman, AZ Metro Area",5.2
+2017,"Lakeland-Winter Haven, FL Metro Area",5.2
+2017,"Lancaster, PA Metro Area",2.9
+2017,"Lansing-East Lansing, MI Metro Area",4.2
+2017,"Laredo, TX Metro Area",9.8
+2017,"Las Cruces, NM Metro Area",11.5
+2017,"Las Vegas-Henderson-Paradise, NV Metro Area",7.4
+2017,"Lawrence, KS Metro Area",7.6
+2017,"Lawton, OK Metro Area",8.7
+2017,"Lebanon, PA Metro Area",5.3
+2017,"Lewiston, ID-WA Metro Area",13.8
+2017,"Lewiston-Auburn, ME Metro Area",2.2
+2017,"Lexington-Fayette, KY Metro Area",3.9
+2017,"Lima, OH Metro Area",4.7
+2017,"Lincoln, NE Metro Area",5.8
+2017,"Little Rock-North Little Rock-Conway, AR Metro Area",11.6
+2017,"Logan, UT-ID Metro Area",1
+2017,"Longview, TX Metro Area",10.3
+2017,"Longview, WA Metro Area",0.4
+2017,"Los Angeles-Long Beach-Anaheim, CA Metro Area",3.2
+2017,"Louisville/Jefferson County, KY-IN Metro Area",6.8
+2017,"Lubbock, TX Metro Area",9.1
+2017,"Lynchburg, VA Metro Area",5.3
+2017,"Macon-Bibb County, GA Metro Area",6.9
+2017,"Madera, CA Metro Area",2.2
+2017,"Madison, WI Metro Area",4.3
+2017,"Manchester-Nashua, NH Metro Area",3
+2017,"Manhattan, KS Metro Area",10.7
+2017,"Mankato-North Mankato, MN Metro Area",8.1
+2017,"Mansfield, OH Metro Area",3.7
+2017,"Mayagüez, PR Metro Area",9.8
+2017,"McAllen-Edinburg-Mission, TX Metro Area",7.4
+2017,"Medford, OR Metro Area",1.6
+2017,"Memphis, TN-MS-AR Metro Area",8.8
+2017,"Merced, CA Metro Area",4.2
+2017,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",7.9
+2017,"Michigan City-La Porte, IN Metro Area",5.4
+2017,"Midland, MI Metro Area",9.6
+2017,"Midland, TX Metro Area",8.4
+2017,"Milwaukee-Waukesha-West Allis, WI Metro Area",6.5
+2017,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",3.4
+2017,"Missoula, MT Metro Area",3.8
+2017,"Mobile, AL Metro Area",9.4
+2017,"Modesto, CA Metro Area",1.9
+2017,"Monroe, LA Metro Area",11.5
+2017,"Monroe, MI Metro Area",3.9
+2017,"Montgomery, AL Metro Area",8.8
+2017,"Morgantown, WV Metro Area",6.6
+2017,"Morristown, TN Metro Area",5.2
+2017,"Mount Vernon-Anacortes, WA Metro Area",1.7
+2017,"Muncie, IN Metro Area",5.9
+2017,"Muskegon, MI Metro Area",4.6
+2017,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area",26.3
+2017,"Napa, CA Metro Area",4
+2017,"Naples-Immokalee-Marco Island, FL Metro Area",10.9
+2017,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",5.9
+2017,"New Bern, NC Metro Area",7.7
+2017,"New Haven-Milford, CT Metro Area",8.8
+2017,"New Orleans-Metairie, LA Metro Area",8.7
+2017,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",3.8
+2017,"Niles-Benton Harbor, MI Metro Area",3.5
+2017,"North Port-Sarasota-Bradenton, FL Metro Area",13.3
+2017,"Norwich-New London, CT Metro Area",2.8
+2017,"Ocala, FL Metro Area",9.8
+2017,"Ocean City, NJ Metro Area",34.4
+2017,"Odessa, TX Metro Area",5.5
+2017,"Ogden-Clearfield, UT Metro Area",5
+2017,"Oklahoma City, OK Metro Area",8.5
+2017,"Olympia-Tumwater, WA Metro Area",4.3
+2017,"Omaha-Council Bluffs, NE-IA Metro Area",6.7
+2017,"Orlando-Kissimmee-Sanford, FL Metro Area",9.2
+2017,"Oshkosh-Neenah, WI Metro Area",4.7
+2017,"Owensboro, KY Metro Area",5.2
+2017,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",2.5
+2017,"Palm Bay-Melbourne-Titusville, FL Metro Area",11.2
+2017,"Panama City, FL Metro Area",21.2
+2017,"Parkersburg-Vienna, WV Metro Area",4.6
+2017,"Pensacola-Ferry Pass-Brent, FL Metro Area",8.2
+2017,"Peoria, IL Metro Area",12.6
+2017,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",5.7
+2017,"Phoenix-Mesa-Scottsdale, AZ Metro Area",5.8
+2017,"Pine Bluff, AR Metro Area",8
+2017,"Pittsburgh, PA Metro Area",6.6
+2017,"Pittsfield, MA Metro Area",5.8
+2017,"Pocatello, ID Metro Area",7.2
+2017,"Ponce, PR Metro Area",6.4
+2017,"Portland-South Portland, ME Metro Area",7.4
+2017,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",3.3
+2017,"Port St. Lucie, FL Metro Area",12.5
+2017,"Prescott, AZ Metro Area",2.5
+2017,"Providence-Warwick, RI-MA Metro Area",4.9
+2017,"Provo-Orem, UT Metro Area",5.5
+2017,"Pueblo, CO Metro Area",2.4
+2017,"Punta Gorda, FL Metro Area",12.4
+2017,"Racine, WI Metro Area",3.9
+2017,"Raleigh, NC Metro Area",5
+2017,"Rapid City, SD Metro Area",4.8
+2017,"Reading, PA Metro Area",7.2
+2017,"Redding, CA Metro Area",3.8
+2017,"Reno, NV Metro Area",4.6
+2017,"Richmond, VA Metro Area",5.5
+2017,"Riverside-San Bernardino-Ontario, CA Metro Area",3.7
+2017,"Roanoke, VA Metro Area",8.9
+2017,"Rochester, MN Metro Area",5.4
+2017,"Rochester, NY Metro Area",5.5
+2017,"Rockford, IL Metro Area",5.7
+2017,"Rocky Mount, NC Metro Area",5.9
+2017,"Rome, GA Metro Area",6.7
+2017,"Sacramento--Roseville--Arden-Arcade, CA Metro Area",2.9
+2017,"Saginaw, MI Metro Area",4.6
+2017,"St. Cloud, MN Metro Area",0.9
+2017,"St. George, UT Metro Area",2.2
+2017,"St. Joseph, MO-KS Metro Area",11
+2017,"St. Louis, MO-IL Metro Area",6.4
+2017,"Salem, OR Metro Area",7.3
+2017,"Salinas, CA Metro Area",6.2
+2017,"Salisbury, MD-DE Metro Area",7.3
+2017,"Salt Lake City, UT Metro Area",5
+2017,"San Angelo, TX Metro Area",10.7
+2017,"San Antonio-New Braunfels, TX Metro Area",8.9
+2017,"San Diego-Carlsbad, CA Metro Area",3.5
+2017,"San Francisco-Oakland-Hayward, CA Metro Area",3.2
+2017,"San Germán, PR Metro Area",5.7
+2017,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",5.1
+2017,"San Juan-Carolina-Caguas, PR Metro Area",9.1
+2017,"San Luis Obispo-Paso Robles-Arroyo Grande, CA Metro Area",3.6
+2017,"Santa Cruz-Watsonville, CA Metro Area",2
+2017,"Santa Fe, NM Metro Area",5
+2017,"Santa Maria-Santa Barbara, CA Metro Area",1.9
+2017,"Santa Rosa, CA Metro Area",4.3
+2017,"Savannah, GA Metro Area",7.2
+2017,"Scranton--Wilkes-Barre--Hazleton, PA Metro Area",3.8
+2017,"Seattle-Tacoma-Bellevue, WA Metro Area",3.6
+2017,"Sebastian-Vero Beach, FL Metro Area",24.3
+2017,"Sebring, FL Metro Area",9.4
+2017,"Sheboygan, WI Metro Area",1.7
+2017,"Sherman-Denison, TX Metro Area",6.8
+2017,"Shreveport-Bossier City, LA Metro Area",8.6
+2017,"Sierra Vista-Douglas, AZ Metro Area",8.6
+2017,"Sioux City, IA-NE-SD Metro Area",3.5
+2017,"Sioux Falls, SD Metro Area",6.9
+2017,"South Bend-Mishawaka, IN-MI Metro Area",12.2
+2017,"Spartanburg, SC Metro Area",4.9
+2017,"Spokane-Spokane Valley, WA Metro Area",2.7
+2017,"Springfield, IL Metro Area",3.4
+2017,"Springfield, MA Metro Area",4.8
+2017,"Springfield, MO Metro Area",7.7
+2017,"Springfield, OH Metro Area",5.4
+2017,"State College, PA Metro Area",7
+2017,"Staunton-Waynesboro, VA Metro Area",6.2
+2017,"Stockton-Lodi, CA Metro Area",4.4
+2017,"Sumter, SC Metro Area",4.3
+2017,"Syracuse, NY Metro Area",7.4
+2017,"Tallahassee, FL Metro Area",7.6
+2017,"Tampa-St. Petersburg-Clearwater, FL Metro Area",7.3
+2017,"Terre Haute, IN Metro Area",5
+2017,"Texarkana, TX-AR Metro Area",4.4
+2017,"The Villages, FL Metro Area",46.6
+2017,"Toledo, OH Metro Area",6.1
+2017,"Topeka, KS Metro Area",7.9
+2017,"Trenton, NJ Metro Area",3.4
+2017,"Tucson, AZ Metro Area",6.2
+2017,"Tulsa, OK Metro Area",8.7
+2017,"Tuscaloosa, AL Metro Area",5.6
+2017,"Tyler, TX Metro Area",10
+2017,"Urban Honolulu, HI Metro Area",5.9
+2017,"Utica-Rome, NY Metro Area",8.6
+2017,"Valdosta, GA Metro Area",11.9
+2017,"Vallejo-Fairfield, CA Metro Area",3.4
+2017,"Victoria, TX Metro Area",12.7
+2017,"Vineland-Bridgeton, NJ Metro Area",2.9
+2017,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",9.3
+2017,"Visalia-Porterville, CA Metro Area",3.6
+2017,"Waco, TX Metro Area",5.7
+2017,"Walla Walla, WA Metro Area",4.6
+2017,"Warner Robins, GA Metro Area",8.2
+2017,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",5.4
+2017,"Waterloo-Cedar Falls, IA Metro Area",5.9
+2017,"Watertown-Fort Drum, NY Metro Area",8.1
+2017,"Wausau, WI Metro Area",4.8
+2017,"Weirton-Steubenville, WV-OH Metro Area",10.8
+2017,"Wenatchee, WA Metro Area",6.8
+2017,"Wheeling, WV-OH Metro Area",16.3
+2017,"Wichita, KS Metro Area",7.7
+2017,"Wichita Falls, TX Metro Area",11.7
+2017,"Williamsport, PA Metro Area",12.3
+2017,"Wilmington, NC Metro Area",5.5
+2017,"Winchester, VA-WV Metro Area",2.6
+2017,"Winston-Salem, NC Metro Area",9.4
+2017,"Worcester, MA-CT Metro Area",3.6
+2017,"Yakima, WA Metro Area",2.3
+2017,"York-Hanover, PA Metro Area",4.8
+2017,"Youngstown-Warren-Boardman, OH-PA Metro Area",4.1
+2017,"Yuba City, CA Metro Area",3.6
+2017,"Yuma, AZ Metro Area",5.8
+2018,"Abilene, TX Metro Area",5.5
+2018,"Aguadilla-Isabela, PR Metro Area",6.7
+2018,"Akron, OH Metro Area",5.5
+2018,"Albany, GA Metro Area",6.2
+2018,"Albany, OR Metro Area",5.2
+2018,"Albany-Schenectady-Troy, NY Metro Area",5.2
+2018,"Albuquerque, NM Metro Area",9.3
+2018,"Alexandria, LA Metro Area",7.3
+2018,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",4.6
+2018,"Altoona, PA Metro Area",7.3
+2018,"Amarillo, TX Metro Area",8.9
+2018,"Ames, IA Metro Area",9.9
+2018,"Anchorage, AK Metro Area",10.4
+2018,"Ann Arbor, MI Metro Area",3.5
+2018,"Anniston-Oxford-Jacksonville, AL Metro Area",7.3
+2018,"Appleton, WI Metro Area",2.7
+2018,"Arecibo, PR Metro Area",5.2
+2018,"Asheville, NC Metro Area",5.7
+2018,"Athens-Clarke County, GA Metro Area",2.3
+2018,"Atlanta-Sandy Springs-Roswell, GA Metro Area",6.9
+2018,"Atlantic City-Hammonton, NJ Metro Area",9
+2018,"Auburn-Opelika, AL Metro Area",11.5
+2018,"Augusta-Richmond County, GA-SC Metro Area",10.3
+2018,"Austin-Round Rock, TX Metro Area",6.6
+2018,"Bakersfield, CA Metro Area",5.1
+2018,"Baltimore-Columbia-Towson, MD Metro Area",7.9
+2018,"Bangor, ME Metro Area",8.4
+2018,"Barnstable Town, MA Metro Area",9.8
+2018,"Baton Rouge, LA Metro Area",10.6
+2018,"Battle Creek, MI Metro Area",10.3
+2018,"Bay City, MI Metro Area",2.8
+2018,"Beaumont-Port Arthur, TX Metro Area",4.7
+2018,"Beckley, WV Metro Area",7.1
+2018,"Bellingham, WA Metro Area",2.1
+2018,"Bend-Redmond, OR Metro Area",0.9
+2018,"Billings, MT Metro Area",8.1
+2018,"Binghamton, NY Metro Area",9.5
+2018,"Birmingham-Hoover, AL Metro Area",9.4
+2018,"Bismarck, ND Metro Area",5.4
+2018,"Blacksburg-Christiansburg-Radford, VA Metro Area",6.7
+2018,"Bloomington, IL Metro Area",9.6
+2018,"Bloomington, IN Metro Area",4.2
+2018,"Bloomsburg-Berwick, PA Metro Area",6.9
+2018,"Boise City, ID Metro Area",2
+2018,"Boston-Cambridge-Newton, MA-NH Metro Area",3.1
+2018,"Boulder, CO Metro Area",5.1
+2018,"Bowling Green, KY Metro Area",4.4
+2018,"Bremerton-Silverdale, WA Metro Area",4.9
+2018,"Bridgeport-Stamford-Norwalk, CT Metro Area",4.9
+2018,"Brownsville-Harlingen, TX Metro Area",8.7
+2018,"Brunswick, GA Metro Area",14.3
+2018,"Buffalo-Cheektowaga-Niagara Falls, NY Metro Area",5.9
+2018,"Burlington, NC Metro Area",5.8
+2018,"Burlington-South Burlington, VT Metro Area",3.9
+2018,"California-Lexington Park, MD Metro Area",9.4
+2018,"Canton-Massillon, OH Metro Area",4.3
+2018,"Cape Coral-Fort Myers, FL Metro Area",7.4
+2018,"Cape Girardeau, MO-IL Metro Area",12
+2018,"Carbondale-Marion, IL Metro Area",11
+2018,"Carson City, NV Metro Area",1.6
+2018,"Casper, WY Metro Area",17.3
+2018,"Cedar Rapids, IA Metro Area",6.6
+2018,"Chambersburg-Waynesboro, PA Metro Area",3
+2018,"Champaign-Urbana, IL Metro Area",10
+2018,"Charleston, WV Metro Area",6.5
+2018,"Charleston-North Charleston, SC Metro Area",8.2
+2018,"Charlotte-Concord-Gastonia, NC-SC Metro Area",7.7
+2018,"Charlottesville, VA Metro Area",3.5
+2018,"Chattanooga, TN-GA Metro Area",6.3
+2018,"Cheyenne, WY Metro Area",4.5
+2018,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",5.8
+2018,"Chico, CA Metro Area",7.7
+2018,"Cincinnati, OH-KY-IN Metro Area",4.4
+2018,"Clarksville, TN-KY Metro Area",8.9
+2018,"Cleveland, TN Metro Area",5.5
+2018,"Cleveland-Elyria, OH Metro Area",6.2
+2018,"Coeur d'Alene, ID Metro Area",0.4
+2018,"College Station-Bryan, TX Metro Area",11.6
+2018,"Colorado Springs, CO Metro Area",4.2
+2018,"Columbia, MO Metro Area",9.2
+2018,"Columbia, SC Metro Area",6.6
+2018,"Columbus, GA-AL Metro Area",8.6
+2018,"Columbus, IN Metro Area",6.6
+2018,"Columbus, OH Metro Area",4.6
+2018,"Corpus Christi, TX Metro Area",5.5
+2018,"Corvallis, OR Metro Area",5.6
+2018,"Crestview-Fort Walton Beach-Destin, FL Metro Area",24.1
+2018,"Cumberland, MD-WV Metro Area",7.3
+2018,"Dallas-Fort Worth-Arlington, TX Metro Area",8
+2018,"Dalton, GA Metro Area",7.3
+2018,"Danville, IL Metro Area",13
+2018,"Daphne-Fairhope-Foley, AL Metro Area",44.2
+2018,"Davenport-Moline-Rock Island, IA-IL Metro Area",8
+2018,"Dayton, OH Metro Area",5.6
+2018,"Decatur, AL Metro Area",7.1
+2018,"Decatur, IL Metro Area",5
+2018,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",6.4
+2018,"Denver-Aurora-Lakewood, CO Metro Area",4.8
+2018,"Des Moines-West Des Moines, IA Metro Area",6.2
+2018,"Detroit-Warren-Dearborn, MI Metro Area",4.4
+2018,"Dothan, AL Metro Area",13.2
+2018,"Dover, DE Metro Area",3.6
+2018,"Dubuque, IA Metro Area",8.8
+2018,"Duluth, MN-WI Metro Area",4.4
+2018,"Durham-Chapel Hill, NC Metro Area",6
+2018,"East Stroudsburg, PA Metro Area",2.2
+2018,"Eau Claire, WI Metro Area",5
+2018,"El Centro, CA Metro Area",9.8
+2018,"Elizabethtown-Fort Knox, KY Metro Area",8.2
+2018,"Elkhart-Goshen, IN Metro Area",5.3
+2018,"Elmira, NY Metro Area",5.6
+2018,"El Paso, TX Metro Area",9.5
+2018,"Enid, OK Metro Area",8.8
+2018,"Erie, PA Metro Area",8.5
+2018,"Eugene, OR Metro Area",2.1
+2018,"Evansville, IN-KY Metro Area",9.4
+2018,"Fairbanks, AK Metro Area",8.7
+2018,"Fargo, ND-MN Metro Area",12.9
+2018,"Farmington, NM Metro Area",8.6
+2018,"Fayetteville, NC Metro Area",7
+2018,"Fayetteville-Springdale-Rogers, AR-MO Metro Area",3.1
+2018,"Flagstaff, AZ Metro Area",13.8
+2018,"Flint, MI Metro Area",6.4
+2018,"Florence, SC Metro Area",11
+2018,"Florence-Muscle Shoals, AL Metro Area",5.4
+2018,"Fond du Lac, WI Metro Area",9.4
+2018,"Fort Collins, CO Metro Area",2.8
+2018,"Fort Smith, AR-OK Metro Area",5.5
+2018,"Fort Wayne, IN Metro Area",7.4
+2018,"Fresno, CA Metro Area",3.6
+2018,"Gadsden, AL Metro Area",5
+2018,"Gainesville, FL Metro Area",24
+2018,"Gainesville, GA Metro Area",6.5
+2018,"Gettysburg, PA Metro Area",4.8
+2018,"Glens Falls, NY Metro Area",2.2
+2018,"Goldsboro, NC Metro Area",5.1
+2018,"Grand Forks, ND-MN Metro Area",7.4
+2018,"Grand Island, NE Metro Area",3.7
+2018,"Grand Junction, CO Metro Area",2.2
+2018,"Grand Rapids-Wyoming, MI Metro Area",4
+2018,"Grants Pass, OR Metro Area",7.9
+2018,"Great Falls, MT Metro Area",4.5
+2018,"Greeley, CO Metro Area",4.6
+2018,"Green Bay, WI Metro Area",5.5
+2018,"Greensboro-High Point, NC Metro Area",4.4
+2018,"Greenville, NC Metro Area",9
+2018,"Greenville-Anderson-Mauldin, SC Metro Area",9.4
+2018,"Guayama, PR Metro Area",1.1
+2018,"Gulfport-Biloxi-Pascagoula, MS Metro Area",11.3
+2018,"Hagerstown-Martinsburg, MD-WV Metro Area",4.6
+2018,"Hammond, LA Metro Area",9.2
+2018,"Hanford-Corcoran, CA Metro Area",2.1
+2018,"Harrisburg-Carlisle, PA Metro Area",2.6
+2018,"Harrisonburg, VA Metro Area",2
+2018,"Hartford-West Hartford-East Hartford, CT Metro Area",6.8
+2018,"Hattiesburg, MS Metro Area",8.3
+2018,"Hickory-Lenoir-Morganton, NC Metro Area",6.3
+2018,"Hilton Head Island-Bluffton-Beaufort, SC Metro Area",12.3
+2018,"Hinesville, GA Metro Area",10.2
+2018,"Homosassa Springs, FL Metro Area",20.9
+2018,"Hot Springs, AR Metro Area",10.8
+2018,"Houma-Thibodaux, LA Metro Area",7.7
+2018,"Houston-The Woodlands-Sugar Land, TX Metro Area",9.5
+2018,"Huntington-Ashland, WV-KY-OH Metro Area",11.3
+2018,"Huntsville, AL Metro Area",3.8
+2018,"Idaho Falls, ID Metro Area",3.2
+2018,"Indianapolis-Carmel-Anderson, IN Metro Area",7.3
+2018,"Iowa City, IA Metro Area",4.6
+2018,"Ithaca, NY Metro Area",2.7
+2018,"Jackson, MI Metro Area",9
+2018,"Jackson, MS Metro Area",10
+2018,"Jackson, TN Metro Area",11.1
+2018,"Jacksonville, FL Metro Area",5.4
+2018,"Jacksonville, NC Metro Area",6.2
+2018,"Janesville-Beloit, WI Metro Area",5.5
+2018,"Jefferson City, MO Metro Area",8.2
+2018,"Johnson City, TN Metro Area",2.5
+2018,"Johnstown, PA Metro Area",3.8
+2018,"Jonesboro, AR Metro Area",1.8
+2018,"Joplin, MO Metro Area",2.5
+2018,"Kahului-Wailuku-Lahaina, HI Metro Area",34.5
+2018,"Kalamazoo-Portage, MI Metro Area",2.9
+2018,"Kankakee, IL Metro Area",12.4
+2018,"Kansas City, MO-KS Metro Area",5.5
+2018,"Kennewick-Richland, WA Metro Area",3.2
+2018,"Killeen-Temple, TX Metro Area",7.3
+2018,"Kingsport-Bristol-Bristol, TN-VA Metro Area",5.3
+2018,"Kingston, NY Metro Area",5.6
+2018,"Knoxville, TN Metro Area",6.7
+2018,"Kokomo, IN Metro Area",8.2
+2018,"La Crosse-Onalaska, WI-MN Metro Area",2.8
+2018,"Lafayette, LA Metro Area",6.9
+2018,"Lafayette-West Lafayette, IN Metro Area",3.9
+2018,"Lake Charles, LA Metro Area",9.2
+2018,"Lake Havasu City-Kingman, AZ Metro Area",3.2
+2018,"Lakeland-Winter Haven, FL Metro Area",6.7
+2018,"Lancaster, PA Metro Area",2.7
+2018,"Lansing-East Lansing, MI Metro Area",4.6
+2018,"Laredo, TX Metro Area",6.5
+2018,"Las Cruces, NM Metro Area",6
+2018,"Las Vegas-Henderson-Paradise, NV Metro Area",9.9
+2018,"Lawrence, KS Metro Area",2.7
+2018,"Lawton, OK Metro Area",12.1
+2018,"Lebanon, PA Metro Area",4.9
+2018,"Lewiston, ID-WA Metro Area",6.9
+2018,"Lewiston-Auburn, ME Metro Area",3.3
+2018,"Lexington-Fayette, KY Metro Area",4.8
+2018,"Lima, OH Metro Area",5
+2018,"Lincoln, NE Metro Area",5
+2018,"Little Rock-North Little Rock-Conway, AR Metro Area",12.3
+2018,"Logan, UT-ID Metro Area",5.8
+2018,"Longview, TX Metro Area",9.4
+2018,"Longview, WA Metro Area",0
+2018,"Los Angeles-Long Beach-Anaheim, CA Metro Area",3.9
+2018,"Louisville/Jefferson County, KY-IN Metro Area",7.3
+2018,"Lubbock, TX Metro Area",10
+2018,"Lynchburg, VA Metro Area",3.5
+2018,"Macon-Bibb County, GA Metro Area",7.8
+2018,"Madera, CA Metro Area",5.4
+2018,"Madison, WI Metro Area",5
+2018,"Manchester-Nashua, NH Metro Area",2.4
+2018,"Manhattan, KS Metro Area",8
+2018,"Mankato-North Mankato, MN Metro Area",8
+2018,"Mansfield, OH Metro Area",2.8
+2018,"Mayagüez, PR Metro Area",6.2
+2018,"McAllen-Edinburg-Mission, TX Metro Area",10.7
+2018,"Medford, OR Metro Area",3.3
+2018,"Memphis, TN-MS-AR Metro Area",8.7
+2018,"Merced, CA Metro Area",2.9
+2018,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",7.1
+2018,"Michigan City-La Porte, IN Metro Area",5.7
+2018,"Midland, MI Metro Area",0.4
+2018,"Midland, TX Metro Area",2.1
+2018,"Milwaukee-Waukesha-West Allis, WI Metro Area",5.8
+2018,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",4.1
+2018,"Missoula, MT Metro Area",5
+2018,"Mobile, AL Metro Area",4.7
+2018,"Modesto, CA Metro Area",2.5
+2018,"Monroe, LA Metro Area",11.6
+2018,"Monroe, MI Metro Area",2.4
+2018,"Montgomery, AL Metro Area",8.1
+2018,"Morgantown, WV Metro Area",4.9
+2018,"Morristown, TN Metro Area",4
+2018,"Mount Vernon-Anacortes, WA Metro Area",0.9
+2018,"Muncie, IN Metro Area",6.7
+2018,"Muskegon, MI Metro Area",6
+2018,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area",29.3
+2018,"Napa, CA Metro Area",3.1
+2018,"Naples-Immokalee-Marco Island, FL Metro Area",7.7
+2018,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",7.8
+2018,"New Bern, NC Metro Area",5
+2018,"New Haven-Milford, CT Metro Area",5.8
+2018,"New Orleans-Metairie, LA Metro Area",7.5
+2018,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",3.5
+2018,"Niles-Benton Harbor, MI Metro Area",4.7
+2018,"North Port-Sarasota-Bradenton, FL Metro Area",11.8
+2018,"Norwich-New London, CT Metro Area",5
+2018,"Ocala, FL Metro Area",7.9
+2018,"Ocean City, NJ Metro Area",37.9
+2018,"Odessa, TX Metro Area",2.8
+2018,"Ogden-Clearfield, UT Metro Area",4
+2018,"Oklahoma City, OK Metro Area",8
+2018,"Olympia-Tumwater, WA Metro Area",4.2
+2018,"Omaha-Council Bluffs, NE-IA Metro Area",6.1
+2018,"Orlando-Kissimmee-Sanford, FL Metro Area",8.2
+2018,"Oshkosh-Neenah, WI Metro Area",5.5
+2018,"Owensboro, KY Metro Area",7.5
+2018,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",4.2
+2018,"Palm Bay-Melbourne-Titusville, FL Metro Area",11.5
+2018,"Panama City, FL Metro Area",10.4
+2018,"Parkersburg-Vienna, WV Metro Area",7.1
+2018,"Pensacola-Ferry Pass-Brent, FL Metro Area",12.5
+2018,"Peoria, IL Metro Area",7.3
+2018,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",5.8
+2018,"Phoenix-Mesa-Scottsdale, AZ Metro Area",5.2
+2018,"Pine Bluff, AR Metro Area",8.7
+2018,"Pittsburgh, PA Metro Area",5.1
+2018,"Pittsfield, MA Metro Area",3.4
+2018,"Pocatello, ID Metro Area",10.5
+2018,"Ponce, PR Metro Area",5.6
+2018,"Portland-South Portland, ME Metro Area",4.2
+2018,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",4.8
+2018,"Port St. Lucie, FL Metro Area",7.3
+2018,"Prescott, AZ Metro Area",2.4
+2018,"Providence-Warwick, RI-MA Metro Area",6.1
+2018,"Provo-Orem, UT Metro Area",3.2
+2018,"Pueblo, CO Metro Area",2.1
+2018,"Punta Gorda, FL Metro Area",14.8
+2018,"Racine, WI Metro Area",3.9
+2018,"Raleigh, NC Metro Area",5.9
+2018,"Rapid City, SD Metro Area",9.3
+2018,"Reading, PA Metro Area",8.5
+2018,"Redding, CA Metro Area",5.2
+2018,"Reno, NV Metro Area",4.1
+2018,"Richmond, VA Metro Area",4.3
+2018,"Riverside-San Bernardino-Ontario, CA Metro Area",4.6
+2018,"Roanoke, VA Metro Area",8.3
+2018,"Rochester, MN Metro Area",5.4
+2018,"Rochester, NY Metro Area",8
+2018,"Rockford, IL Metro Area",9.3
+2018,"Rocky Mount, NC Metro Area",2.9
+2018,"Rome, GA Metro Area",4.2
+2018,"Sacramento--Roseville--Arden-Arcade, CA Metro Area",3.9
+2018,"Saginaw, MI Metro Area",9.5
+2018,"St. Cloud, MN Metro Area",4.3
+2018,"St. George, UT Metro Area",2
+2018,"St. Joseph, MO-KS Metro Area",6.5
+2018,"St. Louis, MO-IL Metro Area",6.7
+2018,"Salem, OR Metro Area",4.9
+2018,"Salinas, CA Metro Area",3.8
+2018,"Salisbury, MD-DE Metro Area",4.6
+2018,"Salt Lake City, UT Metro Area",6.9
+2018,"San Angelo, TX Metro Area",8.2
+2018,"San Antonio-New Braunfels, TX Metro Area",7
+2018,"San Diego-Carlsbad, CA Metro Area",4.3
+2018,"San Francisco-Oakland-Hayward, CA Metro Area",4.1
+2018,"San Germán, PR Metro Area",5
+2018,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",3.8
+2018,"San Juan-Carolina-Caguas, PR Metro Area",7
+2018,"San Luis Obispo-Paso Robles-Arroyo Grande, CA Metro Area",3.9
+2018,"Santa Cruz-Watsonville, CA Metro Area",3.9
+2018,"Santa Fe, NM Metro Area",5.9
+2018,"Santa Maria-Santa Barbara, CA Metro Area",1.9
+2018,"Santa Rosa, CA Metro Area",3
+2018,"Savannah, GA Metro Area",10.7
+2018,"Scranton--Wilkes-Barre--Hazleton, PA Metro Area",6.6
+2018,"Seattle-Tacoma-Bellevue, WA Metro Area",4
+2018,"Sebastian-Vero Beach, FL Metro Area",34.5
+2018,"Sebring, FL Metro Area",4.8
+2018,"Sheboygan, WI Metro Area",5
+2018,"Sherman-Denison, TX Metro Area",9.4
+2018,"Shreveport-Bossier City, LA Metro Area",11
+2018,"Sierra Vista-Douglas, AZ Metro Area",10.1
+2018,"Sioux City, IA-NE-SD Metro Area",5.8
+2018,"Sioux Falls, SD Metro Area",8.1
+2018,"South Bend-Mishawaka, IN-MI Metro Area",6.3
+2018,"Spartanburg, SC Metro Area",9
+2018,"Spokane-Spokane Valley, WA Metro Area",3.7
+2018,"Springfield, IL Metro Area",6.8
+2018,"Springfield, MA Metro Area",4.8
+2018,"Springfield, MO Metro Area",5.6
+2018,"Springfield, OH Metro Area",4.1
+2018,"State College, PA Metro Area",5.4
+2018,"Staunton-Waynesboro, VA Metro Area",5.1
+2018,"Stockton-Lodi, CA Metro Area",2.8
+2018,"Sumter, SC Metro Area",7.8
+2018,"Syracuse, NY Metro Area",11.1
+2018,"Tallahassee, FL Metro Area",7.7
+2018,"Tampa-St. Petersburg-Clearwater, FL Metro Area",7.2
+2018,"Terre Haute, IN Metro Area",4.5
+2018,"Texarkana, TX-AR Metro Area",3.9
+2018,"The Villages, FL Metro Area",25
+2018,"Toledo, OH Metro Area",7.3
+2018,"Topeka, KS Metro Area",12.3
+2018,"Trenton, NJ Metro Area",2.5
+2018,"Tucson, AZ Metro Area",6.4
+2018,"Tulsa, OK Metro Area",8.8
+2018,"Tuscaloosa, AL Metro Area",4.9
+2018,"Twin Falls, ID Metro Area",5
+2018,"Tyler, TX Metro Area",8.8
+2018,"Urban Honolulu, HI Metro Area",6.2
+2018,"Utica-Rome, NY Metro Area",5.9
+2018,"Valdosta, GA Metro Area",9.7
+2018,"Vallejo-Fairfield, CA Metro Area",2.9
+2018,"Victoria, TX Metro Area",9.1
+2018,"Vineland-Bridgeton, NJ Metro Area",4.3
+2018,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",6.2
+2018,"Visalia-Porterville, CA Metro Area",2.6
+2018,"Waco, TX Metro Area",5.6
+2018,"Walla Walla, WA Metro Area",11.8
+2018,"Warner Robins, GA Metro Area",7
+2018,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",5
+2018,"Waterloo-Cedar Falls, IA Metro Area",5.7
+2018,"Watertown-Fort Drum, NY Metro Area",7.3
+2018,"Wausau, WI Metro Area",1.1
+2018,"Weirton-Steubenville, WV-OH Metro Area",4.7
+2018,"Wenatchee, WA Metro Area",2.3
+2018,"Wheeling, WV-OH Metro Area",16.1
+2018,"Wichita, KS Metro Area",9.4
+2018,"Wichita Falls, TX Metro Area",12.7
+2018,"Williamsport, PA Metro Area",10
+2018,"Wilmington, NC Metro Area",5.7
+2018,"Winchester, VA-WV Metro Area",4.7
+2018,"Winston-Salem, NC Metro Area",8
+2018,"Worcester, MA-CT Metro Area",4.5
+2018,"Yakima, WA Metro Area",4.4
+2018,"York-Hanover, PA Metro Area",4.1
+2018,"Youngstown-Warren-Boardman, OH-PA Metro Area",5.8
+2018,"Yuba City, CA Metro Area",6.4
+2018,"Yuma, AZ Metro Area",7.5
+2019,"Abilene, TX Metro Area",5.9
+2019,"Aguadilla-Isabela, PR Metro Area",5.9
+2019,"Akron, OH Metro Area",3.5
+2019,"Albany, GA Metro Area",12.7
+2019,"Albany-Lebanon, OR Metro Area",2.1
+2019,"Albany-Schenectady-Troy, NY Metro Area",7.1
+2019,"Albuquerque, NM Metro Area",7.3
+2019,"Alexandria, LA Metro Area",8.2
+2019,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",4.9
+2019,"Altoona, PA Metro Area",4.8
+2019,"Amarillo, TX Metro Area",11
+2019,"Ames, IA Metro Area",2.2
+2019,"Anchorage, AK Metro Area",10.3
+2019,"Ann Arbor, MI Metro Area",3.6
+2019,"Anniston-Oxford, AL Metro Area",7.8
+2019,"Appleton, WI Metro Area",2.6
+2019,"Arecibo, PR Metro Area",3.1
+2019,"Asheville, NC Metro Area",6.3
+2019,"Athens-Clarke County, GA Metro Area",1.2
+2019,"Atlanta-Sandy Springs-Alpharetta, GA Metro Area",6.2
+2019,"Atlantic City-Hammonton, NJ Metro Area",5.4
+2019,"Auburn-Opelika, AL Metro Area",6.6
+2019,"Augusta-Richmond County, GA-SC Metro Area",11
+2019,"Austin-Round Rock-Georgetown, TX Metro Area",5.6
+2019,"Bakersfield, CA Metro Area",4.7
+2019,"Baltimore-Columbia-Towson, MD Metro Area",7.3
+2019,"Bangor, ME Metro Area",6.9
+2019,"Barnstable Town, MA Metro Area",7.9
+2019,"Baton Rouge, LA Metro Area",11
+2019,"Battle Creek, MI Metro Area",11.4
+2019,"Bay City, MI Metro Area",3.4
+2019,"Beaumont-Port Arthur, TX Metro Area",7
+2019,"Beckley, WV Metro Area",6.7
+2019,"Bellingham, WA Metro Area",3.8
+2019,"Bend, OR Metro Area",5.8
+2019,"Billings, MT Metro Area",6.6
+2019,"Binghamton, NY Metro Area",10.1
+2019,"Birmingham-Hoover, AL Metro Area",8.5
+2019,"Bismarck, ND Metro Area",7.9
+2019,"Blacksburg-Christiansburg, VA Metro Area",4.3
+2019,"Bloomington, IL Metro Area",9
+2019,"Bloomington, IN Metro Area",6.3
+2019,"Bloomsburg-Berwick, PA Metro Area",3.4
+2019,"Boise City, ID Metro Area",3.3
+2019,"Boston-Cambridge-Newton, MA-NH Metro Area",2.9
+2019,"Boulder, CO Metro Area",3.2
+2019,"Bowling Green, KY Metro Area",9.9
+2019,"Bremerton-Silverdale-Port Orchard, WA Metro Area",2.9
+2019,"Bridgeport-Stamford-Norwalk, CT Metro Area",8.6
+2019,"Brownsville-Harlingen, TX Metro Area",5.6
+2019,"Brunswick, GA Metro Area",11.9
+2019,"Buffalo-Cheektowaga, NY Metro Area",3.7
+2019,"Burlington, NC Metro Area",7.8
+2019,"Burlington-South Burlington, VT Metro Area",2.2
+2019,"California-Lexington Park, MD Metro Area",11.7
+2019,"Canton-Massillon, OH Metro Area",4.9
+2019,"Cape Coral-Fort Myers, FL Metro Area",10.4
+2019,"Cape Girardeau, MO-IL Metro Area",6.9
+2019,"Carbondale-Marion, IL Metro Area",12.7
+2019,"Carson City, NV Metro Area",2.8
+2019,"Casper, WY Metro Area",8.2
+2019,"Cedar Rapids, IA Metro Area",6
+2019,"Chambersburg-Waynesboro, PA Metro Area",4.9
+2019,"Champaign-Urbana, IL Metro Area",11.5
+2019,"Charleston, WV Metro Area",10.3
+2019,"Charleston-North Charleston, SC Metro Area",8.9
+2019,"Charlotte-Concord-Gastonia, NC-SC Metro Area",7.1
+2019,"Charlottesville, VA Metro Area",3.1
+2019,"Chattanooga, TN-GA Metro Area",5.8
+2019,"Cheyenne, WY Metro Area",1
+2019,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",4.8
+2019,"Chico, CA Metro Area",5.6
+2019,"Cincinnati, OH-KY-IN Metro Area",3.6
+2019,"Clarksville, TN-KY Metro Area",6.7
+2019,"Cleveland, TN Metro Area",6.6
+2019,"Cleveland-Elyria, OH Metro Area",5.8
+2019,"Coeur d'Alene, ID Metro Area",1.9
+2019,"College Station-Bryan, TX Metro Area",11.4
+2019,"Colorado Springs, CO Metro Area",3.2
+2019,"Columbia, MO Metro Area",12.2
+2019,"Columbia, SC Metro Area",4.7
+2019,"Columbus, GA-AL Metro Area",8.1
+2019,"Columbus, IN Metro Area",7.2
+2019,"Columbus, OH Metro Area",4.7
+2019,"Corpus Christi, TX Metro Area",8.7
+2019,"Corvallis, OR Metro Area",5.6
+2019,"Crestview-Fort Walton Beach-Destin, FL Metro Area",25.1
+2019,"Cumberland, MD-WV Metro Area",13.2
+2019,"Dallas-Fort Worth-Arlington, TX Metro Area",8.8
+2019,"Dalton, GA Metro Area",8.8
+2019,"Danville, IL Metro Area",10.9
+2019,"Daphne-Fairhope-Foley, AL Metro Area",51.1
+2019,"Davenport-Moline-Rock Island, IA-IL Metro Area",6
+2019,"Dayton-Kettering, OH Metro Area",6
+2019,"Decatur, AL Metro Area",9.9
+2019,"Decatur, IL Metro Area",15.4
+2019,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",6.8
+2019,"Denver-Aurora-Lakewood, CO Metro Area",4.2
+2019,"Des Moines-West Des Moines, IA Metro Area",5.7
+2019,"Detroit-Warren-Dearborn, MI Metro Area",5.4
+2019,"Dothan, AL Metro Area",10.7
+2019,"Dover, DE Metro Area",4.4
+2019,"Dubuque, IA Metro Area",17.2
+2019,"Duluth, MN-WI Metro Area",6.9
+2019,"Durham-Chapel Hill, NC Metro Area",4.7
+2019,"East Stroudsburg, PA Metro Area",7.5
+2019,"Eau Claire, WI Metro Area",6.6
+2019,"El Centro, CA Metro Area",1.9
+2019,"Elizabethtown-Fort Knox, KY Metro Area",12.4
+2019,"Elkhart-Goshen, IN Metro Area",14.3
+2019,"Elmira, NY Metro Area",12.9
+2019,"El Paso, TX Metro Area",12
+2019,"Enid, OK Metro Area",7.7
+2019,"Erie, PA Metro Area",5.2
+2019,"Eugene-Springfield, OR Metro Area",2
+2019,"Evansville, IN-KY Metro Area",7
+2019,"Fairbanks, AK Metro Area",7.8
+2019,"Fargo, ND-MN Metro Area",8.1
+2019,"Farmington, NM Metro Area",11.7
+2019,"Fayetteville, NC Metro Area",7.3
+2019,"Fayetteville-Springdale-Rogers, AR Metro Area",5.8
+2019,"Flagstaff, AZ Metro Area",12.3
+2019,"Flint, MI Metro Area",5.7
+2019,"Florence, SC Metro Area",9.5
+2019,"Florence-Muscle Shoals, AL Metro Area",4.4
+2019,"Fond du Lac, WI Metro Area",6.1
+2019,"Fort Collins, CO Metro Area",1.5
+2019,"Fort Smith, AR-OK Metro Area",4.7
+2019,"Fort Wayne, IN Metro Area",7
+2019,"Fresno, CA Metro Area",4.1
+2019,"Gadsden, AL Metro Area",10.1
+2019,"Gainesville, FL Metro Area",16.3
+2019,"Gainesville, GA Metro Area",5.3
+2019,"Gettysburg, PA Metro Area",7.2
+2019,"Glens Falls, NY Metro Area",6.7
+2019,"Goldsboro, NC Metro Area",2.5
+2019,"Grand Forks, ND-MN Metro Area",4.5
+2019,"Grand Island, NE Metro Area",0.3
+2019,"Grand Junction, CO Metro Area",2.1
+2019,"Grand Rapids-Kentwood, MI Metro Area",4.1
+2019,"Grants Pass, OR Metro Area",5.1
+2019,"Great Falls, MT Metro Area",12.4
+2019,"Greeley, CO Metro Area",4.9
+2019,"Green Bay, WI Metro Area",3
+2019,"Greensboro-High Point, NC Metro Area",5.6
+2019,"Greenville, NC Metro Area",3.3
+2019,"Greenville-Anderson, SC Metro Area",7.1
+2019,"Guayama, PR Metro Area",0
+2019,"Gulfport-Biloxi, MS Metro Area",11.6
+2019,"Hagerstown-Martinsburg, MD-WV Metro Area",5.7
+2019,"Hammond, LA Metro Area",7.1
+2019,"Hanford-Corcoran, CA Metro Area",1.8
+2019,"Harrisburg-Carlisle, PA Metro Area",5
+2019,"Harrisonburg, VA Metro Area",4.2
+2019,"Hartford-East Hartford-Middletown, CT Metro Area",6
+2019,"Hattiesburg, MS Metro Area",11.6
+2019,"Hickory-Lenoir-Morganton, NC Metro Area",5.5
+2019,"Hilton Head Island-Bluffton, SC Metro Area",14.7
+2019,"Hinesville, GA Metro Area",13
+2019,"Homosassa Springs, FL Metro Area",10.3
+2019,"Hot Springs, AR Metro Area",8.5
+2019,"Houma-Thibodaux, LA Metro Area",6
+2019,"Houston-The Woodlands-Sugar Land, TX Metro Area",8.6
+2019,"Huntington-Ashland, WV-KY-OH Metro Area",5
+2019,"Huntsville, AL Metro Area",4.5
+2019,"Idaho Falls, ID Metro Area",5
+2019,"Indianapolis-Carmel-Anderson, IN Metro Area",6.1
+2019,"Iowa City, IA Metro Area",7.1
+2019,"Ithaca, NY Metro Area",6.6
+2019,"Jackson, MI Metro Area",5.1
+2019,"Jackson, MS Metro Area",7.1
+2019,"Jackson, TN Metro Area",5.3
+2019,"Jacksonville, FL Metro Area",7.8
+2019,"Jacksonville, NC Metro Area",4.6
+2019,"Janesville-Beloit, WI Metro Area",4.8
+2019,"Jefferson City, MO Metro Area",1.5
+2019,"Johnson City, TN Metro Area",3.1
+2019,"Johnstown, PA Metro Area",7.1
+2019,"Jonesboro, AR Metro Area",4.7
+2019,"Joplin, MO Metro Area",3.2
+2019,"Kahului-Wailuku-Lahaina, HI Metro Area",29.6
+2019,"Kalamazoo-Portage, MI Metro Area",6.1
+2019,"Kankakee, IL Metro Area",3.5
+2019,"Kansas City, MO-KS Metro Area",4.8
+2019,"Kennewick-Richland, WA Metro Area",5.3
+2019,"Killeen-Temple, TX Metro Area",8.3
+2019,"Kingsport-Bristol, TN-VA Metro Area",4.1
+2019,"Kingston, NY Metro Area",0.4
+2019,"Knoxville, TN Metro Area",6
+2019,"Kokomo, IN Metro Area",9.4
+2019,"La Crosse-Onalaska, WI-MN Metro Area",4.6
+2019,"Lafayette, LA Metro Area",7.7
+2019,"Lafayette-West Lafayette, IN Metro Area",4.6
+2019,"Lake Charles, LA Metro Area",11.1
+2019,"Lake Havasu City-Kingman, AZ Metro Area",1.8
+2019,"Lakeland-Winter Haven, FL Metro Area",7
+2019,"Lancaster, PA Metro Area",2.6
+2019,"Lansing-East Lansing, MI Metro Area",7.1
+2019,"Laredo, TX Metro Area",7.5
+2019,"Las Cruces, NM Metro Area",10.6
+2019,"Las Vegas-Henderson-Paradise, NV Metro Area",8.8
+2019,"Lawrence, KS Metro Area",3.5
+2019,"Lawton, OK Metro Area",3.2
+2019,"Lebanon, PA Metro Area",6.1
+2019,"Lewiston, ID-WA Metro Area",0
+2019,"Lewiston-Auburn, ME Metro Area",1.1
+2019,"Lexington-Fayette, KY Metro Area",4.7
+2019,"Lima, OH Metro Area",5.1
+2019,"Lincoln, NE Metro Area",3.2
+2019,"Little Rock-North Little Rock-Conway, AR Metro Area",9.7
+2019,"Logan, UT-ID Metro Area",6.3
+2019,"Longview, TX Metro Area",5.5
+2019,"Longview, WA Metro Area",0.9
+2019,"Los Angeles-Long Beach-Anaheim, CA Metro Area",4.2
+2019,"Louisville/Jefferson County, KY-IN Metro Area",7.8
+2019,"Lubbock, TX Metro Area",9.3
+2019,"Lynchburg, VA Metro Area",6.6
+2019,"Macon-Bibb County, GA Metro Area",11.6
+2019,"Madera, CA Metro Area",2
+2019,"Madison, WI Metro Area",3.4
+2019,"Manchester-Nashua, NH Metro Area",3
+2019,"Manhattan, KS Metro Area",13.6
+2019,"Mankato, MN Metro Area",5.2
+2019,"Mansfield, OH Metro Area",2.8
+2019,"Mayagüez, PR Metro Area",9.1
+2019,"McAllen-Edinburg-Mission, TX Metro Area",9.7
+2019,"Medford, OR Metro Area",3.3
+2019,"Memphis, TN-MS-AR Metro Area",9.3
+2019,"Merced, CA Metro Area",2.4
+2019,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",5.8
+2019,"Michigan City-La Porte, IN Metro Area",4.4
+2019,"Midland, MI Metro Area",2.5
+2019,"Midland, TX Metro Area",5.1
+2019,"Milwaukee-Waukesha, WI Metro Area",5.4
+2019,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",3.8
+2019,"Missoula, MT Metro Area",1.3
+2019,"Mobile, AL Metro Area",7.3
+2019,"Modesto, CA Metro Area",1.9
+2019,"Monroe, LA Metro Area",12.3
+2019,"Monroe, MI Metro Area",1.1
+2019,"Montgomery, AL Metro Area",8.1
+2019,"Morgantown, WV Metro Area",6.3
+2019,"Morristown, TN Metro Area",9.3
+2019,"Mount Vernon-Anacortes, WA Metro Area",1
+2019,"Muncie, IN Metro Area",8.6
+2019,"Muskegon, MI Metro Area",6.5
+2019,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area",28.9
+2019,"Napa, CA Metro Area",5.9
+2019,"Naples-Marco Island, FL Metro Area",7.1
+2019,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",8.7
+2019,"New Bern, NC Metro Area",6.7
+2019,"New Haven-Milford, CT Metro Area",5.7
+2019,"New Orleans-Metairie, LA Metro Area",6.3
+2019,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",3.4
+2019,"Niles, MI Metro Area",7.2
+2019,"North Port-Sarasota-Bradenton, FL Metro Area",18.8
+2019,"Norwich-New London, CT Metro Area",4.6
+2019,"Ocala, FL Metro Area",5.4
+2019,"Ocean City, NJ Metro Area",37.1
+2019,"Odessa, TX Metro Area",5.6
+2019,"Ogden-Clearfield, UT Metro Area",4.7
+2019,"Oklahoma City, OK Metro Area",7.6
+2019,"Olympia-Lacey-Tumwater, WA Metro Area",4.8
+2019,"Omaha-Council Bluffs, NE-IA Metro Area",7.4
+2019,"Orlando-Kissimmee-Sanford, FL Metro Area",11.7
+2019,"Oshkosh-Neenah, WI Metro Area",5
+2019,"Owensboro, KY Metro Area",4.5
+2019,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",4.5
+2019,"Palm Bay-Melbourne-Titusville, FL Metro Area",13.5
+2019,"Panama City, FL Metro Area",7
+2019,"Parkersburg-Vienna, WV Metro Area",10.4
+2019,"Pensacola-Ferry Pass-Brent, FL Metro Area",4.7
+2019,"Peoria, IL Metro Area",9.1
+2019,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",5.1
+2019,"Phoenix-Mesa-Chandler, AZ Metro Area",5
+2019,"Pine Bluff, AR Metro Area",5.2
+2019,"Pittsburgh, PA Metro Area",4.7
+2019,"Pittsfield, MA Metro Area",6.4
+2019,"Pocatello, ID Metro Area",4.9
+2019,"Ponce, PR Metro Area",6.6
+2019,"Portland-South Portland, ME Metro Area",4.4
+2019,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",4
+2019,"Port St. Lucie, FL Metro Area",11.3
+2019,"Poughkeepsie-Newburgh-Middletown, NY Metro Area",3.2
+2019,"Prescott Valley-Prescott, AZ Metro Area",6
+2019,"Providence-Warwick, RI-MA Metro Area",5.8
+2019,"Provo-Orem, UT Metro Area",4.1
+2019,"Pueblo, CO Metro Area",2.6
+2019,"Punta Gorda, FL Metro Area",18.4
+2019,"Racine, WI Metro Area",5.7
+2019,"Raleigh-Cary, NC Metro Area",5.9
+2019,"Rapid City, SD Metro Area",5.2
+2019,"Reading, PA Metro Area",5.4
+2019,"Redding, CA Metro Area",1.4
+2019,"Reno, NV Metro Area",3.2
+2019,"Richmond, VA Metro Area",5.9
+2019,"Riverside-San Bernardino-Ontario, CA Metro Area",4.2
+2019,"Roanoke, VA Metro Area",8.1
+2019,"Rochester, MN Metro Area",5.3
+2019,"Rochester, NY Metro Area",7
+2019,"Rockford, IL Metro Area",7.2
+2019,"Rocky Mount, NC Metro Area",4.5
+2019,"Rome, GA Metro Area",11.2
+2019,"Sacramento-Roseville-Folsom, CA Metro Area",2.8
+2019,"Saginaw, MI Metro Area",12.5
+2019,"St. Cloud, MN Metro Area",1.4
+2019,"St. George, UT Metro Area",4.4
+2019,"St. Joseph, MO-KS Metro Area",7.5
+2019,"St. Louis, MO-IL Metro Area",5.2
+2019,"Salem, OR Metro Area",5.7
+2019,"Salinas, CA Metro Area",5.7
+2019,"Salisbury, MD-DE Metro Area",4.8
+2019,"Salt Lake City, UT Metro Area",7.5
+2019,"San Angelo, TX Metro Area",3.8
+2019,"San Antonio-New Braunfels, TX Metro Area",7.1
+2019,"San Diego-Chula Vista-Carlsbad, CA Metro Area",4.8
+2019,"San Francisco-Oakland-Berkeley, CA Metro Area",3.5
+2019,"San Germán, PR Metro Area",7.3
+2019,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",4.9
+2019,"San Juan-Bayamón-Caguas, PR Metro Area",6.6
+2019,"San Luis Obispo-Paso Robles, CA Metro Area",7.5
+2019,"Santa Cruz-Watsonville, CA Metro Area",2
+2019,"Santa Fe, NM Metro Area",8.1
+2019,"Santa Maria-Santa Barbara, CA Metro Area",3.8
+2019,"Santa Rosa-Petaluma, CA Metro Area",2.7
+2019,"Savannah, GA Metro Area",9.6
+2019,"Scranton--Wilkes-Barre, PA Metro Area",3.2
+2019,"Seattle-Tacoma-Bellevue, WA Metro Area",4.4
+2019,"Sebastian-Vero Beach, FL Metro Area",13.9
+2019,"Sebring-Avon Park, FL Metro Area",4.2
+2019,"Sheboygan, WI Metro Area",1.4
+2019,"Sherman-Denison, TX Metro Area",4
+2019,"Shreveport-Bossier City, LA Metro Area",9.3
+2019,"Sierra Vista-Douglas, AZ Metro Area",2.9
+2019,"Sioux City, IA-NE-SD Metro Area",5.3
+2019,"Sioux Falls, SD Metro Area",5
+2019,"South Bend-Mishawaka, IN-MI Metro Area",11.4
+2019,"Spartanburg, SC Metro Area",6.6
+2019,"Spokane-Spokane Valley, WA Metro Area",2.8
+2019,"Springfield, IL Metro Area",5.9
+2019,"Springfield, MA Metro Area",3
+2019,"Springfield, MO Metro Area",1.2
+2019,"Springfield, OH Metro Area",3.8
+2019,"State College, PA Metro Area",4.6
+2019,"Staunton, VA Metro Area",7.6
+2019,"Stockton, CA Metro Area",4.7
+2019,"Sumter, SC Metro Area",5
+2019,"Syracuse, NY Metro Area",9.5
+2019,"Tallahassee, FL Metro Area",5.8
+2019,"Tampa-St. Petersburg-Clearwater, FL Metro Area",8.2
+2019,"Terre Haute, IN Metro Area",5.3
+2019,"Texarkana, TX-AR Metro Area",5
+2019,"The Villages, FL Metro Area",17.9
+2019,"Toledo, OH Metro Area",4.6
+2019,"Topeka, KS Metro Area",10.8
+2019,"Trenton-Princeton, NJ Metro Area",3.5
+2019,"Tucson, AZ Metro Area",6.5
+2019,"Tulsa, OK Metro Area",8
+2019,"Tuscaloosa, AL Metro Area",5.6
+2019,"Twin Falls, ID Metro Area",3.1
+2019,"Tyler, TX Metro Area",7.6
+2019,"Urban Honolulu, HI Metro Area",4.9
+2019,"Utica-Rome, NY Metro Area",6.2
+2019,"Valdosta, GA Metro Area",10.1
+2019,"Vallejo, CA Metro Area",4.3
+2019,"Victoria, TX Metro Area",19.1
+2019,"Vineland-Bridgeton, NJ Metro Area",3.6
+2019,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",7
+2019,"Visalia, CA Metro Area",2.4
+2019,"Waco, TX Metro Area",3.7
+2019,"Walla Walla, WA Metro Area",2.9
+2019,"Warner Robins, GA Metro Area",10.6
+2019,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",5
+2019,"Waterloo-Cedar Falls, IA Metro Area",5.9
+2019,"Watertown-Fort Drum, NY Metro Area",9
+2019,"Wausau-Weston, WI Metro Area",1.4
+2019,"Weirton-Steubenville, WV-OH Metro Area",4.1
+2019,"Wenatchee, WA Metro Area",9.2
+2019,"Wheeling, WV-OH Metro Area",4.4
+2019,"Wichita, KS Metro Area",8.6
+2019,"Wichita Falls, TX Metro Area",9.7
+2019,"Williamsport, PA Metro Area",10.1
+2019,"Wilmington, NC Metro Area",4.4
+2019,"Winchester, VA-WV Metro Area",11.1
+2019,"Winston-Salem, NC Metro Area",7.1
+2019,"Worcester, MA-CT Metro Area",2.9
+2019,"Yakima, WA Metro Area",2.5
+2019,"Yauco, PR Metro Area",9
+2019,"York-Hanover, PA Metro Area",3.1
+2019,"Youngstown-Warren-Boardman, OH-PA Metro Area",4.8
+2019,"Yuba City, CA Metro Area",3.5
+2019,"Yuma, AZ Metro Area",5.1
+2021,"Abilene, TX Metro Area",0.1
+2021,"Aguadilla-Isabela, PR Metro Area",5.7
+2021,"Akron, OH Metro Area",4.1
+2021,"Albany, GA Metro Area",7
+2021,"Albany-Lebanon, OR Metro Area",1.8
+2021,"Albany-Schenectady-Troy, NY Metro Area",5.7
+2021,"Albuquerque, NM Metro Area",3.5
+2021,"Alexandria, LA Metro Area",9
+2021,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",3.8
+2021,"Altoona, PA Metro Area",8.7
+2021,"Amarillo, TX Metro Area",8.6
+2021,"Ames, IA Metro Area",5.4
+2021,"Anchorage, AK Metro Area",7.1
+2021,"Ann Arbor, MI Metro Area",4.3
+2021,"Anniston-Oxford, AL Metro Area",8.1
+2021,"Appleton, WI Metro Area",1.7
+2021,"Arecibo, PR Metro Area",4.1
+2021,"Asheville, NC Metro Area",11.3
+2021,"Athens-Clarke County, GA Metro Area",0.5
+2021,"Atlanta-Sandy Springs-Alpharetta, GA Metro Area",6.2
+2021,"Atlantic City-Hammonton, NJ Metro Area",1.9
+2021,"Auburn-Opelika, AL Metro Area",5
+2021,"Augusta-Richmond County, GA-SC Metro Area",8.8
+2021,"Austin-Round Rock-Georgetown, TX Metro Area",2.5
+2021,"Bakersfield, CA Metro Area",3.3
+2021,"Baltimore-Columbia-Towson, MD Metro Area",4.2
+2021,"Bangor, ME Metro Area",2.4
+2021,"Barnstable Town, MA Metro Area",7
+2021,"Baton Rouge, LA Metro Area",7.4
+2021,"Battle Creek, MI Metro Area",8.8
+2021,"Bay City, MI Metro Area",8.2
+2021,"Beaumont-Port Arthur, TX Metro Area",5.2
+2021,"Beckley, WV Metro Area",6.5
+2021,"Bellingham, WA Metro Area",2
+2021,"Bend, OR Metro Area",1.3
+2021,"Billings, MT Metro Area",6.5
+2021,"Binghamton, NY Metro Area",4.1
+2021,"Birmingham-Hoover, AL Metro Area",5
+2021,"Bismarck, ND Metro Area",12.9
+2021,"Blacksburg-Christiansburg, VA Metro Area",2.2
+2021,"Bloomington, IL Metro Area",5.5
+2021,"Bloomington, IN Metro Area",6.3
+2021,"Bloomsburg-Berwick, PA Metro Area",2.3
+2021,"Boise City, ID Metro Area",3.7
+2021,"Boston-Cambridge-Newton, MA-NH Metro Area",4.4
+2021,"Boulder, CO Metro Area",5
+2021,"Bowling Green, KY Metro Area",3.6
+2021,"Bremerton-Silverdale-Port Orchard, WA Metro Area",5.4
+2021,"Bridgeport-Stamford-Norwalk, CT Metro Area",4.3
+2021,"Brownsville-Harlingen, TX Metro Area",4.5
+2021,"Brunswick, GA Metro Area",7.4
+2021,"Buffalo-Cheektowaga, NY Metro Area",3
+2021,"Burlington, NC Metro Area",2.7
+2021,"Burlington-South Burlington, VT Metro Area",1.7
+2021,"California-Lexington Park, MD Metro Area",2.2
+2021,"Canton-Massillon, OH Metro Area",3.2
+2021,"Cape Coral-Fort Myers, FL Metro Area",8.5
+2021,"Cape Girardeau, MO-IL Metro Area",7.4
+2021,"Carbondale-Marion, IL Metro Area",7.4
+2021,"Carson City, NV Metro Area",4
+2021,"Casper, WY Metro Area",3.5
+2021,"Cedar Rapids, IA Metro Area",8.7
+2021,"Chambersburg-Waynesboro, PA Metro Area",5.6
+2021,"Champaign-Urbana, IL Metro Area",9.2
+2021,"Charleston, WV Metro Area",5.4
+2021,"Charleston-North Charleston, SC Metro Area",15.3
+2021,"Charlotte-Concord-Gastonia, NC-SC Metro Area",5.2
+2021,"Charlottesville, VA Metro Area",3.4
+2021,"Chattanooga, TN-GA Metro Area",4.7
+2021,"Cheyenne, WY Metro Area",NA
+2021,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",5.7
+2021,"Chico, CA Metro Area",4.4
+2021,"Cincinnati, OH-KY-IN Metro Area",4.4
+2021,"Clarksville, TN-KY Metro Area",5.1
+2021,"Cleveland, TN Metro Area",1.3
+2021,"Cleveland-Elyria, OH Metro Area",4
+2021,"Coeur d'Alene, ID Metro Area",7.1
+2021,"College Station-Bryan, TX Metro Area",10
+2021,"Colorado Springs, CO Metro Area",3.1
+2021,"Columbia, MO Metro Area",6
+2021,"Columbia, SC Metro Area",3.7
+2021,"Columbus, GA-AL Metro Area",6.8
+2021,"Columbus, IN Metro Area",3.7
+2021,"Columbus, OH Metro Area",3.8
+2021,"Corpus Christi, TX Metro Area",8.3
+2021,"Corvallis, OR Metro Area",1.3
+2021,"Crestview-Fort Walton Beach-Destin, FL Metro Area",22.8
+2021,"Cumberland, MD-WV Metro Area",6.7
+2021,"Dallas-Fort Worth-Arlington, TX Metro Area",6.5
+2021,"Dalton, GA Metro Area",6.3
+2021,"Danville, IL Metro Area",13.5
+2021,"Daphne-Fairhope-Foley, AL Metro Area",33.1
+2021,"Davenport-Moline-Rock Island, IA-IL Metro Area",4.6
+2021,"Dayton-Kettering, OH Metro Area",3.8
+2021,"Decatur, AL Metro Area",2
+2021,"Decatur, IL Metro Area",11.2
+2021,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",2.3
+2021,"Denver-Aurora-Lakewood, CO Metro Area",5.3
+2021,"Des Moines-West Des Moines, IA Metro Area",6.1
+2021,"Detroit-Warren-Dearborn, MI Metro Area",3.7
+2021,"Dothan, AL Metro Area",5
+2021,"Dover, DE Metro Area",6.8
+2021,"Dubuque, IA Metro Area",4.2
+2021,"Duluth, MN-WI Metro Area",5.7
+2021,"Durham-Chapel Hill, NC Metro Area",6
+2021,"East Stroudsburg, PA Metro Area",5.5
+2021,"Eau Claire, WI Metro Area",3.8
+2021,"El Centro, CA Metro Area",2.1
+2021,"Elizabethtown-Fort Knox, KY Metro Area",5.2
+2021,"Elkhart-Goshen, IN Metro Area",9.9
+2021,"Elmira, NY Metro Area",2.8
+2021,"El Paso, TX Metro Area",5.4
+2021,"Enid, OK Metro Area",9.7
+2021,"Erie, PA Metro Area",7.2
+2021,"Eugene-Springfield, OR Metro Area",2.9
+2021,"Evansville, IN-KY Metro Area",2.5
+2021,"Fairbanks, AK Metro Area",7.4
+2021,"Fargo, ND-MN Metro Area",4.2
+2021,"Farmington, NM Metro Area",5.4
+2021,"Fayetteville, NC Metro Area",4
+2021,"Fayetteville-Springdale-Rogers, AR Metro Area",6.1
+2021,"Flagstaff, AZ Metro Area",5.2
+2021,"Flint, MI Metro Area",1.5
+2021,"Florence, SC Metro Area",7.6
+2021,"Florence-Muscle Shoals, AL Metro Area",4.7
+2021,"Fond du Lac, WI Metro Area",4.9
+2021,"Fort Collins, CO Metro Area",2.4
+2021,"Fort Smith, AR-OK Metro Area",7.5
+2021,"Fort Wayne, IN Metro Area",4
+2021,"Fresno, CA Metro Area",2.5
+2021,"Gadsden, AL Metro Area",3.8
+2021,"Gainesville, FL Metro Area",14.5
+2021,"Gainesville, GA Metro Area",4.2
+2021,"Gettysburg, PA Metro Area",3.4
+2021,"Glens Falls, NY Metro Area",4.4
+2021,"Goldsboro, NC Metro Area",2
+2021,"Grand Forks, ND-MN Metro Area",8.6
+2021,"Grand Island, NE Metro Area",1.3
+2021,"Grand Junction, CO Metro Area",4.8
+2021,"Grand Rapids-Kentwood, MI Metro Area",3.5
+2021,"Grants Pass, OR Metro Area",0
+2021,"Great Falls, MT Metro Area",5.5
+2021,"Greeley, CO Metro Area",6.7
+2021,"Green Bay, WI Metro Area",3.4
+2021,"Greensboro-High Point, NC Metro Area",5.9
+2021,"Greenville, NC Metro Area",2.1
+2021,"Greenville-Anderson, SC Metro Area",9
+2021,"Guayama, PR Metro Area",2.7
+2021,"Gulfport-Biloxi, MS Metro Area",6.4
+2021,"Hagerstown-Martinsburg, MD-WV Metro Area",3.1
+2021,"Hammond, LA Metro Area",4.2
+2021,"Hanford-Corcoran, CA Metro Area",1.4
+2021,"Harrisburg-Carlisle, PA Metro Area",4.4
+2021,"Harrisonburg, VA Metro Area",2.7
+2021,"Hartford-East Hartford-Middletown, CT Metro Area",4.9
+2021,"Hattiesburg, MS Metro Area",5.2
+2021,"Hickory-Lenoir-Morganton, NC Metro Area",1.8
+2021,"Hilton Head Island-Bluffton, SC Metro Area",21.9
+2021,"Hinesville, GA Metro Area",5
+2021,"Homosassa Springs, FL Metro Area",8.5
+2021,"Hot Springs, AR Metro Area",6.5
+2021,"Houma-Thibodaux, LA Metro Area",3.9
+2021,"Houston-The Woodlands-Sugar Land, TX Metro Area",8
+2021,"Huntington-Ashland, WV-KY-OH Metro Area",4.6
+2021,"Huntsville, AL Metro Area",3.8
+2021,"Idaho Falls, ID Metro Area",4.4
+2021,"Indianapolis-Carmel-Anderson, IN Metro Area",5.2
+2021,"Iowa City, IA Metro Area",6.2
+2021,"Ithaca, NY Metro Area",3.8
+2021,"Jackson, MI Metro Area",5.6
+2021,"Jackson, MS Metro Area",7.8
+2021,"Jackson, TN Metro Area",4
+2021,"Jacksonville, FL Metro Area",5.5
+2021,"Jacksonville, NC Metro Area",10.7
+2021,"Janesville-Beloit, WI Metro Area",0.6
+2021,"Jefferson City, MO Metro Area",8.1
+2021,"Johnson City, TN Metro Area",4.2
+2021,"Johnstown, PA Metro Area",2.7
+2021,"Jonesboro, AR Metro Area",5
+2021,"Joplin, MO Metro Area",3.1
+2021,"Kahului-Wailuku-Lahaina, HI Metro Area",29.5
+2021,"Kalamazoo-Portage, MI Metro Area",6.5
+2021,"Kankakee, IL Metro Area",3.4
+2021,"Kansas City, MO-KS Metro Area",4.4
+2021,"Kennewick-Richland, WA Metro Area",3.4
+2021,"Killeen-Temple, TX Metro Area",2.3
+2021,"Kingsport-Bristol, TN-VA Metro Area",3.8
+2021,"Kingston, NY Metro Area",6
+2021,"Knoxville, TN Metro Area",4.4
+2021,"Kokomo, IN Metro Area",13.1
+2021,"La Crosse-Onalaska, WI-MN Metro Area",3.9
+2021,"Lafayette, LA Metro Area",5.7
+2021,"Lafayette-West Lafayette, IN Metro Area",6.6
+2021,"Lake Charles, LA Metro Area",5.9
+2021,"Lake Havasu City-Kingman, AZ Metro Area",0.5
+2021,"Lakeland-Winter Haven, FL Metro Area",3.2
+2021,"Lancaster, PA Metro Area",2
+2021,"Lansing-East Lansing, MI Metro Area",4.9
+2021,"Laredo, TX Metro Area",7.4
+2021,"Las Cruces, NM Metro Area",0.7
+2021,"Las Vegas-Henderson-Paradise, NV Metro Area",6.3
+2021,"Lawrence, KS Metro Area",8
+2021,"Lawton, OK Metro Area",6
+2021,"Lebanon, PA Metro Area",4.3
+2021,"Lewiston, ID-WA Metro Area",4.5
+2021,"Lewiston-Auburn, ME Metro Area",0
+2021,"Lexington-Fayette, KY Metro Area",4.5
+2021,"Lima, OH Metro Area",2.9
+2021,"Lincoln, NE Metro Area",3.1
+2021,"Little Rock-North Little Rock-Conway, AR Metro Area",5.7
+2021,"Logan, UT-ID Metro Area",3.4
+2021,"Longview, TX Metro Area",7.3
+2021,"Longview, WA Metro Area",2
+2021,"Los Angeles-Long Beach-Anaheim, CA Metro Area",4.2
+2021,"Louisville/Jefferson County, KY-IN Metro Area",6.9
+2021,"Lubbock, TX Metro Area",8
+2021,"Lynchburg, VA Metro Area",8.6
+2021,"Macon-Bibb County, GA Metro Area",15.2
+2021,"Madera, CA Metro Area",5.7
+2021,"Madison, WI Metro Area",4.4
+2021,"Manchester-Nashua, NH Metro Area",1.4
+2021,"Manhattan, KS Metro Area",4.3
+2021,"Mankato, MN Metro Area",3.9
+2021,"Mansfield, OH Metro Area",2.7
+2021,"Mayagüez, PR Metro Area",9.9
+2021,"McAllen-Edinburg-Mission, TX Metro Area",4.4
+2021,"Medford, OR Metro Area",3.2
+2021,"Memphis, TN-MS-AR Metro Area",5.8
+2021,"Merced, CA Metro Area",3.7
+2021,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",5.1
+2021,"Michigan City-La Porte, IN Metro Area",4.6
+2021,"Midland, MI Metro Area",0
+2021,"Midland, TX Metro Area",13.2
+2021,"Milwaukee-Waukesha, WI Metro Area",5.7
+2021,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",6.1
+2021,"Missoula, MT Metro Area",0
+2021,"Mobile, AL Metro Area",3.5
+2021,"Modesto, CA Metro Area",3.3
+2021,"Monroe, LA Metro Area",6
+2021,"Monroe, MI Metro Area",3.5
+2021,"Montgomery, AL Metro Area",8.3
+2021,"Morgantown, WV Metro Area",10
+2021,"Morristown, TN Metro Area",6.2
+2021,"Mount Vernon-Anacortes, WA Metro Area",1.1
+2021,"Muncie, IN Metro Area",6.1
+2021,"Muskegon, MI Metro Area",9.9
+2021,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area",21.4
+2021,"Napa, CA Metro Area",3.6
+2021,"Naples-Marco Island, FL Metro Area",9.8
+2021,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",7.4
+2021,"New Bern, NC Metro Area",3.9
+2021,"New Haven-Milford, CT Metro Area",2.6
+2021,"New Orleans-Metairie, LA Metro Area",5.8
+2021,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",4
+2021,"Niles, MI Metro Area",1.9
+2021,"North Port-Sarasota-Bradenton, FL Metro Area",11.6
+2021,"Norwich-New London, CT Metro Area",6.5
+2021,"Ocala, FL Metro Area",5
+2021,"Ocean City, NJ Metro Area",18.3
+2021,"Odessa, TX Metro Area",6.6
+2021,"Ogden-Clearfield, UT Metro Area",4.5
+2021,"Oklahoma City, OK Metro Area",7.6
+2021,"Olympia-Lacey-Tumwater, WA Metro Area",4.2
+2021,"Omaha-Council Bluffs, NE-IA Metro Area",5.7
+2021,"Orlando-Kissimmee-Sanford, FL Metro Area",8.9
+2021,"Oshkosh-Neenah, WI Metro Area",1.9
+2021,"Owensboro, KY Metro Area",2.1
+2021,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",4.2
+2021,"Palm Bay-Melbourne-Titusville, FL Metro Area",7.4
+2021,"Panama City, FL Metro Area",2.4
+2021,"Parkersburg-Vienna, WV Metro Area",4.1
+2021,"Pensacola-Ferry Pass-Brent, FL Metro Area",2
+2021,"Peoria, IL Metro Area",4.2
+2021,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",4.8
+2021,"Phoenix-Mesa-Chandler, AZ Metro Area",4.3
+2021,"Pine Bluff, AR Metro Area",3
+2021,"Pittsburgh, PA Metro Area",5.9
+2021,"Pittsfield, MA Metro Area",2.2
+2021,"Pocatello, ID Metro Area",2.1
+2021,"Ponce, PR Metro Area",6.5
+2021,"Portland-South Portland, ME Metro Area",4.4
+2021,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",3.2
+2021,"Port St. Lucie, FL Metro Area",7
+2021,"Poughkeepsie-Newburgh-Middletown, NY Metro Area",3.3
+2021,"Prescott Valley-Prescott, AZ Metro Area",2.9
+2021,"Providence-Warwick, RI-MA Metro Area",3.7
+2021,"Provo-Orem, UT Metro Area",1.4
+2021,"Pueblo, CO Metro Area",2.2
+2021,"Punta Gorda, FL Metro Area",11.4
+2021,"Racine, WI Metro Area",3.7
+2021,"Raleigh-Cary, NC Metro Area",7.6
+2021,"Rapid City, SD Metro Area",1.3
+2021,"Reading, PA Metro Area",4.1
+2021,"Redding, CA Metro Area",5.2
+2021,"Reno, NV Metro Area",4.1
+2021,"Richmond, VA Metro Area",4.3
+2021,"Riverside-San Bernardino-Ontario, CA Metro Area",3.2
+2021,"Roanoke, VA Metro Area",7
+2021,"Rochester, MN Metro Area",8.5
+2021,"Rochester, NY Metro Area",4.7
+2021,"Rockford, IL Metro Area",5.1
+2021,"Rocky Mount, NC Metro Area",2.1
+2021,"Rome, GA Metro Area",5.9
+2021,"Sacramento-Roseville-Folsom, CA Metro Area",2.4
+2021,"Saginaw, MI Metro Area",7.3
+2021,"St. Cloud, MN Metro Area",3.1
+2021,"St. George, UT Metro Area",10.4
+2021,"St. Joseph, MO-KS Metro Area",2.4
+2021,"St. Louis, MO-IL Metro Area",4.5
+2021,"Salem, OR Metro Area",3.2
+2021,"Salinas, CA Metro Area",1.8
+2021,"Salisbury, MD-DE Metro Area",6
+2021,"Salt Lake City, UT Metro Area",4.8
+2021,"San Angelo, TX Metro Area",15.8
+2021,"San Antonio-New Braunfels, TX Metro Area",7.2
+2021,"San Diego-Chula Vista-Carlsbad, CA Metro Area",3.7
+2021,"San Francisco-Oakland-Berkeley, CA Metro Area",6.1
+2021,"San Germán, PR Metro Area",3.1
+2021,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",5.5
+2021,"San Juan-Bayamón-Caguas, PR Metro Area",5.5
+2021,"San Luis Obispo-Paso Robles, CA Metro Area",3.7
+2021,"Santa Cruz-Watsonville, CA Metro Area",4
+2021,"Santa Fe, NM Metro Area",6.5
+2021,"Santa Maria-Santa Barbara, CA Metro Area",2.4
+2021,"Santa Rosa-Petaluma, CA Metro Area",2.5
+2021,"Savannah, GA Metro Area",4.1
+2021,"Scranton--Wilkes-Barre, PA Metro Area",3.9
+2021,"Seattle-Tacoma-Bellevue, WA Metro Area",4.5
+2021,"Sebastian-Vero Beach, FL Metro Area",9.2
+2021,"Sebring-Avon Park, FL Metro Area",4.8
+2021,"Sheboygan, WI Metro Area",0.8
+2021,"Sherman-Denison, TX Metro Area",2.6
+2021,"Shreveport-Bossier City, LA Metro Area",8.3
+2021,"Sierra Vista-Douglas, AZ Metro Area",5.2
+2021,"Sioux City, IA-NE-SD Metro Area",3.9
+2021,"Sioux Falls, SD Metro Area",4
+2021,"South Bend-Mishawaka, IN-MI Metro Area",6.1
+2021,"Spartanburg, SC Metro Area",4
+2021,"Spokane-Spokane Valley, WA Metro Area",1.8
+2021,"Springfield, IL Metro Area",11.4
+2021,"Springfield, MA Metro Area",3.4
+2021,"Springfield, MO Metro Area",3.2
+2021,"Springfield, OH Metro Area",3.6
+2021,"State College, PA Metro Area",8.4
+2021,"Staunton, VA Metro Area",4
+2021,"Stockton, CA Metro Area",2.5
+2021,"Sumter, SC Metro Area",1.4
+2021,"Syracuse, NY Metro Area",2.7
+2021,"Tallahassee, FL Metro Area",4.5
+2021,"Tampa-St. Petersburg-Clearwater, FL Metro Area",6.1
+2021,"Terre Haute, IN Metro Area",4.4
+2021,"Texarkana, TX-AR Metro Area",5.4
+2021,"The Villages, FL Metro Area",15.4
+2021,"Toledo, OH Metro Area",4.1
+2021,"Topeka, KS Metro Area",6
+2021,"Trenton-Princeton, NJ Metro Area",1.3
+2021,"Tucson, AZ Metro Area",4
+2021,"Tulsa, OK Metro Area",4.4
+2021,"Tuscaloosa, AL Metro Area",6.1
+2021,"Twin Falls, ID Metro Area",0.5
+2021,"Tyler, TX Metro Area",18.6
+2021,"Urban Honolulu, HI Metro Area",4.1
+2021,"Utica-Rome, NY Metro Area",4.1
+2021,"Valdosta, GA Metro Area",1.5
+2021,"Vallejo, CA Metro Area",2.3
+2021,"Victoria, TX Metro Area",7.7
+2021,"Vineland-Bridgeton, NJ Metro Area",4.7
+2021,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",3.9
+2021,"Visalia, CA Metro Area",1.6
+2021,"Waco, TX Metro Area",4
+2021,"Walla Walla, WA Metro Area",7.9
+2021,"Warner Robins, GA Metro Area",10.9
+2021,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",5.3
+2021,"Waterloo-Cedar Falls, IA Metro Area",7.8
+2021,"Watertown-Fort Drum, NY Metro Area",2.2
+2021,"Wausau-Weston, WI Metro Area",2.7
+2021,"Weirton-Steubenville, WV-OH Metro Area",3
+2021,"Wenatchee, WA Metro Area",3
+2021,"Wheeling, WV-OH Metro Area",11.1
+2021,"Wichita, KS Metro Area",8.1
+2021,"Wichita Falls, TX Metro Area",9.4
+2021,"Williamsport, PA Metro Area",3.4
+2021,"Wilmington, NC Metro Area",8.4
+2021,"Winchester, VA-WV Metro Area",5.3
+2021,"Winston-Salem, NC Metro Area",6.4
+2021,"Worcester, MA-CT Metro Area",3.7
+2021,"Yakima, WA Metro Area",2
+2021,"Yauco, PR Metro Area",7.3
+2021,"York-Hanover, PA Metro Area",3.8
+2021,"Youngstown-Warren-Boardman, OH-PA Metro Area",3.9
+2021,"Yuba City, CA Metro Area",1.6
+2021,"Yuma, AZ Metro Area",2.9
+2022,"Abilene, TX Metro Area",3.5
+2022,"Aguadilla-Isabela, PR Metro Area",4.3
+2022,"Akron, OH Metro Area",4
+2022,"Albany, GA Metro Area",8.6
+2022,"Albany-Lebanon, OR Metro Area",3.3
+2022,"Albany-Schenectady-Troy, NY Metro Area",4.1
+2022,"Albuquerque, NM Metro Area",4.9
+2022,"Alexandria, LA Metro Area",5.8
+2022,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",3.6
+2022,"Altoona, PA Metro Area",6.3
+2022,"Amarillo, TX Metro Area",11
+2022,"Ames, IA Metro Area",3.5
+2022,"Anchorage, AK Metro Area",6.2
+2022,"Ann Arbor, MI Metro Area",2.9
+2022,"Anniston-Oxford, AL Metro Area",4.3
+2022,"Appleton, WI Metro Area",1.7
+2022,"Arecibo, PR Metro Area",4.5
+2022,"Asheville, NC Metro Area",11.9
+2022,"Athens-Clarke County, GA Metro Area",1.5
+2022,"Atlanta-Sandy Springs-Alpharetta, GA Metro Area",6.6
+2022,"Atlantic City-Hammonton, NJ Metro Area",1.9
+2022,"Auburn-Opelika, AL Metro Area",7.8
+2022,"Augusta-Richmond County, GA-SC Metro Area",8.9
+2022,"Austin-Round Rock-Georgetown, TX Metro Area",3
+2022,"Bakersfield, CA Metro Area",3.8
+2022,"Baltimore-Columbia-Towson, MD Metro Area",3.9
+2022,"Bangor, ME Metro Area",5.1
+2022,"Barnstable Town, MA Metro Area",3.5
+2022,"Baton Rouge, LA Metro Area",6.9
+2022,"Battle Creek, MI Metro Area",11.1
+2022,"Bay City, MI Metro Area",4.5
+2022,"Beaumont-Port Arthur, TX Metro Area",9.9
+2022,"Beckley, WV Metro Area",5.6
+2022,"Bellingham, WA Metro Area",2.6
+2022,"Bend, OR Metro Area",3.6
+2022,"Billings, MT Metro Area",5.6
+2022,"Binghamton, NY Metro Area",6
+2022,"Birmingham-Hoover, AL Metro Area",6.3
+2022,"Bismarck, ND Metro Area",10.8
+2022,"Blacksburg-Christiansburg, VA Metro Area",6.1
+2022,"Bloomington, IL Metro Area",6.8
+2022,"Bloomington, IN Metro Area",6.1
+2022,"Bloomsburg-Berwick, PA Metro Area",2.8
+2022,"Boise City, ID Metro Area",5.3
+2022,"Boston-Cambridge-Newton, MA-NH Metro Area",3.4
+2022,"Boulder, CO Metro Area",3.5
+2022,"Bowling Green, KY Metro Area",4.3
+2022,"Bremerton-Silverdale-Port Orchard, WA Metro Area",0.8
+2022,"Bridgeport-Stamford-Norwalk, CT Metro Area",3.5
+2022,"Brownsville-Harlingen, TX Metro Area",4
+2022,"Brunswick, GA Metro Area",8.5
+2022,"Buffalo-Cheektowaga, NY Metro Area",3.9
+2022,"Burlington, NC Metro Area",4.4
+2022,"Burlington-South Burlington, VT Metro Area",2.3
+2022,"California-Lexington Park, MD Metro Area",1.4
+2022,"Canton-Massillon, OH Metro Area",2.1
+2022,"Cape Coral-Fort Myers, FL Metro Area",8.2
+2022,"Cape Girardeau, MO-IL Metro Area",6.8
+2022,"Carbondale-Marion, IL Metro Area",5.3
+2022,"Carson City, NV Metro Area",7.3
+2022,"Casper, WY Metro Area",8.7
+2022,"Cedar Rapids, IA Metro Area",13
+2022,"Chambersburg-Waynesboro, PA Metro Area",2.5
+2022,"Champaign-Urbana, IL Metro Area",7.9
+2022,"Charleston, WV Metro Area",6.7
+2022,"Charleston-North Charleston, SC Metro Area",7.6
+2022,"Charlotte-Concord-Gastonia, NC-SC Metro Area",5.6
+2022,"Charlottesville, VA Metro Area",1.8
+2022,"Chattanooga, TN-GA Metro Area",4.4
+2022,"Cheyenne, WY Metro Area",3.2
+2022,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",3.8
+2022,"Chico, CA Metro Area",6.8
+2022,"Cincinnati, OH-KY-IN Metro Area",3.9
+2022,"Clarksville, TN-KY Metro Area",4.4
+2022,"Cleveland, TN Metro Area",0
+2022,"Cleveland-Elyria, OH Metro Area",4.1
+2022,"Coeur d'Alene, ID Metro Area",5.1
+2022,"College Station-Bryan, TX Metro Area",4.8
+2022,"Colorado Springs, CO Metro Area",2.6
+2022,"Columbia, MO Metro Area",4.6
+2022,"Columbia, SC Metro Area",6.5
+2022,"Columbus, GA-AL Metro Area",3.3
+2022,"Columbus, IN Metro Area",0
+2022,"Columbus, OH Metro Area",4.3
+2022,"Corpus Christi, TX Metro Area",12.1
+2022,"Corvallis, OR Metro Area",4.9
+2022,"Crestview-Fort Walton Beach-Destin, FL Metro Area",14
+2022,"Cumberland, MD-WV Metro Area",8.3
+2022,"Dallas-Fort Worth-Arlington, TX Metro Area",6.9
+2022,"Dalton, GA Metro Area",4.8
+2022,"Danville, IL Metro Area",6.8
+2022,"Daphne-Fairhope-Foley, AL Metro Area",12.1
+2022,"Davenport-Moline-Rock Island, IA-IL Metro Area",5.9
+2022,"Dayton-Kettering, OH Metro Area",2.4
+2022,"Decatur, AL Metro Area",3.6
+2022,"Decatur, IL Metro Area",10.5
+2022,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",7.6
+2022,"Denver-Aurora-Lakewood, CO Metro Area",5
+2022,"Des Moines-West Des Moines, IA Metro Area",4.4
+2022,"Detroit-Warren-Dearborn, MI Metro Area",5.3
+2022,"Dothan, AL Metro Area",9.3
+2022,"Dover, DE Metro Area",2.9
+2022,"Dubuque, IA Metro Area",1.4
+2022,"Duluth, MN-WI Metro Area",2.3
+2022,"Durham-Chapel Hill, NC Metro Area",5.9
+2022,"East Stroudsburg, PA Metro Area",4.1
+2022,"Eau Claire, WI Metro Area",1.9
+2022,"El Centro, CA Metro Area",1.3
+2022,"Elizabethtown-Fort Knox, KY Metro Area",6.9
+2022,"Elkhart-Goshen, IN Metro Area",6.4
+2022,"Elmira, NY Metro Area",6.8
+2022,"El Paso, TX Metro Area",5
+2022,"Enid, OK Metro Area",11
+2022,"Erie, PA Metro Area",5.9
+2022,"Eugene-Springfield, OR Metro Area",3.2
+2022,"Evansville, IN-KY Metro Area",7.2
+2022,"Fairbanks, AK Metro Area",6
+2022,"Fargo, ND-MN Metro Area",6.1
+2022,"Farmington, NM Metro Area",2.8
+2022,"Fayetteville, NC Metro Area",4.5
+2022,"Fayetteville-Springdale-Rogers, AR Metro Area",3.2
+2022,"Flagstaff, AZ Metro Area",9
+2022,"Flint, MI Metro Area",4.3
+2022,"Florence, SC Metro Area",7.8
+2022,"Florence-Muscle Shoals, AL Metro Area",7.9
+2022,"Fond du Lac, WI Metro Area",3.5
+2022,"Fort Collins, CO Metro Area",2.2
+2022,"Fort Smith, AR-OK Metro Area",6.6
+2022,"Fort Wayne, IN Metro Area",3.9
+2022,"Fresno, CA Metro Area",2.9
+2022,"Gadsden, AL Metro Area",0
+2022,"Gainesville, FL Metro Area",8.9
+2022,"Gainesville, GA Metro Area",4.4
+2022,"Gettysburg, PA Metro Area",1.8
+2022,"Glens Falls, NY Metro Area",4.9
+2022,"Goldsboro, NC Metro Area",0.2
+2022,"Grand Forks, ND-MN Metro Area",10.6
+2022,"Grand Island, NE Metro Area",1.1
+2022,"Grand Junction, CO Metro Area",6.4
+2022,"Grand Rapids-Kentwood, MI Metro Area",3.8
+2022,"Grants Pass, OR Metro Area",4.3
+2022,"Great Falls, MT Metro Area",1
+2022,"Greeley, CO Metro Area",6.8
+2022,"Green Bay, WI Metro Area",2
+2022,"Greensboro-High Point, NC Metro Area",3.8
+2022,"Greenville, NC Metro Area",5.9
+2022,"Greenville-Anderson, SC Metro Area",6.5
+2022,"Guayama, PR Metro Area",0
+2022,"Gulfport-Biloxi, MS Metro Area",5.9
+2022,"Hagerstown-Martinsburg, MD-WV Metro Area",3.9
+2022,"Hammond, LA Metro Area",9.4
+2022,"Hanford-Corcoran, CA Metro Area",3.5
+2022,"Harrisburg-Carlisle, PA Metro Area",3
+2022,"Harrisonburg, VA Metro Area",1.9
+2022,"Hartford-East Hartford-Middletown, CT Metro Area",3.6
+2022,"Hattiesburg, MS Metro Area",5.9
+2022,"Hickory-Lenoir-Morganton, NC Metro Area",3.8
+2022,"Hilton Head Island-Bluffton, SC Metro Area",16.7
+2022,"Hinesville, GA Metro Area",7.3
+2022,"Homosassa Springs, FL Metro Area",8.7
+2022,"Hot Springs, AR Metro Area",4.5
+2022,"Houma-Thibodaux, LA Metro Area",5.9
+2022,"Houston-The Woodlands-Sugar Land, TX Metro Area",7.4
+2022,"Huntington-Ashland, WV-KY-OH Metro Area",6.1
+2022,"Huntsville, AL Metro Area",8.3
+2022,"Idaho Falls, ID Metro Area",5
+2022,"Indianapolis-Carmel-Anderson, IN Metro Area",5.4
+2022,"Iowa City, IA Metro Area",4.6
+2022,"Ithaca, NY Metro Area",3
+2022,"Jackson, MI Metro Area",5.8
+2022,"Jackson, MS Metro Area",6.5
+2022,"Jackson, TN Metro Area",4.9
+2022,"Jacksonville, FL Metro Area",6.4
+2022,"Jacksonville, NC Metro Area",9.1
+2022,"Janesville-Beloit, WI Metro Area",8
+2022,"Jefferson City, MO Metro Area",7
+2022,"Johnson City, TN Metro Area",5
+2022,"Johnstown, PA Metro Area",7.4
+2022,"Jonesboro, AR Metro Area",3.5
+2022,"Joplin, MO Metro Area",1.1
+2022,"Kahului-Wailuku-Lahaina, HI Metro Area",11
+2022,"Kalamazoo-Portage, MI Metro Area",2.7
+2022,"Kankakee, IL Metro Area",3.8
+2022,"Kansas City, MO-KS Metro Area",5.2
+2022,"Kennewick-Richland, WA Metro Area",5.7
+2022,"Killeen-Temple, TX Metro Area",5
+2022,"Kingsport-Bristol, TN-VA Metro Area",5.2
+2022,"Kingston, NY Metro Area",3.2
+2022,"Knoxville, TN Metro Area",4.1
+2022,"Kokomo, IN Metro Area",18
+2022,"La Crosse-Onalaska, WI-MN Metro Area",5.6
+2022,"Lafayette, LA Metro Area",4.1
+2022,"Lafayette-West Lafayette, IN Metro Area",4.3
+2022,"Lake Charles, LA Metro Area",16
+2022,"Lake Havasu City-Kingman, AZ Metro Area",2.6
+2022,"Lakeland-Winter Haven, FL Metro Area",5
+2022,"Lancaster, PA Metro Area",2.8
+2022,"Lansing-East Lansing, MI Metro Area",4
+2022,"Laredo, TX Metro Area",5.9
+2022,"Las Cruces, NM Metro Area",4.5
+2022,"Las Vegas-Henderson-Paradise, NV Metro Area",6.9
+2022,"Lawrence, KS Metro Area",2
+2022,"Lawton, OK Metro Area",6
+2022,"Lebanon, PA Metro Area",5.1
+2022,"Lewiston, ID-WA Metro Area",0.3
+2022,"Lewiston-Auburn, ME Metro Area",5.6
+2022,"Lexington-Fayette, KY Metro Area",2.4
+2022,"Lima, OH Metro Area",1.7
+2022,"Lincoln, NE Metro Area",3.1
+2022,"Little Rock-North Little Rock-Conway, AR Metro Area",8.4
+2022,"Logan, UT-ID Metro Area",1.6
+2022,"Longview, TX Metro Area",4.6
+2022,"Longview, WA Metro Area",4.9
+2022,"Los Angeles-Long Beach-Anaheim, CA Metro Area",3.3
+2022,"Louisville/Jefferson County, KY-IN Metro Area",4.2
+2022,"Lubbock, TX Metro Area",7.3
+2022,"Lynchburg, VA Metro Area",6.3
+2022,"Macon-Bibb County, GA Metro Area",8.3
+2022,"Madera, CA Metro Area",6.2
+2022,"Madison, WI Metro Area",2.5
+2022,"Manchester-Nashua, NH Metro Area",3.9
+2022,"Manhattan, KS Metro Area",5.4
+2022,"Mankato, MN Metro Area",1.2
+2022,"Mansfield, OH Metro Area",4.6
+2022,"Mayagüez, PR Metro Area",10.1
+2022,"McAllen-Edinburg-Mission, TX Metro Area",5.1
+2022,"Medford, OR Metro Area",5.9
+2022,"Memphis, TN-MS-AR Metro Area",8.8
+2022,"Merced, CA Metro Area",2.1
+2022,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",5.8
+2022,"Michigan City-La Porte, IN Metro Area",4.3
+2022,"Midland, MI Metro Area",1.8
+2022,"Midland, TX Metro Area",5.3
+2022,"Milwaukee-Waukesha, WI Metro Area",5
+2022,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",4.6
+2022,"Missoula, MT Metro Area",4.2
+2022,"Mobile, AL Metro Area",4.8
+2022,"Modesto, CA Metro Area",2.6
+2022,"Monroe, LA Metro Area",8.3
+2022,"Monroe, MI Metro Area",3.3
+2022,"Montgomery, AL Metro Area",6.6
+2022,"Morgantown, WV Metro Area",11.6
+2022,"Morristown, TN Metro Area",5.6
+2022,"Mount Vernon-Anacortes, WA Metro Area",2
+2022,"Muncie, IN Metro Area",5.5
+2022,"Muskegon, MI Metro Area",7.5
+2022,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area",18.9
+2022,"Napa, CA Metro Area",3.5
+2022,"Naples-Marco Island, FL Metro Area",7.9
+2022,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",5.3
+2022,"New Bern, NC Metro Area",7.9
+2022,"New Haven-Milford, CT Metro Area",3.5
+2022,"New Orleans-Metairie, LA Metro Area",8
+2022,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",3.1
+2022,"Niles, MI Metro Area",3.5
+2022,"North Port-Sarasota-Bradenton, FL Metro Area",11.3
+2022,"Norwich-New London, CT Metro Area",3.5
+2022,"Ocala, FL Metro Area",11.2
+2022,"Ocean City, NJ Metro Area",19.3
+2022,"Odessa, TX Metro Area",2.5
+2022,"Ogden-Clearfield, UT Metro Area",5.4
+2022,"Oklahoma City, OK Metro Area",7.1
+2022,"Olympia-Lacey-Tumwater, WA Metro Area",1.6
+2022,"Omaha-Council Bluffs, NE-IA Metro Area",3.7
+2022,"Orlando-Kissimmee-Sanford, FL Metro Area",6.3
+2022,"Oshkosh-Neenah, WI Metro Area",4
+2022,"Owensboro, KY Metro Area",10.5
+2022,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",3.1
+2022,"Palm Bay-Melbourne-Titusville, FL Metro Area",12.2
+2022,"Panama City, FL Metro Area",17.3
+2022,"Parkersburg-Vienna, WV Metro Area",4.3
+2022,"Pensacola-Ferry Pass-Brent, FL Metro Area",5.2
+2022,"Peoria, IL Metro Area",8.4
+2022,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",4.4
+2022,"Phoenix-Mesa-Chandler, AZ Metro Area",5.5
+2022,"Pine Bluff, AR Metro Area",10.4
+2022,"Pittsburgh, PA Metro Area",6.5
+2022,"Pittsfield, MA Metro Area",2.9
+2022,"Pocatello, ID Metro Area",5.4
+2022,"Ponce, PR Metro Area",3.3
+2022,"Portland-South Portland, ME Metro Area",3.1
+2022,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",4.1
+2022,"Port St. Lucie, FL Metro Area",9.4
+2022,"Poughkeepsie-Newburgh-Middletown, NY Metro Area",2.8
+2022,"Prescott Valley-Prescott, AZ Metro Area",4.8
+2022,"Providence-Warwick, RI-MA Metro Area",3.1
+2022,"Provo-Orem, UT Metro Area",2.3
+2022,"Pueblo, CO Metro Area",0.9
+2022,"Punta Gorda, FL Metro Area",10.1
+2022,"Racine, WI Metro Area",8.9
+2022,"Raleigh-Cary, NC Metro Area",15
+2022,"Rapid City, SD Metro Area",7.5
+2022,"Reading, PA Metro Area",4.3
+2022,"Redding, CA Metro Area",4
+2022,"Reno, NV Metro Area",5.9
+2022,"Richmond, VA Metro Area",4.2
+2022,"Riverside-San Bernardino-Ontario, CA Metro Area",3.9
+2022,"Roanoke, VA Metro Area",4.1
+2022,"Rochester, MN Metro Area",4.6
+2022,"Rochester, NY Metro Area",4.3
+2022,"Rockford, IL Metro Area",3.1
+2022,"Rocky Mount, NC Metro Area",3.5
+2022,"Rome, GA Metro Area",4.9
+2022,"Sacramento-Roseville-Folsom, CA Metro Area",5
+2022,"Saginaw, MI Metro Area",9.9
+2022,"St. Cloud, MN Metro Area",2
+2022,"St. George, UT Metro Area",7.7
+2022,"St. Joseph, MO-KS Metro Area",7.9
+2022,"St. Louis, MO-IL Metro Area",5.2
+2022,"Salem, OR Metro Area",3
+2022,"Salinas, CA Metro Area",2.2
+2022,"Salisbury, MD-DE Metro Area",5.5
+2022,"Salt Lake City, UT Metro Area",6.2
+2022,"San Angelo, TX Metro Area",8.2
+2022,"San Antonio-New Braunfels, TX Metro Area",7.2
+2022,"San Diego-Chula Vista-Carlsbad, CA Metro Area",3.6
+2022,"San Francisco-Oakland-Berkeley, CA Metro Area",5.4
+2022,"San Germán, PR Metro Area",1.7
+2022,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",5.6
+2022,"San Juan-Bayamón-Caguas, PR Metro Area",3.6
+2022,"San Luis Obispo-Paso Robles, CA Metro Area",5.6
+2022,"Santa Cruz-Watsonville, CA Metro Area",4.2
+2022,"Santa Fe, NM Metro Area",3.9
+2022,"Santa Maria-Santa Barbara, CA Metro Area",2.3
+2022,"Santa Rosa-Petaluma, CA Metro Area",2.2
+2022,"Savannah, GA Metro Area",5.7
+2022,"Scranton--Wilkes-Barre, PA Metro Area",4.5
+2022,"Seattle-Tacoma-Bellevue, WA Metro Area",4.5
+2022,"Sebastian-Vero Beach, FL Metro Area",7.2
+2022,"Sebring-Avon Park, FL Metro Area",0.8
+2022,"Sheboygan, WI Metro Area",1.3
+2022,"Sherman-Denison, TX Metro Area",2.1
+2022,"Shreveport-Bossier City, LA Metro Area",6.7
+2022,"Sierra Vista-Douglas, AZ Metro Area",5.7
+2022,"Sioux City, IA-NE-SD Metro Area",1.5
+2022,"Sioux Falls, SD Metro Area",4.7
+2022,"South Bend-Mishawaka, IN-MI Metro Area",6.5
+2022,"Spartanburg, SC Metro Area",6.7
+2022,"Spokane-Spokane Valley, WA Metro Area",3.3
+2022,"Springfield, IL Metro Area",18.9
+2022,"Springfield, MA Metro Area",5.1
+2022,"Springfield, MO Metro Area",4.1
+2022,"Springfield, OH Metro Area",1
+2022,"State College, PA Metro Area",4.4
+2022,"Staunton, VA Metro Area",1.6
+2022,"Stockton, CA Metro Area",4
+2022,"Sumter, SC Metro Area",3.1
+2022,"Syracuse, NY Metro Area",2.5
+2022,"Tallahassee, FL Metro Area",4.3
+2022,"Tampa-St. Petersburg-Clearwater, FL Metro Area",7.2
+2022,"Terre Haute, IN Metro Area",4.4
+2022,"Texarkana, TX-AR Metro Area",9.6
+2022,"The Villages, FL Metro Area",14.4
+2022,"Toledo, OH Metro Area",2.9
+2022,"Topeka, KS Metro Area",5.5
+2022,"Trenton-Princeton, NJ Metro Area",3.4
+2022,"Tucson, AZ Metro Area",5.6
+2022,"Tulsa, OK Metro Area",4.7
+2022,"Tuscaloosa, AL Metro Area",2.2
+2022,"Twin Falls, ID Metro Area",4.2
+2022,"Tyler, TX Metro Area",20.6
+2022,"Urban Honolulu, HI Metro Area",4.7
+2022,"Utica-Rome, NY Metro Area",3.4
+2022,"Valdosta, GA Metro Area",2.8
+2022,"Vallejo, CA Metro Area",3.4
+2022,"Victoria, TX Metro Area",10.8
+2022,"Vineland-Bridgeton, NJ Metro Area",1.9
+2022,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",5.3
+2022,"Visalia, CA Metro Area",3.9
+2022,"Waco, TX Metro Area",6.7
+2022,"Walla Walla, WA Metro Area",5.4
+2022,"Warner Robins, GA Metro Area",10.2
+2022,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",4.2
+2022,"Waterloo-Cedar Falls, IA Metro Area",3.8
+2022,"Watertown-Fort Drum, NY Metro Area",6.8
+2022,"Wausau-Weston, WI Metro Area",3.9
+2022,"Weirton-Steubenville, WV-OH Metro Area",3.2
+2022,"Wenatchee, WA Metro Area",5.5
+2022,"Wheeling, WV-OH Metro Area",9
+2022,"Wichita, KS Metro Area",6.8
+2022,"Wichita Falls, TX Metro Area",11.6
+2022,"Williamsport, PA Metro Area",3.3
+2022,"Wilmington, NC Metro Area",7.6
+2022,"Winchester, VA-WV Metro Area",3.3
+2022,"Winston-Salem, NC Metro Area",8.4
+2022,"Worcester, MA-CT Metro Area",3
+2022,"Yakima, WA Metro Area",2.9
+2022,"Yauco, PR Metro Area",7.8
+2022,"York-Hanover, PA Metro Area",2.2
+2022,"Youngstown-Warren-Boardman, OH-PA Metro Area",4.4
+2022,"Yuba City, CA Metro Area",2.3
+2022,"Yuma, AZ Metro Area",7.6

@@ -1,0 +1,261 @@
+year,NAME,vacancy_rate
+2017,Alabama,11
+2017,Alaska,8.1
+2017,Arizona,6
+2017,Arkansas,8.2
+2017,California,3.5
+2017,Colorado,5.2
+2017,Connecticut,7
+2017,Delaware,7.5
+2017,District of Columbia,5.7
+2017,Florida,9.2
+2017,Georgia,6.7
+2017,Hawaii,9.2
+2017,Idaho,6.2
+2017,Illinois,7
+2017,Indiana,7.1
+2017,Iowa,7.3
+2017,Kansas,7.5
+2017,Kentucky,5.5
+2017,Louisiana,8.7
+2017,Maine,8.4
+2017,Maryland,5.9
+2017,Massachusetts,3.9
+2017,Michigan,4.9
+2017,Minnesota,4.3
+2017,Mississippi,10.7
+2017,Missouri,6.4
+2017,Montana,6.1
+2017,Nebraska,6.3
+2017,Nevada,6.9
+2017,New Hampshire,3.5
+2017,New Jersey,4.5
+2017,New Mexico,8.3
+2017,New York,4.2
+2017,North Carolina,6.8
+2017,North Dakota,12.5
+2017,Ohio,5.6
+2017,Oklahoma,8.6
+2017,Oregon,3.8
+2017,Pennsylvania,5.8
+2017,Rhode Island,4.9
+2017,South Carolina,9
+2017,South Dakota,6.4
+2017,Tennessee,6.7
+2017,Texas,8.5
+2017,Utah,6.2
+2017,Vermont,3.8
+2017,Virginia,6.4
+2017,Washington,3.7
+2017,West Virginia,8.2
+2017,Wisconsin,5.2
+2017,Wyoming,16.1
+2017,Puerto Rico,8.4
+2018,Alabama,10.1
+2018,Alaska,8.6
+2018,Arizona,5.7
+2018,Arkansas,8.4
+2018,California,4
+2018,Colorado,5.3
+2018,Connecticut,5.8
+2018,Delaware,5.8
+2018,District of Columbia,6.8
+2018,Florida,8.5
+2018,Georgia,7.2
+2018,Hawaii,9.9
+2018,Idaho,5.3
+2018,Illinois,6.3
+2018,Indiana,6.6
+2018,Iowa,6.9
+2018,Kansas,7.9
+2018,Kentucky,6.2
+2018,Louisiana,8.7
+2018,Maine,5.3
+2018,Maryland,6.6
+2018,Massachusetts,3.6
+2018,Michigan,4.8
+2018,Minnesota,4.5
+2018,Mississippi,10.5
+2018,Missouri,6.6
+2018,Montana,7.4
+2018,Nebraska,5.7
+2018,Nevada,8.7
+2018,New Hampshire,4.6
+2018,New Jersey,4.4
+2018,New Mexico,8.3
+2018,New York,4.2
+2018,North Carolina,7
+2018,North Dakota,10.8
+2018,Ohio,5.5
+2018,Oklahoma,8.5
+2018,Oregon,4.4
+2018,Pennsylvania,5.3
+2018,Rhode Island,6.3
+2018,South Carolina,10
+2018,South Dakota,7.5
+2018,Tennessee,7.6
+2018,Texas,8.2
+2018,Utah,6.2
+2018,Vermont,5.1
+2018,Virginia,5.2
+2018,Washington,3.9
+2018,West Virginia,6.8
+2018,Wisconsin,5.4
+2018,Wyoming,12.2
+2018,Puerto Rico,6.6
+2019,Alabama,9.7
+2019,Alaska,9.2
+2019,Arizona,5.3
+2019,Arkansas,7.4
+2019,California,4.1
+2019,Colorado,4.6
+2019,Connecticut,6.4
+2019,Delaware,6.6
+2019,District of Columbia,7
+2019,Florida,8.7
+2019,Georgia,7.3
+2019,Hawaii,8.8
+2019,Idaho,4
+2019,Illinois,5.7
+2019,Indiana,6.9
+2019,Iowa,6.2
+2019,Kansas,7.8
+2019,Kentucky,6.4
+2019,Louisiana,8.3
+2019,Maine,5
+2019,Maryland,6.3
+2019,Massachusetts,3.1
+2019,Michigan,5.6
+2019,Minnesota,4.8
+2019,Mississippi,10.7
+2019,Missouri,5.1
+2019,Montana,7.1
+2019,Nebraska,5.9
+2019,Nevada,7.6
+2019,New Hampshire,4.5
+2019,New Jersey,4.2
+2019,New Mexico,8.1
+2019,New York,4
+2019,North Carolina,6.6
+2019,North Dakota,8
+2019,Ohio,4.7
+2019,Oklahoma,8
+2019,Oregon,4
+2019,Pennsylvania,4.9
+2019,Rhode Island,7
+2019,South Carolina,9.1
+2019,South Dakota,6.9
+2019,Tennessee,7.3
+2019,Texas,8.1
+2019,Utah,7.5
+2019,Vermont,4.5
+2019,Virginia,5.5
+2019,Washington,4.3
+2019,West Virginia,7.2
+2019,Wisconsin,4.9
+2019,Wyoming,12.9
+2019,Puerto Rico,6.6
+2021,Alabama,7.2
+2021,Alaska,6.6
+2021,Arizona,4.1
+2021,Arkansas,6.3
+2021,California,4.1
+2021,Colorado,5.7
+2021,Connecticut,4.1
+2021,Delaware,5.3
+2021,District of Columbia,8
+2021,Florida,6.8
+2021,Georgia,6.2
+2021,Hawaii,8
+2021,Idaho,3.4
+2021,Illinois,5.8
+2021,Indiana,5.4
+2021,Iowa,5.3
+2021,Kansas,5.8
+2021,Kentucky,4.9
+2021,Louisiana,6.4
+2021,Maine,3.2
+2021,Maryland,4
+2021,Massachusetts,4
+2021,Michigan,4.3
+2021,Minnesota,5.8
+2021,Mississippi,8.1
+2021,Missouri,4.5
+2021,Montana,5.8
+2021,Nebraska,5.3
+2021,Nevada,5.9
+2021,New Hampshire,3.2
+2021,New Jersey,3.5
+2021,New Mexico,4.6
+2021,New York,4.2
+2021,North Carolina,6.2
+2021,North Dakota,10.7
+2021,Ohio,4
+2021,Oklahoma,6.4
+2021,Oregon,3.2
+2021,Pennsylvania,5
+2021,Rhode Island,4.2
+2021,South Carolina,8.9
+2021,South Dakota,5
+2021,Tennessee,5.8
+2021,Texas,6.5
+2021,Utah,5
+2021,Vermont,2.4
+2021,Virginia,4.6
+2021,Washington,4
+2021,West Virginia,6.5
+2021,Wisconsin,4.5
+2021,Wyoming,5.9
+2021,Puerto Rico,5.7
+2022,Alabama,6.3
+2022,Alaska,5.8
+2022,Arizona,5.6
+2022,Arkansas,6.7
+2022,California,3.9
+2022,Colorado,5.1
+2022,Connecticut,3.5
+2022,Delaware,3.2
+2022,District of Columbia,6.2
+2022,Florida,7.1
+2022,Georgia,6.1
+2022,Hawaii,6.2
+2022,Idaho,4.4
+2022,Illinois,4.7
+2022,Indiana,5.1
+2022,Iowa,5
+2022,Kansas,6.4
+2022,Kentucky,4.3
+2022,Louisiana,7.2
+2022,Maine,4.3
+2022,Maryland,3.9
+2022,Massachusetts,3.5
+2022,Michigan,4.8
+2022,Minnesota,4.4
+2022,Mississippi,7.8
+2022,Missouri,5.2
+2022,Montana,4.8
+2022,Nebraska,3.5
+2022,Nevada,6.8
+2022,New Hampshire,3
+2022,New Jersey,3
+2022,New Mexico,5.1
+2022,New York,3.5
+2022,North Carolina,7.5
+2022,North Dakota,9.4
+2022,Ohio,3.8
+2022,Oklahoma,5.9
+2022,Oregon,3.7
+2022,Pennsylvania,4.8
+2022,Rhode Island,3.5
+2022,South Carolina,7.6
+2022,South Dakota,5.8
+2022,Tennessee,5.4
+2022,Texas,6.6
+2022,Utah,5.3
+2022,Vermont,3.3
+2022,Virginia,4.1
+2022,Washington,4.2
+2022,West Virginia,7.1
+2022,Wisconsin,4.2
+2022,Wyoming,6.8
+2022,Puerto Rico,4
