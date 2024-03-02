@@ -45,7 +45,7 @@ frame the business problem into a data question:
     - **quality of life:** crime rates, education quality (average school rating), quality of care ([average hospital safety grade rating](https://www.hospitalsafetygrade.org/search?findBy=state&zip_code=&city=&state_prov=TX&hospital=))
     - **policy and regulation:** favorable tax policies for investors (effective property tax rate)?, incentives for real estate development, government planning, Landlord-Tenant Laws (efficiency of eviction procedures, tenant rights and investor protections)
 
-**components to answer the question:**
+## BRAINSTORMING
 
 these are the factors that determine the “best” state for rental property investing
 
