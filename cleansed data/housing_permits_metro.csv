@@ -1,0 +1,1917 @@
+CBSA Name,1-unit Units,2-units Units,3-4 units Units,5+ units Units,year
+Albany-Schenectady-Troy  NY,1212,60,149,925,2017
+Glens Falls  NY,260,4,0,0,2017
+Albuquerque  NM,1996,6,3,251,2017
+Santa Fe  NM,221,0,0,0,2017
+Amarillo  TX,555,12,4,204,2017
+Appleton  WI,616,68,0,246,2017
+Oshkosh-Neenah  WI,327,12,0,210,2017
+Asheville  NC,2103,10,0,658,2017
+Athens-Clarke County  GA,581,6,8,176,2017
+Atlanta-Sandy Springs-Roswell  GA,24973,30,127,8702,2017
+Gainesville  GA,1184,2,17,160,2017
+Bend-Redmond  OR,1777,58,0,220,2017
+Birmingham-Hoover  AL,2677,2,4,6,2017
+Bloomington  IN,313,40,0,251,2017
+Bloomington  IL,214,8,0,164,2017
+Bloomsburg-Berwick  PA,105,0,6,58,2017
+Boise City  ID,6275,26,297,1311,2017
+Barnstable Town  MA,489,10,0,372,2017
+Boston-Cambridge-Newton  MA-NH,4949,490,292,9026,2017
+Manchester-Nashua  NH,717,36,16,264,2017
+Providence-Warwick  RI-MA,1722,104,24,160,2017
+Worcester  MA-CT,1297,46,0,425,2017
+Bowling Green  KY,737,38,56,439,2017
+Brownsville-Harlingen  TX,1139,60,24,22,2017
+Buffalo-Cheektowaga-Niagara Falls  NY,979,6,23,649,2017
+Cape Coral-Fort Myers  FL,4841,286,127,1700,2017
+Naples-Immokalee-Marco Island  FL,2930,4,120,1140,2017
+Cape Girardeau  MO-IL,260,12,0,326,2017
+Cedar Rapids  IA,537,146,38,271,2017
+Iowa City  IA,638,8,57,624,2017
+Charleston  WV,70,10,16,39,2017
+Huntington-Ashland  WV-KY-OH,234,10,12,8,2017
+Charlotte-Concord-Gastonia  NC-SC,15247,72,42,7508,2017
+Chattanooga  TN-GA,1928,22,20,661,2017
+Cleveland  TN,519,20,50,50,2017
+Dalton  GA,227,0,0,116,2017
+Chicago-Naperville-Elgin  IL-IN-WI,8416,238,786,12692,2017
+Kankakee  IL,88,0,8,102,2017
+Michigan City-La Porte  IN,147,4,0,6,2017
+Cincinnati  OH-KY-IN,4440,20,125,1880,2017
+Akron  OH,901,0,8,11,2017
+Canton-Massillon  OH,445,10,18,52,2017
+Cleveland-Elyria  OH,2749,62,137,279,2017
+Columbia  MO,769,14,0,851,2017
+Columbia  SC,4072,8,0,549,2017
+Auburn-Opelika  AL,971,26,4,360,2017
+Columbus  GA-AL,669,2,26,220,2017
+Columbus  OH,4295,42,116,4439,2017
+Corpus Christi  TX,1178,4,4,0,2017
+Dallas-Fort Worth-Arlington  TX,34604,296,231,27393,2017
+Sherman-Denison  TX,666,6,0,171,2017
+Davenport-Moline-Rock Island  IA-IL,443,4,18,285,2017
+Dayton  OH,1083,2,0,166,2017
+Springfield  OH,69,8,20,24,2017
+Boulder  CO,808,6,16,837,2017
+Denver-Aurora-Lakewood  CO,10978,238,128,11391,2017
+Greeley  CO,2777,8,189,672,2017
+Ames  IA,257,14,0,631,2017
+Des Moines-West Des Moines  IA,3697,36,11,2623,2017
+Ann Arbor  MI,583,12,40,22,2017
+Detroit-Warren-Dearborn  MI,6838,48,284,2919,2017
+Flint  MI,404,10,0,20,2017
+Monroe  MI,298,8,0,144,2017
+Dothan  AL,388,2,0,0,2017
+Eau Claire  WI,422,88,4,54,2017
+Elmira  NY,27,12,0,62,2017
+El Paso  TX,2373,48,187,669,2017
+Las Cruces  NM,803,0,7,316,2017
+Erie  PA,215,0,0,50,2017
+Fargo  ND-MN,1065,0,0,826,2017
+Fayetteville  NC,874,0,0,61,2017
+Fort Wayne  IN,1222,72,0,428,2017
+Fresno  CA,1796,94,18,1025,2017
+Madera  CA,415,0,0,0,2017
+Gainesville  FL,684,0,0,1585,2017
+Grand Rapids-Wyoming  MI,2953,18,44,1824,2017
+Muskegon  MI,257,0,0,0,2017
+Green Bay  WI,828,30,3,315,2017
+Burlington  NC,1030,2,3,188,2017
+Greensboro-High Point  NC,2012,22,12,1009,2017
+Winston-Salem  NC,2784,20,12,949,2017
+Greenville-Anderson-Mauldin  SC,4458,12,29,800,2017
+Spartanburg  SC,2316,0,0,0,2017
+Greenville  NC,603,86,0,448,2017
+Gettysburg  PA,249,0,0,0,2017
+Harrisburg-Carlisle  PA,1270,20,36,238,2017
+Lebanon  PA,283,8,4,71,2017
+York-Hanover  PA,678,22,55,83,2017
+Harrisonburg  VA,446,0,0,6,2017
+Staunton-Waynesboro  VA,281,6,20,0,2017
+Hartford-West Hartford-East Hartford  CT,761,24,15,707,2017
+Norwich-New London  CT,226,16,0,53,2017
+Hickory-Lenoir-Morganton  NC,725,10,0,145,2017
+Hot Springs  AR,38,0,0,0,2017
+Houston-The Woodlands-Sugar Land  TX,36348,198,127,5722,2017
+Decatur  AL,160,0,0,0,2017
+Huntsville  AL,2577,2,0,380,2017
+Idaho Falls  ID,903,0,0,282,2017
+Columbus  IN,204,0,0,0,2017
+Indianapolis-Carmel-Anderson  IN,6755,154,43,2127,2017
+Muncie  IN,68,4,0,0,2017
+Ithaca  NY,115,26,0,327,2017
+Jackson  TN,268,2,50,120,2017
+Jackson  MS,1671,16,16,40,2017
+Jacksonville  FL,9833,64,51,3011,2017
+Johnson City  TN,638,4,0,54,2017
+Kingsport-Bristol-Bristol  TN-VA,469,28,4,287,2017
+Johnstown  PA,81,2,0,0,2017
+Jonesboro  AR,512,76,184,94,2017
+Joplin  MO,445,56,55,209,2017
+Battle Creek  MI,78,0,0,6,2017
+Kalamazoo-Portage  MI,579,34,12,411,2017
+Kansas City  MO-KS,5951,190,506,3204,2017
+Lawrence  KS,288,10,0,8,2017
+St. Joseph  MO-KS,101,2,0,6,2017
+Knoxville  TN,3372,6,0,1196,2017
+Morristown  TN,252,4,12,0,2017
+Kokomo  IN,90,2,0,0,2017
+Lafayette  LA,1746,6,19,0,2017
+Lafayette-West Lafayette  IN,567,26,0,383,2017
+Lake Charles  LA,1052,72,17,757,2017
+Lansing-East Lansing  MI,533,10,20,344,2017
+Lake Havasu City-Kingman  AZ,889,18,6,0,2017
+Las Vegas-Henderson-Paradise  NV,9812,42,171,4048,2017
+Lexington-Fayette  KY,1602,64,26,634,2017
+Lima  OH,66,10,16,132,2017
+Lincoln  NE,1271,34,0,1203,2017
+Little Rock-North Little Rock-Conway  AR,2087,42,19,1067,2017
+Pine Bluff  AR,36,2,0,36,2017
+Longview  TX,167,12,8,0,2017
+Los Angeles-Long Beach-Anaheim  CA,10587,1274,495,18728,2017
+Oxnard-Thousand Oaks-Ventura  CA,1070,0,120,1375,2017
+Riverside-San Bernardino-Ontario  CA,10955,170,277,3274,2017
+Elizabethtown-Fort Knox  KY,415,72,20,0,2017
+Louisville-Jefferson County  KY-IN,3446,22,52,2265,2017
+Lubbock  TX,1613,6,3,766,2017
+Macon  GA,320,0,0,0,2017
+Warner Robins  GA,1016,0,0,180,2017
+Janesville-Beloit  WI,242,28,0,108,2017
+Madison  WI,1656,90,48,2838,2017
+Manhattan  KS,304,2,4,71,2017
+Mankato-North Mankato  MN,342,4,8,162,2017
+Mansfield  OH,70,0,7,0,2017
+McAllen-Edinburg-Mission  TX,2698,168,678,753,2017
+Grants Pass  OR,228,22,0,0,2017
+Medford  OR,724,18,16,47,2017
+Memphis  TN-MS-AR,3193,46,44,577,2017
+Miami-Fort Lauderdale-West Palm Beach  FL,6655,176,95,12797,2017
+Port St. Lucie  FL,2087,90,62,48,2017
+Sebastian-Vero Beach  FL,1112,0,9,0,2017
+Midland  TX,766,0,0,0,2017
+Odessa  TX,492,0,0,0,2017
+Milwaukee-Waukesha-West Allis  WI,1559,110,0,1975,2017
+Racine  WI,244,34,0,0,2017
+Minneapolis-St. Paul-Bloomington  MN-WI,8782,128,108,6082,2017
+St. Cloud  MN,514,4,0,301,2017
+Daphne-Fairhope-Foley  AL,2207,92,98,20,2017
+Mobile  AL,660,6,0,332,2017
+Merced  CA,546,4,0,0,2017
+Modesto  CA,644,8,0,67,2017
+Monroe  LA,660,2,45,45,2017
+Morgantown  WV,25,0,0,52,2017
+Myrtle Beach-Conway-North Myrtle Beach  SC-NC,7468,142,0,977,2017
+Nashville-Davidson--Murfreesboro--Franklin  TN,13650,82,100,6799,2017
+New Bern  NC,295,0,0,0,2017
+Hammond  LA,796,20,0,167,2017
+New Orleans-Metairie  LA,2720,142,6,98,2017
+Allentown-Bethlehem-Easton  PA-NJ,938,22,0,158,2017
+Bridgeport-Stamford-Norwalk  CT,765,44,35,875,2017
+East Stroudsburg  PA,248,0,0,0,2017
+Kingston  NY,201,8,8,119,2017
+New Haven-Milford  CT,469,16,0,265,2017
+New York-Newark-Jersey City  NY-NJ-PA,11289,1754,1139,36396,2017
+Trenton  NJ,152,2,174,277,2017
+North Port-Sarasota-Bradenton  FL,5989,30,207,1953,2017
+Punta Gorda  FL,1251,38,8,0,2017
+Oklahoma City  OK,5132,214,19,54,2017
+Omaha-Council Bluffs  NE-IA,3158,18,7,1772,2017
+Deltona-Daytona Beach-Ormond Beach  FL,2908,120,0,26,2017
+Orlando-Kissimmee-Sanford  FL,14431,220,136,4278,2017
+The Villages  FL,1814,0,0,0,2017
+Parkersburg-Vienna  WV,103,30,0,0,2017
+Pensacola-Ferry Pass-Brent  FL,2584,20,0,5,2017
+Peoria  IL,247,6,4,0,2017
+Atlantic City-Hammonton  NJ,304,2,0,784,2017
+Dover  DE,1153,14,20,367,2017
+Ocean City  NJ,542,186,3,78,2017
+Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,7233,342,429,5540,2017
+Reading  PA,399,12,0,0,2017
+Vineland-Bridgeton  NJ,88,0,0,0,2017
+Pittsburgh  PA,2988,64,152,1124,2017
+Weirton-Steubenville  WV-OH,27,2,0,0,2017
+Lewiston-Auburn  ME,169,6,0,77,2017
+Portland-South Portland  ME,1973,62,20,462,2017
+Albany  OR,481,0,0,58,2017
+Corvallis  OR,116,4,16,0,2017
+Longview  WA,464,20,0,0,2017
+Portland-Vancouver-Hillsboro  OR-WA,6211,188,80,9504,2017
+Salem  OR,790,58,12,695,2017
+Pueblo  CO,352,6,0,10,2017
+Durham-Chapel Hill  NC,3268,18,0,1638,2017
+Raleigh  NC,10752,6,26,3396,2017
+Rapid City  SD,560,26,16,177,2017
+Redding  CA,382,0,0,0,2017
+Carson City  NV,118,0,20,0,2017
+Reno  NV,2091,50,7,2416,2017
+Rochester  MN,818,6,0,625,2017
+Rochester  NY,1185,12,38,543,2017
+Rockford  IL,228,4,3,0,2017
+Rocky Mount  NC,215,0,0,0,2017
+Rome  GA,157,0,0,0,2017
+Sacramento--Roseville--Arden-Arcade  CA,6815,92,0,2596,2017
+Yuba City  CA,299,0,4,0,2017
+Bay City  MI,62,0,8,0,2017
+Midland  MI,118,24,0,0,2017
+Saginaw  MI,182,46,15,92,2017
+St. Louis  MO-IL,5608,42,73,1572,2017
+Ogden-Clearfield  UT,2514,24,310,686,2017
+Provo-Orem  UT,5090,48,428,1679,2017
+Salt Lake City  UT,4918,48,176,2225,2017
+Napa  CA,83,22,36,42,2017
+San Francisco-Oakland-Hayward  CA,4777,82,220,11873,2017
+San Jose-Sunnyvale-Santa Clara  CA,2592,14,68,5865,2017
+Santa Cruz-Watsonville  CA,218,4,22,163,2017
+Santa Rosa  CA,840,8,3,327,2017
+Stockton-Lodi  CA,2107,2,18,652,2017
+Vallejo-Fairfield  CA,840,0,0,67,2017
+Hinesville  GA,443,2,8,52,2017
+Savannah  GA,1898,8,0,212,2017
+Bremerton-Silverdale  WA,952,4,3,135,2017
+Mount Vernon-Anacortes  WA,534,18,19,92,2017
+Olympia-Tumwater  WA,950,0,15,102,2017
+Seattle-Tacoma-Bellevue  WA,9997,470,628,16239,2017
+Sioux City  IA-NE-SD,383,0,6,84,2017
+Elkhart-Goshen  IN,366,2,4,188,2017
+Niles-Benton Harbor  MI,224,0,0,13,2017
+South Bend-Mishawaka  IN-MI,479,0,0,480,2017
+Coeur dAlene  ID,1415,14,3,346,2017
+Spokane-Spokane Valley  WA,1785,122,69,1665,2017
+Springfield  MO,1352,100,11,441,2017
+Springfield  MA,441,6,0,74,2017
+Springfield  IL,210,48,0,64,2017
+State College  PA,319,26,0,122,2017
+Syracuse  NY,557,0,0,602,2017
+Tallahassee  FL,1897,10,0,1146,2017
+Toledo  OH,704,4,104,159,2017
+Tucson  AZ,2888,46,0,1561,2017
+Tulsa  OK,3160,44,4,436,2017
+Tyler  TX,472,26,38,142,2017
+Victoria  TX,61,0,0,0,2017
+Virginia Beach-Norfolk-Newport News  VA-NC,4404,38,169,1571,2017
+Hanford-Corcoran  CA,272,0,0,0,2017
+Visalia-Porterville  CA,1162,28,0,124,2017
+Baltimore-Columbia-Towson  MD,5000,16,0,1824,2017
+California-Lexington Park  MD,1164,0,0,0,2017
+Chambersburg-Waynesboro  PA,342,8,4,58,2017
+Hagerstown-Martinsburg  MD-WV,1171,2,0,84,2017
+Washington-Arlington-Alexandria  DC-VA-MD-WV,14225,114,16,12910,2017
+Winchester  VA-WV,637,4,55,192,2017
+Wausau  WI,291,16,12,292,2017
+Wichita  KS,1634,308,86,703,2017
+Williamsport  PA,133,4,0,0,2017
+Youngstown-Warren-Boardman  OH-PA,310,14,0,0,2017
+Abilene  TX,282,36,4,0,2017
+Albany  GA,411,0,0,5,2017
+Alexandria  LA,292,10,0,0,2017
+Altoona  PA,88,26,0,0,2017
+Anchorage  AK,851,34,55,208,2017
+Anniston-Oxford-Jacksonville  AL,69,0,0,0,2017
+Augusta-Richmond County  GA-SC,2690,2,53,593,2017
+Austin-Round Rock  TX,16119,50,103,10428,2017
+Bakersfield  CA,2378,158,50,54,2017
+Bangor  ME,250,8,16,30,2017
+Baton Rouge  LA,3586,26,16,11,2017
+Beaumont-Port Arthur  TX,1140,34,72,56,2017
+Beckley  WV,83,0,0,0,2017
+Bellingham  WA,793,38,18,407,2017
+Billings  MT,992,28,36,169,2017
+Binghamton  NY,128,6,27,243,2017
+Bismarck  ND,514,32,10,76,2017
+Blacksburg-Christiansburg-Radford  VA,416,0,3,318,2017
+Brunswick  GA,604,0,4,10,2017
+Burlington-South Burlington  VT,384,48,37,401,2017
+Carbondale-Marion  IL,83,20,27,0,2017
+Casper  WY,151,18,4,100,2017
+Champaign-Urbana  IL,408,10,8,412,2017
+Charleston-North Charleston  SC,4726,8,0,2533,2017
+Charlottesville  VA,963,0,0,313,2017
+Cheyenne  WY,389,6,76,102,2017
+Chico  CA,457,8,3,355,2017
+Clarksville  TN-KY,1558,52,43,160,2017
+College Station-Bryan  TX,1155,118,32,1778,2017
+Colorado Springs  CO,3852,4,3,1106,2017
+Crestview-Fort Walton Beach-Destin  FL,2076,6,79,310,2017
+Cumberland  MD-WV,50,0,0,0,2017
+Danville  IL,54,0,0,50,2017
+Decatur  IL,39,0,0,0,2017
+Dubuque  IA,221,20,0,0,2017
+Duluth  MN-WI,508,4,0,153,2017
+El Centro  CA,179,4,8,0,2017
+Enid  OK,59,0,0,36,2017
+Eugene  OR,821,14,7,0,2017
+Evansville  IN-KY,618,40,4,259,2017
+Fairbanks  AK,7,0,8,0,2017
+Farmington  NM,91,0,0,0,2017
+Fayetteville-Springdale-Rogers  AR-MO,3528,148,61,992,2017
+Flagstaff  AZ,434,0,3,260,2017
+Florence  SC,511,0,0,510,2017
+Florence-Muscle Shoals  AL,257,0,0,518,2017
+Fond du Lac  WI,185,0,0,0,2017
+Fort Collins  CO,2027,20,15,873,2017
+Fort Smith  AR-OK,380,148,17,176,2017
+Gadsden  AL,112,0,0,0,2017
+Goldsboro  NC,272,8,0,0,2017
+Grand Forks  ND-MN,227,4,0,186,2017
+Grand Island  NE,196,6,8,72,2017
+Grand Junction  CO,665,8,4,78,2017
+Great Falls  MT,197,8,0,0,2017
+Gulfport-Biloxi-Pascagoula  MS,1799,14,28,97,2017
+Hattiesburg  MS,134,0,0,0,2017
+Hilton Head Island-Bluffton-Beaufort  SC,2034,0,0,241,2017
+Homosassa Springs  FL,433,22,0,91,2017
+Houma-Thibodaux  LA,431,6,0,0,2017
+Jackson  MI,183,0,0,10,2017
+Jacksonville  NC,917,22,4,62,2017
+Jefferson City  MO,243,8,20,51,2017
+Kahului-Wailuku-Lahaina  HI,489,40,16,316,2017
+Kennewick-Richland  WA,1457,64,0,288,2017
+Killeen-Temple  TX,1789,262,0,405,2017
+La Crosse-Onalaska  WI-MN,278,12,4,138,2017
+Lakeland-Winter Haven  FL,4542,52,0,10,2017
+Lancaster  PA,979,18,54,385,2017
+Laredo  TX,1061,22,6,242,2017
+Lawton  OK,82,2,0,0,2017
+Lewiston  ID-WA,97,4,0,24,2017
+Logan  UT-ID,811,0,120,442,2017
+Lynchburg  VA,492,6,9,263,2017
+Missoula  MT,395,40,22,515,2017
+Montgomery  AL,761,0,0,0,2017
+Ocala  FL,1942,0,0,304,2017
+Owensboro  KY,250,14,0,0,2017
+Palm Bay-Melbourne-Titusville  FL,2149,10,12,582,2017
+Panama City  FL,984,44,11,747,2017
+Phoenix-Mesa-Scottsdale  AZ,20471,302,212,8327,2017
+Pittsfield  MA,90,0,11,93,2017
+Pocatello  ID,203,0,20,0,2017
+Prescott  AZ,1493,54,12,417,2017
+Richmond  VA,4614,6,175,2350,2017
+Roanoke  VA,424,2,0,166,2017
+St. George  UT,2315,18,167,709,2017
+Salinas  CA,534,2,13,227,2017
+Salisbury  MD-DE,3032,218,81,274,2017
+San Angelo  TX,193,4,0,0,2017
+San Antonio-New Braunfels  TX,7535,270,115,4596,2017
+San Diego-Carlsbad  CA,4056,138,560,5687,2017
+San Luis Obispo-Paso Robles-Arroyo Grande  CA,693,4,120,277,2017
+Santa Maria-Santa Barbara  CA,832,4,33,411,2017
+Scranton--Wilkes-Barre--Hazleton  PA,425,10,27,118,2017
+Sebring  FL,175,6,0,0,2017
+Sheboygan  WI,154,14,14,208,2017
+Shreveport-Bossier City  LA,1125,0,0,0,2017
+Sierra Vista-Douglas  AZ,192,2,0,8,2017
+Sioux Falls  SD,1533,22,67,1292,2017
+Sumter  SC,222,0,0,0,2017
+Tampa-St. Petersburg-Clearwater  FL,12732,56,25,5455,2017
+Terre Haute  IN,48,24,0,203,2017
+Texarkana  TX-AR,85,0,0,100,2017
+Topeka  KS,327,8,0,0,2017
+Tuscaloosa  AL,572,28,62,507,2017
+Urban Honolulu  HI,1028,0,0,940,2017
+Utica-Rome  NY,193,2,3,149,2017
+Valdosta  GA,988,10,0,91,2017
+Waco  TX,768,44,28,167,2017
+Walla Walla  WA,148,0,0,0,2017
+Waterloo-Cedar Falls  IA,304,18,0,386,2017
+Watertown-Fort Drum  NY,141,0,0,0,2017
+Wenatchee  WA,599,12,4,14,2017
+Wheeling  WV-OH,18,2,0,0,2017
+Wichita Falls  TX,108,8,3,0,2017
+Wilmington  NC,2193,52,0,517,2017
+Yakima  WA,412,4,18,0,2017
+Yuma  AZ,1005,4,24,68,2017
+Albany-Schenectady-Troy  NY,1231,30,121,857,2018
+Glens Falls  NY,225,2,0,0,2018
+Albuquerque  NM,2086,4,21,75,2018
+Santa Fe  NM,243,0,0,30,2018
+Amarillo  TX,637,12,0,101,2018
+Appleton  WI,781,62,0,144,2018
+Oshkosh-Neenah  WI,275,6,0,97,2018
+Asheville  NC,2233,4,0,568,2018
+Athens-Clarke County  GA,729,0,8,332,2018
+Atlanta-Sandy Springs-Roswell  GA,26506,98,87,12750,2018
+Gainesville  GA,1159,12,33,574,2018
+Bend-Redmond  OR,1818,56,3,106,2018
+Birmingham-Hoover  AL,2698,24,4,299,2018
+Bloomington  IN,255,56,0,106,2018
+Bloomington  IL,114,0,4,102,2018
+Bloomsburg-Berwick  PA,83,0,0,111,2018
+Boise City  ID,6923,64,293,1637,2018
+Barnstable Town  MA,518,10,69,408,2018
+Boston-Cambridge-Newton  MA-NH,4930,546,343,8364,2018
+Manchester-Nashua  NH,709,62,22,613,2018
+Providence-Warwick  RI-MA,1553,142,59,209,2018
+Worcester  MA-CT,1300,102,3,364,2018
+Bowling Green  KY,783,14,60,1342,2018
+Brownsville-Harlingen  TX,1392,56,7,32,2018
+Buffalo-Cheektowaga-Niagara Falls  NY,975,24,22,432,2018
+Cape Coral-Fort Myers  FL,5803,532,159,3227,2018
+Naples-Immokalee-Marco Island  FL,3253,8,78,1047,2018
+Cape Girardeau  MO-IL,131,14,0,671,2018
+Cedar Rapids  IA,490,132,6,331,2018
+Iowa City  IA,511,106,48,702,2018
+Charleston  WV,106,0,0,0,2018
+Huntington-Ashland  WV-KY-OH,224,10,15,11,2018
+Charlotte-Concord-Gastonia  NC-SC,16407,118,44,9640,2018
+Chattanooga  TN-GA,1971,68,30,158,2018
+Cleveland  TN,608,28,40,0,2018
+Dalton  GA,288,4,13,16,2018
+Chicago-Naperville-Elgin  IL-IN-WI,8546,318,631,8186,2018
+Kankakee  IL,101,0,0,56,2018
+Michigan City-La Porte  IN,134,6,0,0,2018
+Cincinnati  OH-KY-IN,4282,66,133,1595,2018
+Akron  OH,1011,8,12,179,2018
+Canton-Massillon  OH,413,16,27,72,2018
+Cleveland-Elyria  OH,2733,56,89,103,2018
+Columbia  MO,555,2,0,0,2018
+Columbia  SC,4478,28,0,446,2018
+Auburn-Opelika  AL,1036,16,32,47,2018
+Columbus  GA-AL,747,0,35,222,2018
+Columbus  OH,4493,162,174,4611,2018
+Corpus Christi  TX,1711,2,8,6,2018
+Dallas-Fort Worth-Arlington  TX,36832,354,484,26223,2018
+Sherman-Denison  TX,531,46,16,164,2018
+Davenport-Moline-Rock Island  IA-IL,490,0,14,55,2018
+Dayton  OH,1138,18,0,421,2018
+Springfield  OH,68,0,0,0,2018
+Boulder  CO,899,12,30,2013,2018
+Denver-Aurora-Lakewood  CO,11808,200,158,9563,2018
+Greeley  CO,3194,8,65,840,2018
+Ames  IA,273,10,3,340,2018
+Des Moines-West Des Moines  IA,3233,66,0,1624,2018
+Ann Arbor  MI,652,10,27,116,2018
+Detroit-Warren-Dearborn  MI,6131,60,171,801,2018
+Flint  MI,435,8,20,167,2018
+Monroe  MI,265,2,4,221,2018
+Dothan  AL,359,0,0,55,2018
+Eau Claire  WI,486,96,56,124,2018
+Elmira  NY,25,10,0,151,2018
+El Paso  TX,1751,154,30,481,2018
+Las Cruces  NM,843,2,0,120,2018
+Erie  PA,176,6,4,119,2018
+Fargo  ND-MN,1080,4,8,1221,2018
+Fayetteville  NC,803,16,0,0,2018
+Fort Wayne  IN,1343,54,4,483,2018
+Fresno  CA,2213,48,35,633,2018
+Madera  CA,503,0,0,0,2018
+Gainesville  FL,753,2,3,811,2018
+Grand Rapids-Wyoming  MI,2749,88,114,903,2018
+Muskegon  MI,221,0,0,12,2018
+Green Bay  WI,766,22,0,413,2018
+Burlington  NC,1084,4,0,331,2018
+Greensboro-High Point  NC,1949,22,4,249,2018
+Winston-Salem  NC,3123,2,0,374,2018
+Greenville-Anderson-Mauldin  SC,5254,12,11,1153,2018
+Spartanburg  SC,2685,0,0,0,2018
+Greenville  NC,610,118,59,363,2018
+Gettysburg  PA,224,0,0,0,2018
+Harrisburg-Carlisle  PA,1344,2,65,602,2018
+Lebanon  PA,278,12,3,6,2018
+York-Hanover  PA,788,42,60,26,2018
+Harrisonburg  VA,450,0,0,33,2018
+Staunton-Waynesboro  VA,232,2,15,68,2018
+Hartford-West Hartford-East Hartford  CT,807,14,14,752,2018
+Norwich-New London  CT,297,12,0,357,2018
+Hickory-Lenoir-Morganton  NC,893,36,0,407,2018
+Hot Springs  AR,51,0,0,40,2018
+Houston-The Woodlands-Sugar Land  TX,40321,254,106,16607,2018
+Decatur  AL,152,0,0,0,2018
+Huntsville  AL,2870,0,36,35,2018
+Idaho Falls  ID,990,2,35,10,2018
+Columbus  IN,170,0,0,0,2018
+Indianapolis-Carmel-Anderson  IN,7291,118,9,1476,2018
+Muncie  IN,52,0,0,0,2018
+Ithaca  NY,155,24,0,626,2018
+Jackson  TN,280,0,0,0,2018
+Jackson  MS,1325,4,12,0,2018
+Jacksonville  FL,10755,30,89,4576,2018
+Johnson City  TN,458,16,0,161,2018
+Kingsport-Bristol-Bristol  TN-VA,503,30,6,17,2018
+Johnstown  PA,66,0,0,0,2018
+Jonesboro  AR,551,76,117,99,2018
+Joplin  MO,457,36,32,115,2018
+Battle Creek  MI,54,0,0,0,2018
+Kalamazoo-Portage  MI,471,34,0,74,2018
+Kansas City  MO-KS,5608,258,388,4014,2018
+Lawrence  KS,419,12,0,392,2018
+St. Joseph  MO-KS,85,8,0,0,2018
+Knoxville  TN,3690,8,44,671,2018
+Morristown  TN,286,0,16,0,2018
+Kokomo  IN,277,22,0,50,2018
+Lafayette  LA,1657,0,24,6,2018
+Lafayette-West Lafayette  IN,499,2,4,1313,2018
+Lake Charles  LA,1063,48,16,264,2018
+Lansing-East Lansing  MI,453,4,8,360,2018
+Lake Havasu City-Kingman  AZ,945,58,15,0,2018
+Las Vegas-Henderson-Paradise  NV,9721,22,30,2271,2018
+Lexington-Fayette  KY,1404,64,24,1280,2018
+Lima  OH,76,10,0,0,2018
+Lincoln  NE,1117,28,7,652,2018
+Little Rock-North Little Rock-Conway  AR,1819,58,3,294,2018
+Pine Bluff  AR,20,10,0,0,2018
+Longview  TX,183,2,0,74,2018
+Los Angeles-Long Beach-Anaheim  CA,10042,1528,522,17432,2018
+Oxnard-Thousand Oaks-Ventura  CA,625,26,31,522,2018
+Riverside-San Bernardino-Ontario  CA,11591,166,279,2773,2018
+Elizabethtown-Fort Knox  KY,390,34,0,34,2018
+Louisville-Jefferson County  KY-IN,3104,10,30,2369,2018
+Lubbock  TX,1402,6,4,69,2018
+Macon  GA,391,0,0,6,2018
+Warner Robins  GA,895,0,9,474,2018
+Janesville-Beloit  WI,310,30,0,0,2018
+Madison  WI,1623,114,70,1845,2018
+Manhattan  KS,233,0,8,0,2018
+Mankato-North Mankato  MN,273,6,8,200,2018
+Mansfield  OH,61,0,19,0,2018
+McAllen-Edinburg-Mission  TX,2959,610,344,729,2018
+Grants Pass  OR,204,20,3,0,2018
+Medford  OR,681,14,0,238,2018
+Memphis  TN-MS-AR,3185,2,0,1305,2018
+Miami-Fort Lauderdale-West Palm Beach  FL,7022,242,386,11903,2018
+Port St. Lucie  FL,2974,122,50,824,2018
+Sebastian-Vero Beach  FL,1312,0,18,42,2018
+Midland  TX,1227,0,0,0,2018
+Odessa  TX,716,24,0,0,2018
+Milwaukee-Waukesha-West Allis  WI,1712,148,3,1906,2018
+Racine  WI,282,24,0,73,2018
+Minneapolis-St. Paul-Bloomington  MN-WI,8985,110,115,8996,2018
+St. Cloud  MN,532,0,0,238,2018
+Daphne-Fairhope-Foley  AL,2459,6,12,570,2018
+Mobile  AL,763,0,0,20,2018
+Merced  CA,630,0,0,0,2018
+Modesto  CA,684,10,0,65,2018
+Monroe  LA,425,10,23,32,2018
+Morgantown  WV,21,0,0,245,2018
+Myrtle Beach-Conway-North Myrtle Beach  SC-NC,6741,12,4,689,2018
+Nashville-Davidson--Murfreesboro--Franklin  TN,13470,22,77,5590,2018
+New Bern  NC,389,0,0,0,2018
+Hammond  LA,932,18,0,372,2018
+New Orleans-Metairie  LA,3046,174,22,622,2018
+Allentown-Bethlehem-Easton  PA-NJ,1082,2,0,162,2018
+Bridgeport-Stamford-Norwalk  CT,753,30,27,287,2018
+East Stroudsburg  PA,186,0,0,0,2018
+Kingston  NY,193,2,4,53,2018
+New Haven-Milford  CT,406,48,18,694,2018
+New York-Newark-Jersey City  NY-NJ-PA,11077,1682,1061,35872,2018
+Trenton  NJ,180,12,36,273,2018
+North Port-Sarasota-Bradenton  FL,6383,36,93,3777,2018
+Punta Gorda  FL,1932,94,3,39,2018
+Oklahoma City  OK,5430,230,39,31,2018
+Omaha-Council Bluffs  NE-IA,2791,30,35,1932,2018
+Deltona-Daytona Beach-Ormond Beach  FL,3382,164,4,309,2018
+Orlando-Kissimmee-Sanford  FL,16455,246,59,12122,2018
+The Villages  FL,2076,0,0,0,2018
+Parkersburg-Vienna  WV,87,6,32,0,2018
+Pensacola-Ferry Pass-Brent  FL,2528,4,0,36,2018
+Peoria  IL,228,8,0,98,2018
+Atlantic City-Hammonton  NJ,349,2,0,482,2018
+Dover  DE,1321,14,3,121,2018
+Ocean City  NJ,449,148,12,34,2018
+Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,6875,290,616,5375,2018
+Reading  PA,380,0,4,216,2018
+Vineland-Bridgeton  NJ,70,0,4,0,2018
+Pittsburgh  PA,2977,54,89,917,2018
+Weirton-Steubenville  WV-OH,24,2,0,0,2018
+Lewiston-Auburn  ME,177,6,0,117,2018
+Portland-South Portland  ME,1952,92,21,559,2018
+Albany  OR,446,2,0,92,2018
+Corvallis  OR,103,4,17,498,2018
+Longview  WA,294,8,16,0,2018
+Portland-Vancouver-Hillsboro  OR-WA,6869,146,117,7048,2018
+Salem  OR,1168,80,36,400,2018
+Pueblo  CO,479,0,0,0,2018
+Durham-Chapel Hill  NC,3289,68,0,2059,2018
+Raleigh  NC,11160,74,27,4689,2018
+Rapid City  SD,532,24,20,258,2018
+Redding  CA,306,0,0,0,2018
+Carson City  NV,180,0,0,130,2018
+Reno  NV,2255,20,20,2155,2018
+Rochester  MN,690,16,0,1110,2018
+Rochester  NY,1176,18,36,976,2018
+Rockford  IL,209,46,10,0,2018
+Rocky Mount  NC,235,0,0,0,2018
+Rome  GA,198,0,12,0,2018
+Sacramento--Roseville--Arden-Arcade  CA,6393,44,11,1425,2018
+Yuba City  CA,470,6,0,0,2018
+Bay City  MI,85,0,0,0,2018
+Midland  MI,84,4,0,0,2018
+Saginaw  MI,179,56,24,74,2018
+St. Louis  MO-IL,5242,70,72,1954,2018
+Ogden-Clearfield  UT,2816,12,224,620,2018
+Provo-Orem  UT,5516,14,57,1254,2018
+Salt Lake City  UT,5391,258,239,2862,2018
+Napa  CA,102,0,8,159,2018
+San Francisco-Oakland-Hayward  CA,4048,154,259,12960,2018
+San Jose-Sunnyvale-Santa Clara  CA,2466,22,20,6236,2018
+Santa Cruz-Watsonville  CA,238,4,30,154,2018
+Santa Rosa  CA,3169,30,52,28,2018
+Stockton-Lodi  CA,2920,86,8,266,2018
+Vallejo-Fairfield  CA,954,2,0,34,2018
+Hinesville  GA,398,0,0,0,2018
+Savannah  GA,2080,4,8,1066,2018
+Bremerton-Silverdale  WA,903,22,9,215,2018
+Mount Vernon-Anacortes  WA,542,20,3,20,2018
+Olympia-Tumwater  WA,912,6,39,793,2018
+Seattle-Tacoma-Bellevue  WA,9134,632,824,17596,2018
+Sioux City  IA-NE-SD,327,12,16,113,2018
+Elkhart-Goshen  IN,351,0,0,0,2018
+Niles-Benton Harbor  MI,237,2,0,63,2018
+South Bend-Mishawaka  IN-MI,419,0,3,316,2018
+Coeur dAlene  ID,1658,20,12,520,2018
+Spokane-Spokane Valley  WA,1944,202,63,965,2018
+Springfield  MO,1333,62,0,558,2018
+Springfield  MA,492,30,3,134,2018
+Springfield  IL,193,36,0,277,2018
+State College  PA,265,38,4,21,2018
+Syracuse  NY,570,2,19,147,2018
+Tallahassee  FL,2073,14,0,1114,2018
+Toledo  OH,785,26,65,220,2018
+Tucson  AZ,3240,22,20,1122,2018
+Tulsa  OK,2845,38,16,513,2018
+Tyler  TX,478,102,75,5,2018
+Victoria  TX,70,0,0,0,2018
+Virginia Beach-Norfolk-Newport News  VA-NC,4168,30,52,1354,2018
+Hanford-Corcoran  CA,294,2,56,0,2018
+Visalia-Porterville  CA,1206,22,8,292,2018
+Baltimore-Columbia-Towson  MD,5361,6,0,3920,2018
+California-Lexington Park  MD,871,0,0,60,2018
+Chambersburg-Waynesboro  PA,349,4,0,70,2018
+Hagerstown-Martinsburg  MD-WV,1363,6,0,24,2018
+Washington-Arlington-Alexandria  DC-VA-MD-WV,13588,94,38,12037,2018
+Winchester  VA-WV,605,4,57,268,2018
+Wausau  WI,274,22,12,0,2018
+Wichita  KS,1223,456,62,217,2018
+Williamsport  PA,103,8,6,23,2018
+Youngstown-Warren-Boardman  OH-PA,366,8,0,0,2018
+Abilene  TX,335,22,0,0,2018
+Albany  GA,170,0,3,15,2018
+Alexandria  LA,289,16,0,0,2018
+Altoona  PA,101,0,0,0,2018
+Anchorage  AK,938,62,51,208,2018
+Anniston-Oxford-Jacksonville  AL,66,0,4,0,2018
+Augusta-Richmond County  GA-SC,2584,2,33,248,2018
+Austin-Round Rock  TX,17030,100,65,12840,2018
+Bakersfield  CA,2073,108,65,206,2018
+Bangor  ME,228,6,15,12,2018
+Baton Rouge  LA,3509,12,0,401,2018
+Beaumont-Port Arthur  TX,1200,60,4,140,2018
+Beckley  WV,86,0,0,0,2018
+Bellingham  WA,767,76,42,579,2018
+Billings  MT,1158,20,0,298,2018
+Binghamton  NY,93,0,16,206,2018
+Bismarck  ND,383,26,15,109,2018
+Blacksburg-Christiansburg-Radford  VA,435,4,0,127,2018
+Brunswick  GA,640,0,0,12,2018
+Burlington-South Burlington  VT,447,54,60,603,2018
+Carbondale-Marion  IL,196,6,16,20,2018
+Casper  WY,140,20,4,10,2018
+Champaign-Urbana  IL,345,16,65,1080,2018
+Charleston-North Charleston  SC,4787,0,16,2199,2018
+Charlottesville  VA,1028,18,0,569,2018
+Cheyenne  WY,391,0,51,97,2018
+Chico  CA,595,22,12,74,2018
+Clarksville  TN-KY,1516,18,116,153,2018
+College Station-Bryan  TX,1023,18,11,804,2018
+Colorado Springs  CO,4229,8,24,1473,2018
+Crestview-Fort Walton Beach-Destin  FL,2087,4,156,138,2018
+Cumberland  MD-WV,67,0,0,0,2018
+Danville  IL,11,2,12,40,2018
+Decatur  IL,35,2,0,0,2018
+Dubuque  IA,228,20,3,71,2018
+Duluth  MN-WI,535,8,4,189,2018
+El Centro  CA,274,2,0,124,2018
+Enid  OK,43,0,0,0,2018
+Eugene  OR,814,60,8,507,2018
+Evansville  IN-KY,536,42,8,10,2018
+Fairbanks  AK,13,0,0,0,2018
+Farmington  NM,67,4,0,0,2018
+Fayetteville-Springdale-Rogers  AR-MO,3836,90,100,1544,2018
+Flagstaff  AZ,657,4,4,0,2018
+Florence  SC,521,10,3,28,2018
+Florence-Muscle Shoals  AL,254,6,12,63,2018
+Fond du Lac  WI,149,0,0,126,2018
+Fort Collins  CO,1679,48,26,1191,2018
+Fort Smith  AR-OK,399,150,49,0,2018
+Gadsden  AL,104,0,0,0,2018
+Goldsboro  NC,269,6,0,0,2018
+Grand Forks  ND-MN,254,10,0,91,2018
+Grand Island  NE,166,10,13,16,2018
+Grand Junction  CO,822,8,0,0,2018
+Great Falls  MT,132,0,0,12,2018
+Gulfport-Biloxi-Pascagoula  MS,1921,18,31,189,2018
+Hattiesburg  MS,102,4,0,0,2018
+Hilton Head Island-Bluffton-Beaufort  SC,2308,0,4,24,2018
+Homosassa Springs  FL,884,0,0,0,2018
+Houma-Thibodaux  LA,475,22,8,0,2018
+Jackson  MI,156,0,16,0,2018
+Jacksonville  NC,1018,18,0,0,2018
+Jefferson City  MO,225,16,8,0,2018
+Kahului-Wailuku-Lahaina  HI,372,28,28,410,2018
+Kennewick-Richland  WA,1558,44,9,290,2018
+Killeen-Temple  TX,2070,272,0,118,2018
+La Crosse-Onalaska  WI-MN,191,30,4,369,2018
+Lakeland-Winter Haven  FL,5331,0,0,0,2018
+Lancaster  PA,966,40,28,217,2018
+Laredo  TX,1078,76,34,187,2018
+Lawton  OK,68,0,0,0,2018
+Lewiston  ID-WA,108,12,0,0,2018
+Logan  UT-ID,712,2,143,354,2018
+Lynchburg  VA,271,10,6,143,2018
+Missoula  MT,459,32,38,160,2018
+Montgomery  AL,654,0,0,0,2018
+Ocala  FL,2726,34,57,0,2018
+Owensboro  KY,231,2,0,25,2018
+Palm Bay-Melbourne-Titusville  FL,2362,6,4,586,2018
+Panama City  FL,1104,94,19,451,2018
+Phoenix-Mesa-Scottsdale  AZ,23526,466,203,7148,2018
+Pittsfield  MA,87,0,0,175,2018
+Pocatello  ID,372,4,28,0,2018
+Prescott  AZ,1696,56,18,309,2018
+Richmond  VA,4498,258,121,1184,2018
+Roanoke  VA,432,2,0,81,2018
+St. George  UT,2351,18,238,282,2018
+Salinas  CA,571,6,14,141,2018
+Salisbury  MD-DE,3271,126,95,150,2018
+San Angelo  TX,262,0,0,0,2018
+San Antonio-New Braunfels  TX,8013,106,18,3360,2018
+San Diego-Carlsbad  CA,3489,152,526,5667,2018
+San Luis Obispo-Paso Robles-Arroyo Grande  CA,692,4,75,279,2018
+Santa Maria-Santa Barbara  CA,631,120,16,161,2018
+Scranton--Wilkes-Barre--Hazleton  PA,487,14,20,32,2018
+Sebring  FL,211,10,50,0,2018
+Sheboygan  WI,177,6,0,8,2018
+Shreveport-Bossier City  LA,1219,0,0,0,2018
+Sierra Vista-Douglas  AZ,212,0,0,15,2018
+Sioux Falls  SD,1380,16,54,938,2018
+Sumter  SC,279,0,0,0,2018
+Tampa-St. Petersburg-Clearwater  FL,14228,66,72,3086,2018
+Terre Haute  IN,85,18,0,27,2018
+Texarkana  TX-AR,83,8,0,100,2018
+Topeka  KS,330,26,0,0,2018
+Tuscaloosa  AL,578,12,40,417,2018
+Urban Honolulu  HI,983,0,0,1427,2018
+Utica-Rome  NY,183,4,0,88,2018
+Valdosta  GA,1039,4,0,83,2018
+Waco  TX,764,38,3,45,2018
+Walla Walla  WA,225,0,0,0,2018
+Waterloo-Cedar Falls  IA,261,4,0,70,2018
+Watertown-Fort Drum  NY,138,0,0,0,2018
+Wenatchee  WA,626,10,0,171,2018
+Wheeling  WV-OH,9,4,3,100,2018
+Wichita Falls  TX,117,8,0,195,2018
+Wilmington  NC,1868,32,20,530,2018
+Yakima  WA,480,32,51,15,2018
+Yuma  AZ,1011,4,0,0,2018
+Albany-Schenectady-Troy  NY,1120,40,45,665,2019
+Glens Falls  NY,229,0,6,6,2019
+Albuquerque  NM,1872,2,12,262,2019
+Santa Fe  NM,344,0,0,245,2019
+Altoona  PA,111,0,0,0,2019
+Amarillo  TX,554,30,0,0,2019
+Appleton  WI,490,54,0,33,2019
+Oshkosh-Neenah  WI,246,16,0,72,2019
+Asheville  NC,2252,32,0,970,2019
+Athens-Clarke County  GA,821,82,55,633,2019
+Atlanta-Sandy Springs-Alpharetta  GA,26261,42,115,6418,2019
+Gainesville  GA,1072,18,32,357,2019
+Rome  GA,263,0,0,0,2019
+Bend  OR,1488,74,8,458,2019
+Birmingham-Hoover  AL,3063,22,7,110,2019
+Bloomington  IN,256,14,0,492,2019
+Bloomington  IL,115,12,0,65,2019
+Bloomsburg-Berwick  PA,91,20,0,0,2019
+Boise City  ID,7570,76,226,2760,2019
+Barnstable Town  MA,427,14,3,69,2019
+Boston-Cambridge-Newton  MA-NH,4299,466,394,9929,2019
+Manchester-Nashua  NH,691,60,15,486,2019
+Providence-Warwick  RI-MA,1592,188,93,175,2019
+Worcester  MA-CT,1188,96,11,622,2019
+Bowling Green  KY,591,32,36,103,2019
+Brownsville-Harlingen  TX,1390,144,43,240,2019
+Buffalo-Cheektowaga  NY,912,10,34,737,2019
+Burlington-South Burlington  VT,382,72,10,403,2019
+Cape Coral-Fort Myers  FL,5633,382,144,2946,2019
+Naples-Marco Island  FL,3300,6,108,577,2019
+Cape Girardeau  MO-IL,108,8,3,676,2019
+Cedar Rapids  IA,509,114,7,184,2019
+Iowa City  IA,455,12,115,570,2019
+Charleston  WV,314,0,4,0,2019
+Huntington-Ashland  WV-KY-OH,190,12,4,47,2019
+Charlotte-Concord-Gastonia  NC-SC,16253,58,88,8238,2019
+Chattanooga  TN-GA,1861,112,52,672,2019
+Cleveland  TN,607,38,32,78,2019
+Dalton  GA,298,2,8,18,2019
+Chicago-Naperville-Elgin  IL-IN-WI,7598,380,761,9346,2019
+Kankakee  IL,85,0,0,0,2019
+Michigan City-La Porte  IN,113,2,0,0,2019
+Cincinnati  OH-KY-IN,4488,28,54,1453,2019
+Akron  OH,856,2,32,55,2019
+Canton-Massillon  OH,478,14,22,110,2019
+Cleveland-Elyria  OH,2584,38,112,298,2019
+Columbia  MO,633,4,0,162,2019
+Columbia  SC,4209,10,0,205,2019
+Auburn-Opelika  AL,1129,66,55,841,2019
+Columbus  GA-AL,707,2,8,380,2019
+Columbus  OH,4389,74,184,3443,2019
+Corpus Christi  TX,1601,14,8,192,2019
+Dallas-Fort Worth-Arlington  TX,34939,382,293,27094,2019
+Sherman-Denison  TX,634,46,9,309,2019
+Davenport-Moline-Rock Island  IA-IL,533,0,4,264,2019
+Dayton-Kettering  OH,1071,34,4,122,2019
+Springfield  OH,70,0,0,6,2019
+Boulder  CO,742,2,0,906,2019
+Denver-Aurora-Lakewood  CO,11081,86,104,8037,2019
+Greeley  CO,3335,0,44,1008,2019
+Ames  IA,258,12,7,272,2019
+Des Moines-West Des Moines  IA,3915,34,8,1312,2019
+Ann Arbor  MI,608,0,84,123,2019
+Detroit-Warren-Dearborn  MI,5193,56,186,2378,2019
+Flint  MI,441,8,104,23,2019
+Monroe  MI,303,0,4,16,2019
+Dothan  AL,363,0,4,56,2019
+Eau Claire  WI,472,116,0,157,2019
+Elmira  NY,24,2,0,194,2019
+El Paso  TX,2433,64,228,341,2019
+Las Cruces  NM,876,6,0,96,2019
+Erie  PA,121,6,0,34,2019
+Fargo  ND-MN,939,0,8,478,2019
+Fayetteville  NC,1547,10,0,282,2019
+Fort Wayne  IN,1330,18,27,581,2019
+Fresno  CA,2441,60,213,679,2019
+Hanford-Corcoran  CA,382,2,0,25,2019
+Madera  CA,644,0,0,0,2019
+Gainesville  FL,1016,8,0,1543,2019
+Grand Rapids-Kentwood  MI,2531,62,125,1437,2019
+Muskegon  MI,339,0,0,0,2019
+Green Bay  WI,723,24,0,383,2019
+Burlington  NC,943,0,0,464,2019
+Greensboro-High Point  NC,2002,12,0,409,2019
+Winston-Salem  NC,3160,4,0,170,2019
+Greenville  NC,625,88,0,317,2019
+Greenville-Anderson  SC,5385,88,0,1090,2019
+Spartanburg  SC,2599,0,0,0,2019
+Gettysburg  PA,220,0,0,0,2019
+Harrisburg-Carlisle  PA,1154,22,104,738,2019
+Lebanon  PA,322,0,0,0,2019
+York-Hanover  PA,858,20,46,389,2019
+Harrisonburg  VA,361,0,0,0,2019
+Staunton  VA,312,2,16,324,2019
+Hartford-East Hartford-Middletown  CT,823,40,44,356,2019
+Norwich-New London  CT,249,26,16,246,2019
+Hattiesburg  MS,90,8,40,0,2019
+Hot Springs  AR,48,10,0,60,2019
+Houston-The Woodlands-Sugar Land  TX,39507,302,55,23808,2019
+Decatur  AL,177,0,0,0,2019
+Huntsville  AL,3399,2,80,85,2019
+Idaho Falls  ID,1038,0,52,6,2019
+Columbus  IN,189,0,0,0,2019
+Indianapolis-Carmel-Anderson  IN,7120,122,80,2399,2019
+Muncie  IN,58,0,0,0,2019
+Ithaca  NY,87,30,0,706,2019
+Jackson  TN,446,4,0,0,2019
+Jackson  MS,1047,0,4,320,2019
+Jacksonville  FL,11583,40,71,2993,2019
+Johnson City  TN,561,10,0,147,2019
+Kingsport-Bristol  TN-VA,453,16,4,124,2019
+Johnstown  PA,54,0,0,0,2019
+Jonesboro  AR,593,68,147,81,2019
+Joplin  MO,514,30,56,104,2019
+Battle Creek  MI,54,2,0,0,2019
+Kalamazoo-Portage  MI,460,24,14,144,2019
+Kansas City  MO-KS,4811,346,259,3931,2019
+Lawrence  KS,256,0,14,185,2019
+St. Joseph  MO-KS,124,2,0,94,2019
+Kennewick-Richland  WA,1656,58,28,399,2019
+Walla Walla  WA,160,10,0,20,2019
+Knoxville  TN,2985,4,4,954,2019
+Morristown  TN,450,4,0,0,2019
+Kokomo  IN,87,0,0,152,2019
+Lafayette  LA,1632,4,0,30,2019
+Lafayette-West Lafayette  IN,502,12,0,836,2019
+Lake Charles  LA,1047,96,23,220,2019
+Las Vegas-Henderson-Paradise  NV,10042,4,177,3680,2019
+Lexington-Fayette  KY,1308,10,19,909,2019
+Lima  OH,86,2,15,88,2019
+Lincoln  NE,1088,28,0,982,2019
+Little Rock-North Little Rock-Conway  AR,1921,30,24,1030,2019
+Pine Bluff  AR,37,6,0,0,2019
+Los Angeles-Long Beach-Anaheim  CA,9306,1694,358,19196,2019
+Oxnard-Thousand Oaks-Ventura  CA,609,34,31,472,2019
+Riverside-San Bernardino-Ontario  CA,11147,120,161,3171,2019
+Elizabethtown-Fort Knox  KY,425,42,0,24,2019
+Louisville-Jefferson County  KY-IN,3122,30,40,2574,2019
+Lubbock  TX,1509,156,0,589,2019
+Macon  GA,412,0,8,0,2019
+Warner Robins  GA,1114,0,4,164,2019
+Janesville-Beloit  WI,321,40,0,283,2019
+Madison  WI,1536,110,28,1669,2019
+Mankato  MN,172,4,16,45,2019
+Mansfield  OH,57,0,4,0,2019
+McAllen-Edinburg-Mission  TX,3526,312,619,913,2019
+Grants Pass  OR,197,34,0,0,2019
+Medford  OR,656,24,26,215,2019
+Memphis  TN-MS-AR,3319,0,12,343,2019
+Miami-Fort Lauderdale-Pompano Beach  FL,7241,390,93,12964,2019
+Port St. Lucie  FL,3503,188,28,558,2019
+Sebastian-Vero Beach  FL,1362,6,91,0,2019
+Midland  TX,1306,0,0,0,2019
+Odessa  TX,743,4,0,1035,2019
+Milwaukee-Waukesha  WI,1494,206,19,700,2019
+Racine  WI,192,46,0,84,2019
+Minneapolis-St. Paul-Bloomington  MN-WI,9610,134,103,12567,2019
+St. Cloud  MN,504,4,3,207,2019
+Daphne-Fairhope-Foley  AL,2740,42,22,346,2019
+Mobile  AL,743,0,3,0,2019
+Monroe  LA,353,14,39,110,2019
+Montgomery  AL,769,0,6,0,2019
+Morgantown  WV,26,0,0,8,2019
+Myrtle Beach-Conway-North Myrtle Beach  SC-NC,6989,68,10,773,2019
+Nashville-Davidson--Murfreesboro--Franklin  TN,14460,46,61,8135,2019
+New Bern  NC,480,0,0,72,2019
+Hammond  LA,869,4,0,115,2019
+New Orleans-Metairie  LA,3241,250,13,522,2019
+Bridgeport-Stamford-Norwalk  CT,635,40,20,1631,2019
+East Stroudsburg  PA,176,0,0,0,2019
+Kingston  NY,188,10,0,191,2019
+New Haven-Milford  CT,399,72,62,920,2019
+New York-Newark-Jersey City  NY-NJ-PA,11072,1786,1289,47021,2019
+Poughkeepsie-Newburgh-Middletown  NY,796,4,15,1098,2019
+Trenton-Princeton  NJ,181,2,53,302,2019
+North Port-Sarasota-Bradenton  FL,6542,22,194,3251,2019
+Punta Gorda  FL,2075,136,4,114,2019
+Oklahoma City  OK,5924,334,34,265,2019
+Omaha-Council Bluffs  NE-IA,2633,32,4,1431,2019
+Deltona-Daytona Beach-Ormond Beach  FL,3772,212,0,769,2019
+Lakeland-Winter Haven  FL,6435,32,24,2235,2019
+Orlando-Kissimmee-Sanford  FL,14995,260,147,9068,2019
+The Villages  FL,2657,0,0,271,2019
+Parkersburg-Vienna  WV,76,18,48,0,2019
+Pensacola-Ferry Pass-Brent  FL,2734,74,17,397,2019
+Atlantic City-Hammonton  NJ,364,8,0,585,2019
+Dover  DE,1216,42,0,82,2019
+Ocean City  NJ,552,174,39,98,2019
+Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,6963,394,710,7540,2019
+Reading  PA,350,2,0,276,2019
+Vineland-Bridgeton  NJ,132,0,0,0,2019
+Phoenix-Mesa-Chandler  AZ,25026,664,174,10009,2019
+Pittsburgh  PA,2830,54,96,1004,2019
+Weirton-Steubenville  WV-OH,25,0,0,0,2019
+Lewiston-Auburn  ME,156,4,0,68,2019
+Portland-South Portland  ME,1818,124,17,916,2019
+Albany-Lebanon  OR,466,0,0,250,2019
+Corvallis  OR,218,0,24,300,2019
+Longview  WA,309,2,10,30,2019
+Portland-Vancouver-Hillsboro  OR-WA,7688,274,134,8719,2019
+Salem  OR,1039,72,24,901,2019
+Pueblo  CO,484,0,4,0,2019
+Durham-Chapel Hill  NC,3561,6,28,2200,2019
+Raleigh-Cary  NC,11142,16,45,2117,2019
+Rapid City  SD,469,40,24,189,2019
+Redding  CA,447,0,0,97,2019
+Carson City  NV,172,0,3,73,2019
+Reno  NV,2157,46,58,3002,2019
+Rochester  MN,614,0,13,484,2019
+Rochester  NY,1116,36,84,785,2019
+Rockford  IL,229,64,7,0,2019
+Rocky Mount  NC,232,0,0,0,2019
+Sacramento-Roseville-Folsom  CA,7184,176,34,2037,2019
+Yuba City  CA,654,0,0,24,2019
+Bay City  MI,83,0,0,0,2019
+Midland  MI,108,6,0,0,2019
+Saginaw  MI,139,4,28,77,2019
+St. Louis  MO-IL,5179,84,161,1630,2019
+Salisbury  MD-DE,3524,130,97,323,2019
+Ogden-Clearfield  UT,2872,12,195,816,2019
+Provo-Orem  UT,5423,16,73,1435,2019
+Salt Lake City  UT,4760,172,176,5572,2019
+San Antonio-New Braunfels  TX,9103,86,156,6550,2019
+Merced  CA,948,0,0,0,2019
+Modesto  CA,611,4,3,81,2019
+Napa  CA,135,2,4,608,2019
+San Francisco-Oakland-Berkeley  CA,4076,124,153,9528,2019
+San Jose-Sunnyvale-Santa Clara  CA,2603,26,49,3552,2019
+Santa Cruz-Watsonville  CA,236,2,26,165,2019
+Santa Rosa-Petaluma  CA,2079,0,0,350,2019
+Stockton  CA,2628,18,27,826,2019
+Vallejo  CA,1078,0,0,11,2019
+Hinesville  GA,491,4,0,464,2019
+Savannah  GA,2151,0,4,436,2019
+Bremerton-Silverdale-Port Orchard  WA,931,10,4,172,2019
+Mount Vernon-Anacortes  WA,436,10,0,72,2019
+Olympia-Lacey-Tumwater  WA,812,28,27,846,2019
+Seattle-Tacoma-Bellevue  WA,8737,574,862,16426,2019
+Shreveport-Bossier City  LA,1040,0,0,0,2019
+Elkhart-Goshen  IN,339,0,0,11,2019
+Niles  MI,201,2,3,0,2019
+South Bend-Mishawaka  IN-MI,428,0,0,0,2019
+Coeur dAlene  ID,1577,62,35,852,2019
+Spokane-Spokane Valley  WA,1888,216,15,1181,2019
+Springfield  IL,149,32,0,148,2019
+State College  PA,351,40,0,50,2019
+Syracuse  NY,538,6,7,206,2019
+Toledo  OH,892,26,43,453,2019
+Tucson  AZ,3490,52,0,771,2019
+Tulsa  OK,3377,34,16,879,2019
+Tyler  TX,592,28,32,5,2019
+Victoria  TX,141,0,60,0,2019
+Virginia Beach-Norfolk-Newport News  VA-NC,4345,46,52,1465,2019
+Baltimore-Columbia-Towson  MD,4802,72,25,2068,2019
+California-Lexington Park  MD,615,8,0,66,2019
+Chambersburg-Waynesboro  PA,284,2,0,7,2019
+Hagerstown-Martinsburg  MD-WV,1383,22,128,32,2019
+Washington-Arlington-Alexandria  DC-VA-MD-WV,12977,178,52,13597,2019
+Winchester  VA-WV,719,0,81,96,2019
+Wausau-Weston  WI,371,30,0,178,2019
+Wichita  KS,1389,486,40,211,2019
+Williamsport  PA,66,12,0,0,2019
+Youngstown-Warren-Boardman  OH-PA,323,4,3,0,2019
+Abilene  TX,354,16,0,0,2019
+Albany  GA,182,0,0,220,2019
+Alexandria  LA,303,30,0,0,2019
+Allentown-Bethlehem-Easton  PA-NJ,1078,22,6,239,2019
+Anchorage  AK,878,12,48,225,2019
+Anniston-Oxford  AL,105,0,0,0,2019
+Augusta-Richmond County  GA-SC,2655,58,87,401,2019
+Austin-Round Rock-Georgetown  TX,18426,254,90,13267,2019
+Bakersfield  CA,2190,12,24,35,2019
+Bangor  ME,216,38,12,0,2019
+Baton Rouge  LA,3612,10,0,0,2019
+Beaumont-Port Arthur  TX,1100,12,0,251,2019
+Beckley  WV,77,0,0,0,2019
+Bellingham  WA,816,50,63,892,2019
+Billings  MT,909,52,22,171,2019
+Binghamton  NY,64,0,4,283,2019
+Bismarck  ND,374,28,4,225,2019
+Blacksburg-Christiansburg  VA,353,6,4,269,2019
+Brunswick  GA,437,10,0,13,2019
+Carbondale-Marion  IL,172,6,4,0,2019
+Casper  WY,158,12,7,0,2019
+Champaign-Urbana  IL,247,2,27,899,2019
+Charleston-North Charleston  SC,4758,6,19,1912,2019
+Charlottesville  VA,996,6,3,370,2019
+Cheyenne  WY,386,0,24,22,2019
+Chico  CA,885,6,64,471,2019
+Clarksville  TN-KY,2332,32,53,240,2019
+College Station-Bryan  TX,1091,68,6,315,2019
+Colorado Springs  CO,4051,98,43,1316,2019
+Crestview-Fort Walton Beach-Destin  FL,2393,10,82,1059,2019
+Cumberland  MD-WV,65,0,0,40,2019
+Danville  IL,12,0,0,0,2019
+Decatur  IL,35,0,0,0,2019
+Dubuque  IA,181,22,0,59,2019
+Duluth  MN-WI,551,6,4,471,2019
+El Centro  CA,266,0,0,132,2019
+Enid  OK,26,0,0,0,2019
+Eugene-Springfield  OR,731,16,20,304,2019
+Evansville  IN-KY,647,66,0,217,2019
+Fairbanks  AK,6,0,16,0,2019
+Farmington  NM,74,4,3,8,2019
+Fayetteville-Springdale-Rogers  AR-MO,4147,118,98,2542,2019
+Flagstaff  AZ,535,10,0,183,2019
+Florence  SC,686,10,45,388,2019
+Florence-Muscle Shoals  AL,255,6,0,20,2019
+Fond du Lac  WI,143,0,8,104,2019
+Fort Collins  CO,1580,16,35,859,2019
+Fort Smith  AR-OK,382,202,17,8,2019
+Gadsden  AL,71,0,0,0,2019
+Goldsboro  NC,315,8,0,0,2019
+Grand Forks  ND-MN,140,10,0,45,2019
+Grand Island  NE,143,8,0,26,2019
+Grand Junction  CO,678,14,0,126,2019
+Great Falls  MT,122,0,0,12,2019
+Gulfport-Biloxi  MS,2102,18,30,106,2019
+Hickory-Lenoir-Morganton  NC,697,34,0,577,2019
+Hilton Head Island-Bluffton  SC,2346,12,0,528,2019
+Homosassa Springs  FL,709,10,0,146,2019
+Houma-Thibodaux  LA,494,18,9,0,2019
+Jackson  MI,135,2,0,249,2019
+Jacksonville  NC,1303,16,12,0,2019
+Jefferson City  MO,251,8,11,0,2019
+Kahului-Wailuku-Lahaina  HI,513,12,68,64,2019
+Killeen-Temple  TX,2317,262,0,0,2019
+La Crosse-Onalaska  WI-MN,225,50,15,251,2019
+Lake Havasu City-Kingman  AZ,1049,62,0,0,2019
+Lancaster  PA,985,32,26,453,2019
+Lansing-East Lansing  MI,613,16,8,389,2019
+Laredo  TX,1302,126,32,142,2019
+Lawton  OK,67,0,0,0,2019
+Lewiston  ID-WA,99,14,19,49,2019
+Logan  UT-ID,1064,10,59,546,2019
+Longview  TX,254,6,4,12,2019
+Lynchburg  VA,260,6,13,303,2019
+Manhattan  KS,262,4,3,67,2019
+Missoula  MT,422,22,30,190,2019
+Ocala  FL,2349,6,12,0,2019
+Owensboro  KY,282,4,8,31,2019
+Palm Bay-Melbourne-Titusville  FL,2454,8,0,1740,2019
+Panama City  FL,1274,10,0,511,2019
+Peoria  IL,218,24,12,54,2019
+Pittsfield  MA,77,0,0,199,2019
+Pocatello  ID,285,4,20,6,2019
+Prescott Valley-Prescott  AZ,1588,60,16,516,2019
+Richmond  VA,4481,174,196,3489,2019
+Roanoke  VA,464,0,0,238,2019
+St. George  UT,2420,64,210,863,2019
+Salinas  CA,391,4,13,72,2019
+San Angelo  TX,283,0,0,0,2019
+San Diego-Chula Vista-Carlsbad  CA,3019,110,406,4681,2019
+San Luis Obispo-Paso Robles  CA,680,8,6,400,2019
+Santa Maria-Santa Barbara  CA,631,20,70,454,2019
+Scranton--Wilkes-Barre  PA,450,10,7,61,2019
+Sebring-Avon Park  FL,233,20,0,0,2019
+Sheboygan  WI,127,18,0,41,2019
+Sierra Vista-Douglas  AZ,249,0,0,5,2019
+Sioux City  IA-NE-SD,286,6,16,271,2019
+Sioux Falls  SD,1376,10,28,705,2019
+Springfield  MA,461,20,9,304,2019
+Springfield  MO,1261,58,107,195,2019
+Sumter  SC,343,16,0,48,2019
+Tallahassee  FL,1070,14,0,1261,2019
+Tampa-St. Petersburg-Clearwater  FL,14670,166,103,8601,2019
+Terre Haute  IN,63,24,0,0,2019
+Texarkana  TX-AR,80,2,0,0,2019
+Topeka  KS,301,12,9,0,2019
+Tuscaloosa  AL,630,6,149,689,2019
+Twin Falls  ID,599,34,196,6,2019
+Urban Honolulu  HI,912,0,24,1343,2019
+Utica-Rome  NY,199,0,3,150,2019
+Valdosta  GA,1174,10,0,92,2019
+Visalia  CA,1619,36,15,202,2019
+Waco  TX,876,70,0,276,2019
+Waterloo-Cedar Falls  IA,269,12,8,200,2019
+Watertown-Fort Drum  NY,138,0,0,0,2019
+Wenatchee  WA,632,16,18,289,2019
+Wheeling  WV-OH,10,2,0,0,2019
+Wichita Falls  TX,133,20,0,36,2019
+Wilmington  NC,1950,24,3,1598,2019
+Yakima  WA,569,70,34,370,2019
+Yuma  AZ,1200,6,0,0,2019
+Albany-Schenectady-Troy  NY,1385,38,92,1182,2021
+Glens Falls  NY,256,0,0,128,2021
+Albuquerque  NM,2535,52,24,1410,2021
+Santa Fe  NM,228,0,0,612,2021
+Altoona  PA,94,0,0,0,2021
+Amarillo  TX,682,38,0,16,2021
+Appleton  WI,574,100,0,755,2021
+Oshkosh-Neenah  WI,347,46,0,555,2021
+Asheville  NC,2976,10,0,1252,2021
+Athens-Clarke County  GA,856,24,46,922,2021
+Atlanta-Sandy Springs-Alpharetta  GA,31560,78,151,7677,2021
+Gainesville  GA,1402,4,78,765,2021
+Rome  GA,204,0,0,0,2021
+Bend  OR,1734,112,32,859,2021
+Birmingham-Hoover  AL,3433,4,3,544,2021
+Bloomington  IN,254,12,10,1810,2021
+Bloomington  IL,201,20,0,62,2021
+Bloomsburg-Berwick  PA,87,0,0,72,2021
+Boise City  ID,8342,72,581,3201,2021
+Barnstable Town  MA,646,18,0,8,2021
+Boston-Cambridge-Newton  MA-NH,4820,520,349,10913,2021
+Manchester-Nashua  NH,683,60,30,569,2021
+Providence-Warwick  RI-MA,1788,190,88,192,2021
+Worcester  MA-CT,1177,90,26,760,2021
+Bowling Green  KY,1071,12,4,1050,2021
+Brownsville-Harlingen  TX,1573,102,80,297,2021
+Buffalo-Cheektowaga  NY,980,56,43,474,2021
+Burlington-South Burlington  VT,458,60,8,523,2021
+Cape Coral-Fort Myers  FL,11020,564,75,1735,2021
+Naples-Marco Island  FL,4380,14,169,2203,2021
+Cape Girardeau  MO-IL,167,10,0,0,2021
+Cedar Rapids  IA,546,94,8,250,2021
+Iowa City  IA,661,22,33,451,2021
+Charleston  WV,218,2,0,40,2021
+Huntington-Ashland  WV-KY-OH,297,4,4,0,2021
+Charlotte-Concord-Gastonia  NC-SC,20830,40,70,9186,2021
+Chattanooga  TN-GA,2443,106,98,1026,2021
+Cleveland  TN,765,2,23,0,2021
+Dalton  GA,387,12,30,303,2021
+Chicago-Naperville-Elgin  IL-IN-WI,10071,262,733,7445,2021
+Kankakee  IL,140,0,0,0,2021
+Michigan City-La Porte  IN,136,2,0,0,2021
+Cincinnati  OH-KY-IN,5358,60,120,2891,2021
+Akron  OH,881,10,107,217,2021
+Canton-Massillon  OH,538,34,73,308,2021
+Cleveland-Elyria  OH,2949,22,73,296,2021
+Columbia  MO,838,2,0,189,2021
+Columbia  SC,5853,24,0,1004,2021
+Auburn-Opelika  AL,1487,42,28,294,2021
+Columbus  GA-AL,740,14,0,379,2021
+Columbus  OH,6844,78,84,5056,2021
+Corpus Christi  TX,2213,0,4,358,2021
+Dallas-Fort Worth-Arlington  TX,51996,836,632,25241,2021
+Sherman-Denison  TX,932,20,0,96,2021
+Davenport-Moline-Rock Island  IA-IL,436,22,65,106,2021
+Dayton-Kettering  OH,1521,6,16,496,2021
+Springfield  OH,189,4,0,6,2021
+Boulder  CO,343,62,60,772,2021
+Denver-Aurora-Lakewood  CO,13113,602,263,16028,2021
+Greeley  CO,3814,174,230,1050,2021
+Ames  IA,279,2,3,110,2021
+Des Moines-West Des Moines  IA,4888,82,113,1886,2021
+Ann Arbor  MI,795,26,80,15,2021
+Detroit-Warren-Dearborn  MI,5666,100,171,2661,2021
+Flint  MI,489,10,3,8,2021
+Monroe  MI,221,0,8,36,2021
+Dothan  AL,492,2,0,0,2021
+Eau Claire  WI,461,200,8,610,2021
+Elmira  NY,22,0,0,116,2021
+El Paso  TX,2655,116,19,199,2021
+Las Cruces  NM,1239,4,0,95,2021
+Erie  PA,174,4,4,35,2021
+Fargo  ND-MN,1229,2,0,1058,2021
+Fayetteville  NC,2055,0,0,252,2021
+Fort Wayne  IN,1799,152,11,16,2021
+Fresno  CA,3369,18,53,462,2021
+Hanford-Corcoran  CA,484,0,0,24,2021
+Madera  CA,1066,0,0,0,2021
+Gainesville  FL,1652,4,0,1087,2021
+Grand Rapids-Kentwood  MI,2811,134,86,674,2021
+Muskegon  MI,302,26,0,0,2021
+Green Bay  WI,830,40,0,538,2021
+Burlington  NC,1557,0,25,712,2021
+Greensboro-High Point  NC,2593,36,0,1335,2021
+Winston-Salem  NC,3887,2,0,317,2021
+Greenville  NC,805,24,0,446,2021
+Greenville-Anderson  SC,8896,192,12,1504,2021
+Spartanburg  SC,3394,0,0,220,2021
+Gettysburg  PA,438,0,0,0,2021
+Harrisburg-Carlisle  PA,1283,26,44,189,2021
+Lebanon  PA,332,4,0,171,2021
+York-Hanover  PA,1164,2,0,150,2021
+Harrisonburg  VA,628,6,0,21,2021
+Staunton  VA,341,4,0,68,2021
+Hartford-East Hartford-Middletown  CT,962,40,31,475,2021
+Norwich-New London  CT,403,22,0,31,2021
+Hattiesburg  MS,133,2,18,0,2021
+Hot Springs  AR,78,0,0,252,2021
+Houston-The Woodlands-Sugar Land  TX,52719,782,114,15648,2021
+Decatur  AL,226,0,0,0,2021
+Huntsville  AL,4230,6,26,1910,2021
+Idaho Falls  ID,1430,4,44,0,2021
+Columbus  IN,231,0,0,0,2021
+Indianapolis-Carmel-Anderson  IN,10159,334,78,2880,2021
+Muncie  IN,100,0,0,13,2021
+Ithaca  NY,107,24,0,513,2021
+Jackson  TN,537,0,0,0,2021
+Jackson  MS,1414,2,0,0,2021
+Jacksonville  FL,16536,108,221,5873,2021
+Johnson City  TN,766,14,0,39,2021
+Kingsport-Bristol  TN-VA,663,4,7,5,2021
+Johnstown  PA,62,0,0,0,2021
+Jonesboro  AR,785,82,184,96,2021
+Joplin  MO,665,26,11,289,2021
+Battle Creek  MI,108,0,0,0,2021
+Kalamazoo-Portage  MI,402,10,7,0,2021
+Kansas City  MO-KS,7051,332,376,3495,2021
+Lawrence  KS,262,2,6,248,2021
+St. Joseph  MO-KS,100,8,0,0,2021
+Kennewick-Richland  WA,1915,44,79,111,2021
+Walla Walla  WA,137,12,0,112,2021
+Knoxville  TN,4685,10,15,1280,2021
+Morristown  TN,909,0,12,72,2021
+Kokomo  IN,188,2,0,0,2021
+Lafayette  LA,3040,0,4,0,2021
+Lafayette-West Lafayette  IN,580,2,4,626,2021
+Lake Charles  LA,1024,40,0,0,2021
+Las Vegas-Henderson-Paradise  NV,12156,138,594,3419,2021
+Lexington-Fayette  KY,1760,10,34,1139,2021
+Lima  OH,121,2,9,94,2021
+Lincoln  NE,1378,26,0,1203,2021
+Little Rock-North Little Rock-Conway  AR,2505,136,161,833,2021
+Pine Bluff  AR,38,8,0,0,2021
+Los Angeles-Long Beach-Anaheim  CA,11090,1284,510,18267,2021
+Oxnard-Thousand Oaks-Ventura  CA,686,34,48,709,2021
+Riverside-San Bernardino-Ontario  CA,11962,300,286,3058,2021
+Elizabethtown-Fort Knox  KY,468,46,0,12,2021
+Louisville-Jefferson County  KY-IN,4136,56,14,1302,2021
+Lubbock  TX,2725,438,0,241,2021
+Macon-Bibb County  GA,563,0,0,0,2021
+Warner Robins  GA,1390,2,60,82,2021
+Janesville-Beloit  WI,361,72,8,176,2021
+Madison  WI,1737,198,24,5235,2021
+Mankato  MN,252,22,19,187,2021
+Mansfield  OH,107,8,0,0,2021
+McAllen-Edinburg-Mission  TX,4844,320,672,219,2021
+Grants Pass  OR,265,56,12,0,2021
+Medford  OR,777,20,46,299,2021
+Memphis  TN-MS-AR,4284,2,24,895,2021
+Miami-Fort Lauderdale-Pompano Beach  FL,8316,266,182,16549,2021
+Port St. Lucie  FL,6447,228,25,1703,2021
+Sebastian-Vero Beach  FL,1569,8,15,0,2021
+Midland  TX,872,0,0,0,2021
+Odessa  TX,1373,2,0,31,2021
+Milwaukee-Waukesha  WI,1779,332,31,787,2021
+Racine  WI,159,26,0,60,2021
+Minneapolis-St. Paul-Bloomington  MN-WI,11734,228,223,13892,2021
+St. Cloud  MN,525,50,0,49,2021
+Daphne-Fairhope-Foley  AL,3315,0,0,390,2021
+Mobile  AL,970,0,0,52,2021
+Monroe  LA,436,14,43,127,2021
+Montgomery  AL,993,2,19,0,2021
+Morgantown  WV,21,0,0,0,2021
+Myrtle Beach-Conway-North Myrtle Beach  SC-NC,11054,236,27,902,2021
+Nashville-Davidson--Murfreesboro--Franklin  TN,17422,116,175,14478,2021
+New Bern  NC,406,0,0,0,2021
+Hammond  LA,943,8,0,557,2021
+New Orleans-Metairie  LA,4018,318,22,924,2021
+Bridgeport-Stamford-Norwalk  CT,714,48,29,501,2021
+East Stroudsburg  PA,312,0,8,50,2021
+Kingston  NY,312,12,0,18,2021
+New Haven-Milford  CT,497,36,4,446,2021
+New York-Newark-Jersey City  NY-NJ-PA,12947,1522,934,41258,2021
+Poughkeepsie-Newburgh-Middletown  NY,939,20,16,1307,2021
+Trenton-Princeton  NJ,278,2,0,264,2021
+North Port-Sarasota-Bradenton  FL,12106,252,62,3504,2021
+Punta Gorda  FL,3435,286,92,1017,2021
+Oklahoma City  OK,7637,264,8,171,2021
+Omaha-Council Bluffs  NE-IA,3677,54,63,2588,2021
+Deltona-Daytona Beach-Ormond Beach  FL,6753,502,3,956,2021
+Lakeland-Winter Haven  FL,10591,44,19,2417,2021
+Orlando-Kissimmee-Sanford  FL,17795,168,201,12454,2021
+The Villages  FL,4007,0,0,604,2021
+Parkersburg-Vienna  WV,107,2,0,0,2021
+Pensacola-Ferry Pass-Brent  FL,3101,682,21,247,2021
+Atlantic City-Hammonton  NJ,556,2,6,240,2021
+Dover  DE,1676,50,0,147,2021
+Ocean City  NJ,680,200,27,10,2021
+Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,8868,900,1112,25427,2021
+Reading  PA,375,2,8,108,2021
+Vineland-Bridgeton  NJ,122,0,0,63,2021
+Phoenix-Mesa-Chandler  AZ,34347,1066,284,14884,2021
+Pittsburgh  PA,3891,78,208,1046,2021
+Weirton-Steubenville  WV-OH,34,0,0,0,2021
+Lewiston-Auburn  ME,178,8,0,35,2021
+Portland-South Portland  ME,2634,174,48,856,2021
+Albany-Lebanon  OR,385,12,0,223,2021
+Corvallis  OR,270,2,12,0,2021
+Longview  WA,286,4,4,54,2021
+Portland-Vancouver-Hillsboro  OR-WA,8008,180,288,6547,2021
+Salem  OR,1368,24,3,759,2021
+Pueblo  CO,742,0,0,0,2021
+Durham-Chapel Hill  NC,3735,28,16,2121,2021
+Raleigh-Cary  NC,14227,38,16,7368,2021
+Rapid City  SD,684,0,40,838,2021
+Redding  CA,320,0,0,48,2021
+Carson City  NV,203,0,15,89,2021
+Reno  NV,2717,80,68,2472,2021
+Rochester  MN,721,8,4,402,2021
+Rochester  NY,1180,56,85,453,2021
+Rockford  IL,254,18,0,8,2021
+Rocky Mount  NC,640,0,0,0,2021
+Sacramento-Roseville-Folsom  CA,9390,98,90,2856,2021
+Yuba City  CA,725,4,0,252,2021
+Bay City  MI,74,0,0,0,2021
+Midland  MI,141,18,0,0,2021
+Saginaw  MI,180,4,11,0,2021
+St. Louis  MO-IL,5716,132,43,2435,2021
+Salisbury  MD-DE,4983,264,15,290,2021
+Ogden-Clearfield  UT,4205,12,140,3125,2021
+Provo-Orem  UT,7562,102,246,3265,2021
+Salt Lake City  UT,5338,190,263,5851,2021
+San Antonio-New Braunfels  TX,13945,140,103,8076,2021
+Merced  CA,1017,0,0,0,2021
+Modesto  CA,667,4,0,140,2021
+Napa  CA,161,0,4,1039,2021
+San Francisco-Oakland-Berkeley  CA,4301,250,91,8964,2021
+San Jose-Sunnyvale-Santa Clara  CA,2400,34,8,2087,2021
+Santa Cruz-Watsonville  CA,304,4,7,283,2021
+Santa Rosa-Petaluma  CA,1227,32,11,1348,2021
+Stockton  CA,3718,4,0,667,2021
+Vallejo  CA,1141,2,0,235,2021
+Hinesville  GA,837,0,0,0,2021
+Savannah  GA,2752,6,28,441,2021
+Bremerton-Silverdale-Port Orchard  WA,1112,32,16,1125,2021
+Mount Vernon-Anacortes  WA,332,10,38,534,2021
+Olympia-Lacey-Tumwater  WA,752,26,56,1220,2021
+Seattle-Tacoma-Bellevue  WA,8828,736,858,20321,2021
+Shreveport-Bossier City  LA,1136,0,0,0,2021
+Elkhart-Goshen  IN,389,6,0,63,2021
+Niles  MI,325,0,0,6,2021
+South Bend-Mishawaka  IN-MI,489,0,3,0,2021
+Coeur dAlene  ID,1629,50,37,710,2021
+Spokane-Spokane Valley  WA,1908,210,86,1211,2021
+Springfield  IL,239,82,0,11,2021
+State College  PA,264,18,9,363,2021
+Syracuse  NY,537,6,7,143,2021
+Toledo  OH,882,34,16,278,2021
+Tucson  AZ,5116,50,0,1118,2021
+Tulsa  OK,4354,88,32,446,2021
+Tyler  TX,741,50,80,41,2021
+Victoria  TX,223,0,0,168,2021
+Virginia Beach-Norfolk-Newport News  VA-NC,4712,44,71,2550,2021
+Baltimore-Columbia-Towson  MD,4783,2,4,3045,2021
+California-Lexington Park  MD,353,0,0,6,2021
+Chambersburg-Waynesboro  PA,337,20,0,25,2021
+Hagerstown-Martinsburg  MD-WV,1726,24,0,18,2021
+Washington-Arlington-Alexandria  DC-VA-MD-WV,13729,54,41,13590,2021
+Winchester  VA-WV,813,0,15,194,2021
+Wausau-Weston  WI,387,20,0,273,2021
+Wichita  KS,1618,706,60,0,2021
+Williamsport  PA,54,2,0,0,2021
+Youngstown-Warren-Boardman  OH-PA,373,24,3,0,2021
+Abilene  TX,506,88,0,289,2021
+Albany  GA,224,0,0,0,2021
+Alexandria  LA,273,16,0,0,2021
+Allentown-Bethlehem-Easton  PA-NJ,1716,20,12,858,2021
+Anchorage  AK,877,10,52,244,2021
+Anniston-Oxford  AL,68,0,0,0,2021
+Augusta-Richmond County  GA-SC,4144,0,109,27,2021
+Austin-Round Rock-Georgetown  TX,24486,494,285,25642,2021
+Bakersfield  CA,2152,32,18,91,2021
+Bangor  ME,316,32,20,0,2021
+Baton Rouge  LA,4458,2,0,0,2021
+Beaumont-Port Arthur  TX,1401,36,32,116,2021
+Beckley  WV,101,2,0,0,2021
+Bellingham  WA,888,26,36,921,2021
+Billings  MT,597,86,0,296,2021
+Binghamton  NY,140,0,4,355,2021
+Bismarck  ND,416,232,0,144,2021
+Blacksburg-Christiansburg  VA,358,4,0,24,2021
+Brunswick  GA,691,12,0,20,2021
+Carbondale-Marion  IL,87,4,8,0,2021
+Casper  WY,140,4,12,119,2021
+Champaign-Urbana  IL,271,0,0,345,2021
+Charleston-North Charleston  SC,5913,16,11,2342,2021
+Charlottesville  VA,999,18,0,410,2021
+Cheyenne  WY,500,16,94,127,2021
+Chico  CA,1193,44,67,746,2021
+Clarksville  TN-KY,2217,22,143,1730,2021
+College Station-Bryan  TX,1765,14,7,514,2021
+Colorado Springs  CO,5074,312,24,3925,2021
+Crestview-Fort Walton Beach-Destin  FL,3411,40,63,378,2021
+Cumberland  MD-WV,69,0,0,0,2021
+Danville  IL,6,0,0,0,2021
+Decatur  IL,31,2,0,0,2021
+Dubuque  IA,166,12,3,356,2021
+Duluth  MN-WI,566,2,0,140,2021
+El Centro  CA,425,2,20,108,2021
+Enid  OK,35,0,0,0,2021
+Eugene-Springfield  OR,910,44,26,1156,2021
+Evansville  IN-KY,1045,88,16,200,2021
+Fairbanks  AK,18,0,18,0,2021
+Farmington  NM,97,0,0,0,2021
+Fayetteville-Springdale-Rogers  AR-MO,5678,152,135,1155,2021
+Flagstaff  AZ,596,4,14,437,2021
+Florence  SC,738,2,6,20,2021
+Florence-Muscle Shoals  AL,331,0,0,28,2021
+Fond du Lac  WI,153,4,4,74,2021
+Fort Collins  CO,2149,8,0,1064,2021
+Fort Smith  AR-OK,444,182,20,16,2021
+Gadsden  AL,138,0,4,46,2021
+Goldsboro  NC,474,8,0,0,2021
+Grand Forks  ND-MN,218,2,7,0,2021
+Grand Island  NE,159,14,8,124,2021
+Grand Junction  CO,909,10,15,297,2021
+Great Falls  MT,200,24,0,48,2021
+Gulfport-Biloxi  MS,2432,12,48,277,2021
+Hickory-Lenoir-Morganton  NC,1302,24,52,502,2021
+Hilton Head Island-Bluffton  SC,2693,0,3,1002,2021
+Homosassa Springs  FL,1971,12,0,0,2021
+Houma-Thibodaux  LA,538,40,9,0,2021
+Jackson  MI,176,0,0,0,2021
+Jacksonville  NC,1555,12,6,24,2021
+Jefferson City  MO,238,0,8,0,2021
+Kahului-Wailuku-Lahaina  HI,396,18,13,453,2021
+Killeen-Temple  TX,2576,566,0,1170,2021
+La Crosse-Onalaska  WI-MN,242,80,7,365,2021
+Lake Havasu City-Kingman  AZ,1541,70,16,10,2021
+Lancaster  PA,737,34,55,213,2021
+Lansing-East Lansing  MI,605,20,10,381,2021
+Laredo  TX,1462,42,28,152,2021
+Lawton  OK,117,0,0,0,2021
+Lewiston  ID-WA,113,14,0,0,2021
+Logan  UT-ID,1070,0,39,200,2021
+Longview  TX,395,32,0,152,2021
+Lynchburg  VA,543,2,9,138,2021
+Manhattan  KS,266,8,4,0,2021
+Missoula  MT,436,32,14,1316,2021
+Ocala  FL,5641,8,4,576,2021
+Owensboro  KY,398,0,0,0,2021
+Palm Bay-Melbourne-Titusville  FL,4451,26,4,693,2021
+Panama City  FL,1520,22,3,1065,2021
+Peoria  IL,219,10,0,150,2021
+Pittsfield  MA,116,8,12,57,2021
+Pocatello  ID,383,16,111,0,2021
+Prescott Valley-Prescott  AZ,1905,106,4,466,2021
+Richmond  VA,5946,398,49,3154,2021
+Roanoke  VA,509,0,0,360,2021
+St. George  UT,3218,44,28,194,2021
+Salinas  CA,503,18,8,353,2021
+San Angelo  TX,333,0,0,0,2021
+San Diego-Chula Vista-Carlsbad  CA,3227,114,308,6399,2021
+San Luis Obispo-Paso Robles  CA,678,18,64,360,2021
+Santa Maria-Santa Barbara  CA,534,32,11,575,2021
+Scranton--Wilkes-Barre  PA,537,18,12,77,2021
+Sebring-Avon Park  FL,576,8,60,0,2021
+Sheboygan  WI,166,22,0,80,2021
+Sierra Vista-Douglas  AZ,422,12,0,0,2021
+Sioux City  IA-NE-SD,326,10,37,84,2021
+Sioux Falls  SD,1893,42,161,1890,2021
+Springfield  MA,495,12,4,234,2021
+Springfield  MO,1685,32,24,897,2021
+Sumter  SC,468,4,0,0,2021
+Tallahassee  FL,1592,20,0,1293,2021
+Tampa-St. Petersburg-Clearwater  FL,19305,62,30,5434,2021
+Terre Haute  IN,110,22,0,38,2021
+Texarkana  TX-AR,259,0,0,0,2021
+Topeka  KS,417,2,9,289,2021
+Tuscaloosa  AL,771,6,115,604,2021
+Twin Falls  ID,894,34,72,68,2021
+Urban Honolulu  HI,938,54,0,446,2021
+Utica-Rome  NY,160,6,4,286,2021
+Valdosta  GA,1389,16,0,130,2021
+Visalia  CA,1300,38,16,156,2021
+Waco  TX,983,72,3,49,2021
+Waterloo-Cedar Falls  IA,203,2,0,0,2021
+Watertown-Fort Drum  NY,161,0,0,0,2021
+Wenatchee  WA,803,30,8,159,2021
+Wheeling  WV-OH,6,0,6,84,2021
+Wichita Falls  TX,189,2,0,0,2021
+Wilmington  NC,2671,174,12,1561,2021
+Yakima  WA,631,46,75,351,2021
+Yuma  AZ,1096,2,3,190,2021
+Albany-Schenectady-Troy  NY,1266,68,44,1237,2022
+Glens Falls  NY,232,16,22,22,2022
+Albuquerque  NM,2002,0,7,1048,2022
+Santa Fe  NM,177,14,0,399,2022
+Altoona  PA,71,0,0,52,2022
+Amarillo  TX,818,50,4,110,2022
+Appleton  WI,480,104,0,183,2022
+Oshkosh-Neenah  WI,325,32,0,102,2022
+Asheville  NC,2813,2,0,716,2022
+Athens-Clarke County  GA,771,20,12,1542,2022
+Atlanta-Sandy Springs-Alpharetta  GA,26623,184,398,20902,2022
+Gainesville  GA,1196,2,44,825,2022
+Rome  GA,310,0,0,0,2022
+Bend  OR,1178,112,47,776,2022
+Birmingham-Hoover  AL,3045,64,46,992,2022
+Bloomington  IN,340,6,0,206,2022
+Bloomington  IL,305,6,8,118,2022
+Bloomsburg-Berwick  PA,135,0,0,0,2022
+Boise City  ID,5925,78,398,4074,2022
+Barnstable Town  MA,564,36,15,272,2022
+Boston-Cambridge-Newton  MA-NH,3985,466,377,9626,2022
+Manchester-Nashua  NH,623,30,20,174,2022
+Providence-Warwick  RI-MA,1559,224,82,257,2022
+Worcester  MA-CT,1172,94,10,976,2022
+Bowling Green  KY,835,8,35,758,2022
+Brownsville-Harlingen  TX,1940,88,39,442,2022
+Buffalo-Cheektowaga  NY,1219,32,49,297,2022
+Burlington-South Burlington  VT,422,74,25,501,2022
+Cape Coral-Fort Myers  FL,9145,256,113,4107,2022
+Naples-Marco Island  FL,3519,28,171,1799,2022
+Cape Girardeau  MO-IL,117,10,6,15,2022
+Cedar Rapids  IA,453,70,19,405,2022
+Iowa City  IA,492,92,62,783,2022
+Charleston  WV,154,2,4,0,2022
+Huntington-Ashland  WV-KY-OH,241,8,6,0,2022
+Charlotte-Concord-Gastonia  NC-SC,19029,142,47,7994,2022
+Chattanooga  TN-GA,2121,168,78,714,2022
+Cleveland  TN,775,16,119,14,2022
+Dalton  GA,376,40,34,30,2022
+Chicago-Naperville-Elgin  IL-IN-WI,8563,296,649,8128,2022
+Kankakee  IL,103,2,11,0,2022
+Michigan City-La Porte  IN,124,0,3,195,2022
+Cincinnati  OH-KY-IN,4126,290,174,1620,2022
+Akron  OH,796,68,437,1746,2022
+Canton-Massillon  OH,469,32,96,213,2022
+Cleveland-Elyria  OH,2915,16,99,705,2022
+Columbia  MO,628,12,4,135,2022
+Columbia  SC,4101,18,175,1510,2022
+Auburn-Opelika  AL,1127,28,7,1030,2022
+Columbus  GA-AL,636,34,0,978,2022
+Columbus  OH,5623,98,82,6292,2022
+Corpus Christi  TX,1895,0,0,5,2022
+Dallas-Fort Worth-Arlington  TX,43645,686,1306,32257,2022
+Sherman-Denison  TX,1498,134,0,588,2022
+Davenport-Moline-Rock Island  IA-IL,416,26,99,56,2022
+Dayton-Kettering  OH,1262,22,47,934,2022
+Springfield  OH,112,0,51,20,2022
+Boulder  CO,661,26,76,879,2022
+Denver-Aurora-Lakewood  CO,10108,368,196,12804,2022
+Greeley  CO,3203,208,108,2624,2022
+Ames  IA,239,8,52,32,2022
+Des Moines-West Des Moines  IA,3646,106,61,2309,2022
+Ann Arbor  MI,580,6,10,33,2022
+Detroit-Warren-Dearborn  MI,4698,66,305,2876,2022
+Flint  MI,324,8,52,26,2022
+Monroe  MI,203,0,4,59,2022
+Dothan  AL,484,10,4,0,2022
+Eau Claire  WI,391,188,48,403,2022
+Elmira  NY,30,0,0,51,2022
+El Paso  TX,2147,62,30,227,2022
+Las Cruces  NM,1079,6,20,0,2022
+Erie  PA,166,18,0,54,2022
+Fargo  ND-MN,1123,4,0,1187,2022
+Fayetteville  NC,2145,0,0,338,2022
+Fort Wayne  IN,1453,40,0,842,2022
+Fresno  CA,2944,16,52,650,2022
+Hanford-Corcoran  CA,414,4,18,0,2022
+Madera  CA,880,6,16,64,2022
+Gainesville  FL,1345,12,0,1780,2022
+Grand Rapids-Kentwood  MI,2488,176,93,1441,2022
+Muskegon  MI,321,10,0,217,2022
+Green Bay  WI,627,204,0,418,2022
+Burlington  NC,1793,2,8,146,2022
+Greensboro-High Point  NC,2161,18,0,814,2022
+Winston-Salem  NC,3983,4,3,60,2022
+Greenville  NC,688,48,0,192,2022
+Greenville-Anderson  SC,6477,126,226,1415,2022
+Spartanburg  SC,2596,0,0,0,2022
+Gettysburg  PA,394,0,0,0,2022
+Harrisburg-Carlisle  PA,1820,2,17,872,2022
+Lebanon  PA,225,0,0,139,2022
+York-Hanover  PA,1062,8,0,292,2022
+Harrisonburg  VA,649,14,8,39,2022
+Staunton  VA,379,6,0,57,2022
+Hartford-East Hartford-Middletown  CT,634,116,12,1155,2022
+Norwich-New London  CT,379,10,4,52,2022
+Hattiesburg  MS,135,0,19,0,2022
+Hot Springs  AR,67,32,0,0,2022
+Houston-The Woodlands-Sugar Land  TX,47701,880,23,27124,2022
+Decatur  AL,275,0,4,0,2022
+Huntsville  AL,3617,2,4,412,2022
+Idaho Falls  ID,1184,4,120,72,2022
+Columbus  IN,209,0,0,0,2022
+Indianapolis-Carmel-Anderson  IN,8578,166,78,4671,2022
+Muncie  IN,201,0,0,0,2022
+Ithaca  NY,173,8,4,54,2022
+Jackson  TN,454,2,0,0,2022
+Jackson  MS,1221,6,7,0,2022
+Jacksonville  FL,14410,86,59,8614,2022
+Johnson City  TN,802,10,15,197,2022
+Kingsport-Bristol  TN-VA,815,24,40,60,2022
+Johnstown  PA,94,0,0,0,2022
+Jonesboro  AR,681,126,213,129,2022
+Joplin  MO,589,104,10,494,2022
+Battle Creek  MI,93,2,0,0,2022
+Kalamazoo-Portage  MI,341,22,54,40,2022
+Kansas City  MO-KS,5204,258,367,5390,2022
+Lawrence  KS,189,6,0,206,2022
+St. Joseph  MO-KS,87,8,0,0,2022
+Kennewick-Richland  WA,1232,36,133,485,2022
+Walla Walla  WA,120,58,0,0,2022
+Knoxville  TN,3809,32,10,987,2022
+Morristown  TN,868,30,71,0,2022
+Kokomo  IN,116,0,0,48,2022
+Lafayette  LA,2051,0,0,20,2022
+Lafayette-West Lafayette  IN,510,2,3,1023,2022
+Lake Charles  LA,862,28,0,232,2022
+Las Vegas-Henderson-Paradise  NV,9199,104,182,3581,2022
+Lexington-Fayette  KY,1460,34,60,1155,2022
+Lima  OH,106,0,3,0,2022
+Lincoln  NE,1132,30,11,2176,2022
+Little Rock-North Little Rock-Conway  AR,1863,56,3,1416,2022
+Pine Bluff  AR,39,0,0,24,2022
+Los Angeles-Long Beach-Anaheim  CA,11184,1626,414,19286,2022
+Oxnard-Thousand Oaks-Ventura  CA,474,20,27,847,2022
+Riverside-San Bernardino-Ontario  CA,12467,228,395,3657,2022
+Elizabethtown-Fort Knox  KY,506,66,15,584,2022
+Louisville-Jefferson County  KY-IN,3345,60,20,2031,2022
+Lubbock  TX,2325,246,28,680,2022
+Macon-Bibb County  GA,622,0,0,0,2022
+Warner Robins  GA,1445,0,0,1050,2022
+Janesville-Beloit  WI,286,34,0,76,2022
+Madison  WI,1530,158,55,3836,2022
+Mankato  MN,177,50,15,367,2022
+Mansfield  OH,115,12,57,63,2022
+McAllen-Edinburg-Mission  TX,3862,384,1170,510,2022
+Grants Pass  OR,246,36,0,56,2022
+Medford  OR,761,24,34,261,2022
+Memphis  TN-MS-AR,3486,2,0,814,2022
+Miami-Fort Lauderdale-Pompano Beach  FL,6970,290,133,12628,2022
+Port St. Lucie  FL,5043,334,115,2312,2022
+Sebastian-Vero Beach  FL,1141,30,12,0,2022
+Midland  TX,594,0,0,0,2022
+Odessa  TX,888,0,0,0,2022
+Milwaukee-Waukesha  WI,1557,352,8,1249,2022
+Racine  WI,145,18,0,0,2022
+Minneapolis-St. Paul-Bloomington  MN-WI,9114,192,194,14225,2022
+St. Cloud  MN,431,0,0,265,2022
+Daphne-Fairhope-Foley  AL,3141,32,4,240,2022
+Mobile  AL,738,0,12,0,2022
+Monroe  LA,340,94,24,31,2022
+Montgomery  AL,793,0,4,0,2022
+Morgantown  WV,11,0,0,0,2022
+Myrtle Beach-Conway-North Myrtle Beach  SC-NC,11526,50,20,387,2022
+Nashville-Davidson--Murfreesboro--Franklin  TN,15388,164,173,12467,2022
+New Bern  NC,552,2,0,136,2022
+Hammond  LA,869,8,0,581,2022
+New Orleans-Metairie  LA,3101,358,21,686,2022
+Bridgeport-Stamford-Norwalk  CT,603,52,6,1007,2022
+East Stroudsburg  PA,251,0,0,0,2022
+Kingston  NY,280,6,0,160,2022
+New Haven-Milford  CT,493,72,7,691,2022
+New York-Newark-Jersey City  NY-NJ-PA,12089,1342,733,44248,2022
+Poughkeepsie-Newburgh-Middletown  NY,889,12,39,852,2022
+Trenton-Princeton  NJ,165,0,7,471,2022
+North Port-Sarasota-Bradenton  FL,10987,372,59,4362,2022
+Punta Gorda  FL,4637,326,117,596,2022
+Oklahoma City  OK,5971,558,7,375,2022
+Omaha-Council Bluffs  NE-IA,2651,134,213,3122,2022
+Deltona-Daytona Beach-Ormond Beach  FL,6233,188,0,2115,2022
+Lakeland-Winter Haven  FL,9158,72,3,2978,2022
+Orlando-Kissimmee-Sanford  FL,16213,198,158,12114,2022
+The Villages  FL,3723,0,0,828,2022
+Parkersburg-Vienna  WV,66,0,0,0,2022
+Pensacola-Ferry Pass-Brent  FL,3343,14,0,162,2022
+Atlantic City-Hammonton  NJ,401,22,0,339,2022
+Dover  DE,1008,24,0,24,2022
+Ocean City  NJ,593,162,36,47,2022
+Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,8532,326,620,4935,2022
+Reading  PA,372,6,0,8,2022
+Vineland-Bridgeton  NJ,115,0,0,5,2022
+Phoenix-Mesa-Chandler  AZ,26857,1532,239,18639,2022
+Pittsburgh  PA,3184,86,116,2279,2022
+Weirton-Steubenville  WV-OH,33,0,0,0,2022
+Lewiston-Auburn  ME,238,4,0,242,2022
+Portland-South Portland  ME,2122,112,48,1482,2022
+Albany-Lebanon  OR,220,26,3,78,2022
+Corvallis  OR,174,2,0,110,2022
+Longview  WA,311,8,68,198,2022
+Portland-Vancouver-Hillsboro  OR-WA,6029,106,89,6754,2022
+Salem  OR,874,34,36,1873,2022
+Pueblo  CO,497,0,0,0,2022
+Durham-Chapel Hill  NC,3170,70,9,3143,2022
+Raleigh-Cary  NC,12488,48,8,9024,2022
+Rapid City  SD,620,8,20,997,2022
+Redding  CA,375,0,0,0,2022
+Carson City  NV,167,0,12,93,2022
+Reno  NV,2184,120,65,3443,2022
+Rochester  MN,641,6,55,1019,2022
+Rochester  NY,1179,86,142,1179,2022
+Rockford  IL,289,20,9,0,2022
+Rocky Mount  NC,427,0,0,0,2022
+Sacramento-Roseville-Folsom  CA,8170,188,115,2327,2022
+Yuba City  CA,592,28,0,118,2022
+Bay City  MI,67,0,0,0,2022
+Midland  MI,108,22,0,0,2022
+Saginaw  MI,143,12,0,20,2022
+St. Louis  MO-IL,4743,94,92,4202,2022
+Salisbury  MD-DE,4235,214,10,460,2022
+Ogden-Clearfield  UT,2972,8,156,1891,2022
+Provo-Orem  UT,5153,152,158,2824,2022
+Salt Lake City  UT,3992,84,94,5932,2022
+San Antonio-New Braunfels  TX,10226,192,183,13738,2022
+Merced  CA,373,2,3,352,2022
+Modesto  CA,636,6,3,29,2022
+Napa  CA,220,2,6,872,2022
+San Francisco-Oakland-Berkeley  CA,3370,84,154,7596,2022
+San Jose-Sunnyvale-Santa Clara  CA,3899,22,8,4278,2022
+Santa Cruz-Watsonville  CA,403,2,3,200,2022
+Santa Rosa-Petaluma  CA,954,4,7,1299,2022
+Stockton  CA,3163,28,0,560,2022
+Vallejo  CA,948,0,0,206,2022
+Hinesville  GA,768,4,0,72,2022
+Savannah  GA,2228,136,93,737,2022
+Bremerton-Silverdale-Port Orchard  WA,1041,8,50,602,2022
+Mount Vernon-Anacortes  WA,261,16,35,267,2022
+Olympia-Lacey-Tumwater  WA,584,22,19,913,2022
+Seattle-Tacoma-Bellevue  WA,7029,934,718,17980,2022
+Shreveport-Bossier City  LA,915,0,0,0,2022
+Elkhart-Goshen  IN,327,0,0,60,2022
+Niles  MI,260,22,0,5,2022
+South Bend-Mishawaka  IN-MI,429,4,0,309,2022
+Coeur dAlene  ID,1206,50,18,765,2022
+Spokane-Spokane Valley  WA,2022,148,56,1796,2022
+Springfield  IL,146,22,0,42,2022
+State College  PA,291,12,16,338,2022
+Syracuse  NY,466,22,0,92,2022
+Toledo  OH,653,14,16,436,2022
+Tucson  AZ,3735,62,12,1905,2022
+Tulsa  OK,3843,42,24,1214,2022
+Tyler  TX,701,62,32,35,2022
+Victoria  TX,204,0,0,0,2022
+Virginia Beach-Norfolk-Newport News  VA-NC,3680,34,15,2584,2022
+Baltimore-Columbia-Towson  MD,2832,10,6,3740,2022
+California-Lexington Park  MD,238,0,0,0,2022
+Chambersburg-Waynesboro  PA,312,30,12,56,2022
+Hagerstown-Martinsburg  MD-WV,1854,26,0,268,2022
+Washington-Arlington-Alexandria  DC-VA-MD-WV,11657,80,20,20636,2022
+Winchester  VA-WV,741,0,0,300,2022
+Wausau-Weston  WI,351,12,0,124,2022
+Wichita  KS,1586,806,62,396,2022
+Williamsport  PA,70,0,0,43,2022
+Youngstown-Warren-Boardman  OH-PA,347,2,3,12,2022
+Abilene  TX,473,52,0,274,2022
+Albany  GA,169,0,0,33,2022
+Alexandria  LA,313,40,0,0,2022
+Allentown-Bethlehem-Easton  PA-NJ,1586,28,20,675,2022
+Anchorage  AK,166,10,8,29,2022
+Anniston-Oxford  AL,76,2,0,0,2022
+Augusta-Richmond County  GA-SC,3429,6,89,666,2022
+Austin-Round Rock-Georgetown  TX,19717,326,142,22179,2022
+Bakersfield  CA,2471,26,7,184,2022
+Bangor  ME,349,50,31,0,2022
+Baton Rouge  LA,3481,22,3,267,2022
+Beaumont-Port Arthur  TX,1338,24,0,6,2022
+Beckley  WV,104,0,0,0,2022
+Bellingham  WA,810,10,78,716,2022
+Billings  MT,881,72,0,249,2022
+Binghamton  NY,152,0,0,300,2022
+Bismarck  ND,378,90,70,72,2022
+Blacksburg-Christiansburg  VA,377,16,0,107,2022
+Brunswick  GA,880,88,63,537,2022
+Carbondale-Marion  IL,67,4,69,10,2022
+Casper  WY,133,10,4,60,2022
+Champaign-Urbana  IL,313,0,32,575,2022
+Charleston-North Charleston  SC,6329,2,32,2960,2022
+Charlottesville  VA,1017,4,20,459,2022
+Cheyenne  WY,375,0,144,644,2022
+Chico  CA,989,50,48,766,2022
+Clarksville  TN-KY,1501,44,409,2139,2022
+College Station-Bryan  TX,1545,24,40,166,2022
+Colorado Springs  CO,3646,236,20,4942,2022
+Crestview-Fort Walton Beach-Destin  FL,2784,80,36,1222,2022
+Cumberland  MD-WV,63,0,3,0,2022
+Danville  IL,2,0,0,0,2022
+Decatur  IL,21,0,0,0,2022
+Dubuque  IA,155,2,6,0,2022
+Duluth  MN-WI,560,14,0,187,2022
+El Centro  CA,379,4,0,168,2022
+Enid  OK,46,0,0,0,2022
+Eugene-Springfield  OR,865,24,8,862,2022
+Evansville  IN-KY,807,132,0,247,2022
+Fairbanks  AK,27,0,0,0,2022
+Farmington  NM,138,0,0,5,2022
+Fayetteville-Springdale-Rogers  AR-MO,5435,174,174,1463,2022
+Flagstaff  AZ,407,4,0,327,2022
+Florence  SC,697,44,3,15,2022
+Florence-Muscle Shoals  AL,204,44,0,26,2022
+Fond du Lac  WI,142,0,0,0,2022
+Fort Collins  CO,1385,40,41,1106,2022
+Fort Smith  AR-OK,408,144,58,122,2022
+Gadsden  AL,157,0,0,0,2022
+Goldsboro  NC,344,2,0,72,2022
+Grand Forks  ND-MN,165,0,0,0,2022
+Grand Island  NE,179,32,23,0,2022
+Grand Junction  CO,668,8,0,293,2022
+Great Falls  MT,198,8,0,337,2022
+Gulfport-Biloxi  MS,2695,12,8,188,2022
+Hickory-Lenoir-Morganton  NC,1799,28,0,810,2022
+Hilton Head Island-Bluffton  SC,2639,8,50,254,2022
+Homosassa Springs  FL,1620,8,0,0,2022
+Houma-Thibodaux  LA,762,52,6,52,2022
+Jackson  MI,141,0,0,0,2022
+Jacksonville  NC,1212,32,6,72,2022
+Jefferson City  MO,163,8,8,0,2022
+Kahului-Wailuku-Lahaina  HI,284,62,0,338,2022
+Killeen-Temple  TX,2677,502,0,837,2022
+La Crosse-Onalaska  WI-MN,212,48,12,129,2022
+Lake Havasu City-Kingman  AZ,1962,82,35,0,2022
+Lancaster  PA,945,42,34,408,2022
+Lansing-East Lansing  MI,474,10,24,464,2022
+Laredo  TX,1170,16,86,0,2022
+Lawton  OK,79,0,0,0,2022
+Lewiston  ID-WA,124,10,0,0,2022
+Logan  UT-ID,787,4,4,313,2022
+Longview  TX,351,50,52,292,2022
+Lynchburg  VA,499,4,16,286,2022
+Manhattan  KS,242,6,4,49,2022
+Missoula  MT,347,20,15,696,2022
+Ocala  FL,5318,4,0,1167,2022
+Owensboro  KY,219,16,7,5,2022
+Palm Bay-Melbourne-Titusville  FL,4255,2,36,965,2022
+Panama City  FL,2104,16,9,159,2022
+Peoria  IL,169,2,0,120,2022
+Pittsfield  MA,112,10,4,0,2022
+Pocatello  ID,284,24,113,121,2022
+Prescott Valley-Prescott  AZ,1745,140,0,481,2022
+Richmond  VA,4503,132,13,5766,2022
+Roanoke  VA,452,4,0,315,2022
+St. George  UT,2486,0,40,670,2022
+Salinas  CA,611,18,63,394,2022
+San Angelo  TX,322,0,0,0,2022
+San Diego-Chula Vista-Carlsbad  CA,3517,114,374,5341,2022
+San Luis Obispo-Paso Robles  CA,634,22,36,419,2022
+Santa Maria-Santa Barbara  CA,376,8,23,689,2022
+Scranton--Wilkes-Barre  PA,525,26,12,46,2022
+Sebring-Avon Park  FL,641,22,0,0,2022
+Sheboygan  WI,118,28,0,0,2022
+Sierra Vista-Douglas  AZ,508,2,11,8,2022
+Sioux City  IA-NE-SD,282,4,34,129,2022
+Sioux Falls  SD,1626,24,234,3670,2022
+Springfield  MA,431,30,4,275,2022
+Springfield  MO,1415,44,18,229,2022
+Sumter  SC,402,64,0,36,2022
+Tallahassee  FL,1393,18,0,1645,2022
+Tampa-St. Petersburg-Clearwater  FL,15678,200,798,13293,2022
+Terre Haute  IN,118,20,24,54,2022
+Texarkana  TX-AR,130,18,8,5,2022
+Topeka  KS,413,16,0,0,2022
+Tuscaloosa  AL,714,4,54,271,2022
+Twin Falls  ID,483,22,0,100,2022
+Urban Honolulu  HI,652,144,0,1757,2022
+Utica-Rome  NY,244,0,4,76,2022
+Valdosta  GA,1280,22,0,0,2022
+Visalia  CA,1420,46,0,919,2022
+Waco  TX,920,50,0,379,2022
+Waterloo-Cedar Falls  IA,187,30,4,43,2022
+Watertown-Fort Drum  NY,176,0,3,0,2022
+Wenatchee  WA,570,10,36,245,2022
+Wheeling  WV-OH,14,4,0,0,2022
+Wichita Falls  TX,162,0,0,216,2022
+Wilmington  NC,2489,142,14,1776,2022
+Yakima  WA,426,40,81,159,2022
+Yuma  AZ,728,22,4,98,2022
